@@ -1,34 +1,72 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import { useEffect, useState, CSSProperties, Fragment } from 'react'
 import './App.css'
+import { getRandomNumber } from './helpers';
+import ClockLoader from "react-spinners/ClockLoader";
+import Questionaries from './components/Questionaries';
+
+import { IQuestions } from './interfaces/IQuestions';
+
+import Solutions from './assets/miscelaneas/data/Miscelanea Solutions.json';
+
+const override: CSSProperties = {
+  display: "block",
+  margin: "0 auto",
+  color: "#36d7b7",
+};
 
 function App() {
-  const [count, setCount] = useState(0)
+
+  const [ fetching, setFetching ] = useState(false);
+  const [ loading, setLoading ] = useState(true);
+  const [ jsonData, setJsonData ] = useState({} as IQuestions);
+
+  useEffect(() => {
+    if (fetching) return;
+    const randomNumber = getRandomNumber();
+    setFetching(true);
+    const fetchJsonData = async () => {
+      try {
+        const response = await fetch(`data/Miscelanea ${randomNumber}.json`);
+        const data = await response.json();
+        const file = Solutions.questions.find(f => f.file === `M-${randomNumber}`);
+        const newFormData = {
+            ...data,
+            questions: data.questions.map((el: any, index: number) => ({ ...el, id: index, selected: '', valid: file?.solutions[index] }))
+        };
+        setJsonData(newFormData);
+      } catch (error) {
+        console.error('Error al cargar el JSON:', error);
+      } finally {
+        setTimeout(() => setLoading(false), 3500);
+      }
+    };
+
+    setFetching(false);
+    fetchJsonData();
+    return () => {
+      // Función de limpieza, no realizará ninguna acción
+    };
+  }, []);
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
+    <main>
+      <h1>Cuestionario Oposiciones</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+        {loading && 
+          <Fragment>
+            <ClockLoader
+              color={"#36d7b7"}
+              loading={loading}
+              cssOverride={override}
+              size={150}
+              aria-label="Loading Spinner"
+              data-testid="loader"
+            />
+            <p>Estamos cargando las preguntas aleatoriamente</p>
+          </Fragment>}
+        {!loading && <Questionaries data={jsonData}/>}
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </main>
   )
 }
 
