@@ -1,0 +1,215 @@
+{
+    "questions": [
+        {
+            "question": "1.- \u00bfQui\u00e9n puede delegar en el Gobierno la potestad de dictar normas con rango de ley",
+            "options": [
+                "A.- Las Cortes General.  ",
+                "B.- El Congreso . ",
+                "C.- El Senado . ",
+                "D.- No es posible delegar dicha potestad. .  "
+            ]
+        },
+        {
+            "question": "2.- \u00bfQu\u00e9 nombre recibir\u00e1n las disposiciones del Gobierno que contengan legislaci\u00f3n delegada?",
+            "options": [
+                "A.- Decretos legislativos.  ",
+                "B.- Decreto -leyes.  ",
+                "C.- Real Decreto.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "3.- \u00bfUn uso jur\u00eddico tiene la consideraci\u00f3n de costumbre ?",
+            "options": [
+                "A.- No. ",
+                "B.- No salvo si es meramente interpretativo de una declaraci\u00f3n de voluntad.  ",
+                "C.- No salvo si no se reduce a la mera interpretaci\u00f3n de una declaraci\u00f3n de voluntad.  ",
+                "D.- Si, en todo caso.  "
+            ]
+        },
+        {
+            "question": "4.- Conforme el Real Decreto 11 25/2003, el haber acad\u00e9mico que representa el cumplimiento",
+            "options": [
+                "A.- CETS.  ",
+                "B.- ECS.  ",
+                "C.- ECTS.   ",
+                "D.- STCE.  "
+            ]
+        },
+        {
+            "question": "5.- De acuerdo con el art\u00edculo 3 del Real Decreto  22/2015, la primera expedici\u00f3n del Suplemento",
+            "options": [
+                "A.- Gratuito .  ",
+                "B.- Improcedente.  ",
+                "C.- Oneroso.  ",
+                "D.- Recaudatorio, de acuerdo con el coste de prestaci\u00f3n del servicio.  "
+            ]
+        },
+        {
+            "question": "6.- Seg\u00fan el art\u00edculo 4 de la Ley Org\u00e1nica de Universidades, la creaci\u00f3n de una Universidad",
+            "options": [
+                "A.- Por Decreto Ley del Gobierno de la Comunidad Aut\u00f3noma en cuyo \u00e1mbito territorial haya ",
+                "B.- Por Decreto Ley del Gobi erno de la Naci\u00f3n.  ",
+                "C.- Por Ley de las Cortes Generales, a propuesta del Gobierno, de acuerdo con el Consejo de ",
+                "D.- Por decisi\u00f3n de personas f\u00edsicas o jur\u00eddicas, dentro del respeto a los principios "
+            ]
+        },
+        {
+            "question": "7.- De acuerdo con el art\u00edculo 52 de la LOU,  el contrato que se celebrar\u00e1 con doctores que",
+            "options": [
+                "A.- Profesores em\u00e9ritos doctores.  ",
+                "B.- Profesores contratados doctores.   ",
+                "C.- Profesores asociados doctores.  ",
+                "D.- Profesores visitantes doctores.  "
+            ]
+        },
+        {
+            "question": "8.- Los procedimientos ordinarios de adjudicaci\u00f3n de los contratos de la Administraci\u00f3n P\u00fablica ,",
+            "options": []
+        },
+        {
+            "question": "9.- \u00bfQu\u00e9 cap\u00edtulo del estado de gastos se ha activado por primera vez, para el ejercicio 2022, en",
+            "options": [
+                "A.- IV. ",
+                "B.- V.  ",
+                "C.- VI. ",
+                "D.- VII. "
+            ]
+        },
+        {
+            "question": "10.- De acuerdo con el PORHUMA \u00bfCu\u00e1l de los siguientes complementos se encuentra establecido como parte de la carrera horizontal del personal de la Universidad de M\u00e1laga?",
+            "options": [
+                "A.- Complemento de mayor dedicaci\u00f3n .  ",
+                "B.- Complemento de jornada partida .  ",
+                "C.- Complemento de Direcci\u00f3n y Subdirecci\u00f3n de Servicio . ",
+                "D.- Complemento por desempe\u00f1o de cargo acad\u00e9mico.  "
+            ]
+        },
+        {
+            "question": "11.- De acuerdo con lo establecido en el art\u00edculo 10 de la Ley 40/2015, la avocaci\u00f3n se realizar\u00e1",
+            "options": [
+                "A.- Mediante acuerdo del \u00f3rgano que avoca.  ",
+                "B.- Mediante resoluci\u00f3n del \u00f3rgano que avoca.  ",
+                "C.- Mediante orden del \u00f3rgano que avoca.  ",
+                "D.- Mediante instrucci\u00f3n del \u00f3rgano que avoca.  "
+            ]
+        },
+        {
+            "question": "12.- De acuerdo con la ley 40/2015, tendr\u00e1n consideraci\u00f3n de  \u00f3rganos administrativos:",
+            "options": [
+                "A.- Todas las unidades administrativas.  ",
+                "B.- Las unidades administrativas a las que se les atribuyan funciones que tengan efectos ",
+                "C.- Las unidades administrativas cuya actuaci\u00f3n tenga car\u00e1cter preceptivo o facultativo.  ",
+                "D.- Las unidades administrativas cuya actuaci\u00f3n tengan efectos econ\u00f3micos frente a "
+            ]
+        },
+        {
+            "question": "13.- Respecto al recurso de alzada, transcurrido el plazo para dictar y notificar resoluci\u00f3n sin que",
+            "options": [
+                "A.- Se podr\u00e1 entender estimado el recurso . ",
+                "B.- Se podr\u00e1  entender desestimado el recurso.  ",
+                "C.- Se producir\u00e1 la caducidad del recurso . ",
+                "D.- Se producir\u00e1 la suspensi\u00f3n del procedimiento . "
+            ]
+        },
+        {
+            "question": "14.- Los actos administrativos que pongan fin a la v\u00eda administrativa podr\u00e1n ser recurridos:",
+            "options": [
+                "A.- En alzada.  ",
+                "B.- Potestativamente en reposici\u00f3n.  ",
+                "C.- En alzada y potestativamente en reposici\u00f3n.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta  "
+            ]
+        },
+        {
+            "question": "15.- Seg\u00fan el art\u00edculo 98 del EBEP, s e llevar\u00e1 a cabo por procedimiento sumario con audiencia al",
+            "options": [
+                "A.- Faltas muy graves y graves.  ",
+                "B.- Faltas muy graves.  ",
+                "C.- Faltas graves y leves.  ",
+                "D.- Faltas leves.  "
+            ]
+        },
+        {
+            "question": "16.- Respecto a la suspensi\u00f3n provisional:",
+            "options": [
+                "A.- No podr\u00e1 acordarse durante la tramitaci\u00f3n de un procedimiento judicial.  ",
+                "B.- Se mantendr\u00e1 por el tiempo a que se extienda la prisi\u00f3n provisional.  ",
+                "C.- Si excediera de 6 meses supondr\u00e1 p\u00e9rd ida del puesto de trabajo.  ",
+                "D.- Todas las respuestas anteriores son correctas.  "
+            ]
+        },
+        {
+            "question": "17.- De acuerdo con lo establecido en el art\u00edculo 67 de la LAU, \u201caquel que desarrolla un periodo",
+            "options": [
+                "A.- El personal investigador en formaci\u00f3n.  ",
+                "B.- Un Ayudante.  ",
+                "C.- Un Profesor colaborador.  ",
+                "D.- Un Colaborador honorario.  "
+            ]
+        },
+        {
+            "question": "18.- De acuerdo con a LAU, l a programaci\u00f3n universitaria ser\u00e1 elaborada por la Consejer\u00eda",
+            "options": [
+                "A.- Cinco a\u00f1os.  ",
+                "B.- Cuatro a\u00f1os.  ",
+                "C.- Tres a\u00f1os.  ",
+                "D.- Dos a\u00f1os.  "
+            ]
+        },
+        {
+            "question": "19.- De acuerdo con lo establecido en el art\u00edculo 13 del Real Decreto 889/2021, e n el supuesto",
+            "options": [
+                "A.- B1. ",
+                "B.- B2 . ",
+                "C.- C1. ",
+                "D.- C2. "
+            ]
+        },
+        {
+            "question": "20.- De acuerdo con Real Decreto 412/2014 \u00bfA qui\u00e9n corresponde establecer los criterios de valoraci\u00f3n, las reglas que vayan a aplicar para establecer el orden de prelaci\u00f3n en la",
+            "options": [
+                "A.- Al Gobierno.  ",
+                "B.- A las Comunidades Aut\u00f3nomas.  ",
+                "C.- A las Universidades.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "21.- El alumnado que haya cursado las  ense\u00f1anzas reguladas mediante el Real Decreto",
+            "options": [
+                "A.- Historia de Espa\u00f1a y Primera Lengua Extranjera.  ",
+                "B.- Historia de la Filosof\u00eda y una o varias asignaturas de modalidad.  ",
+                "C.- Lengua Castellana y Literatura y Geograf\u00eda.  ",
+                "D.- Matem\u00e1ticas y Biolog\u00eda.  Miscel\u00e1nea 53  "
+            ]
+        },
+        {
+            "question": "22.- Qui\u00e9n quiera mejorar su nota de admisi\u00f3n a la Universidad se podr\u00e1 examinar con car\u00e1cter",
+            "options": [
+                "A.- 5 materias.  ",
+                "B.- 4 materias.  ",
+                "C.- 3 materias.  ",
+                "D.- No hay l\u00edmite en cuanto a las materias.  "
+            ]
+        },
+        {
+            "question": "24.- De acuerdo con el art\u00edculo 5 del R.D. 822/2021, la organizaci\u00f3n de las ense\u00f1anzas de master",
+            "options": [
+                "A.- A cu\u00e1l de ellas corresponde la coordinaci\u00f3n.  ",
+                "B.- Universidad que ser\u00e1 responsable de la presentaci\u00f3n de la memoria.  ",
+                "C.- Participaci\u00f3n de cada universidad en la docencia a trav\u00e9s de su respectivo profesorado . ",
+                "D.- Todas las respuestas anteriores son correctas .  "
+            ]
+        },
+        {
+            "question": "25.- \u00bfD\u00f3nde se fijar\u00e1 con car\u00e1cter general para todas las titulaciones oficiales impartidas en la",
+            "options": [
+                "A.- En el correspondiente tabl\u00f3n de anuncios.  ",
+                "B.- En el calendario acad\u00e9mico de cada curso.   ",
+                "C.- El programa oficial de cada titulaci\u00f3n.  ",
+                "D.- En la p\u00e1gina web de la Universidad.  "
+            ]
+        }
+    ]
+}

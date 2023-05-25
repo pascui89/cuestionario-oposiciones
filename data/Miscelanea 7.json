@@ -1,0 +1,229 @@
+{
+    "questions": [
+        {
+            "question": "1.- Una vez iniciado un expediente disciplinario \u00bfCu\u00e1l ser\u00e1 el plazo para alegar contra el pliego de",
+            "options": [
+                "A.- Un mes.  ",
+                "B.- Quince d\u00edas. ",
+                "C.- Diez d\u00edas.  ",
+                "D.- Ese plazo no existe, ya que las alegaciones se realizar\u00e1n antes de que el Instructor eleve al "
+            ]
+        },
+        {
+            "question": "2.- \u00bfCu\u00e1l es el plazo para dictar y notificar la resoluci\u00f3n de un recurso de alzada?",
+            "options": [
+                "A.- Un mes.  ",
+                "B.- Dos meses.  ",
+                "C.- Tres meses.  ",
+                "D.- Solo existe plazo para resolver, no para dictar y notificar la resoluci\u00f3n.  "
+            ]
+        },
+        {
+            "question": "3.- La duraci\u00f3n del contrato de profesor asociado no podr\u00e1 ser:",
+            "options": [
+                "A.- Por curso acad\u00e9mico.  ",
+                "B.- Quinquenal. ",
+                "C.- Bimestral.  ",
+                "D.- Todas las respuestas anteriores son correctas.  "
+            ]
+        },
+        {
+            "question": "4.- En relaci\u00f3n con la implantaci\u00f3n, suspensi\u00f3 n y supresi\u00f3n de ense\u00f1anzas conducentes a la",
+            "options": [
+                "A.- Capacidad de propuesta. ",
+                "B.- Capacidad de informe.  ",
+                "C.- Que ser informado de dichas propuestas. ",
+                "D.- Que asesorar dichas propuestas.  "
+            ]
+        },
+        {
+            "question": "5.- La falta o insuficiente acreditaci\u00f3n de la representaci\u00f3n no impedir\u00e1 que se tenga por realizado",
+            "options": [
+                "A.- 10 d\u00edas.   ",
+                "B.- 15 d\u00edas.  ",
+                "C.- Un mes.  ",
+                "D.- Establecido por cada Administraci\u00f3n en funci\u00f3n de los distintos procedimientos. "
+            ]
+        },
+        {
+            "question": "6.- Los planes de estudios conducentes a la obtenci\u00f3n de los t\u00edtulos de M\u00e1ster Universitario tendr\u00e1n",
+            "options": [
+                "A.- 120 y 180 cr\u00e9ditos.  ",
+                "B.- 60 y 120 cr\u00e9ditos.  ",
+                "C.- 60 y 90 cr\u00e9ditos.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta .  "
+            ]
+        },
+        {
+            "question": "7.- \u00bfQui\u00e9n est\u00e1 obligado, en el caso de un acto de ejecuci\u00f3n material de resoluciones, a notificar al",
+            "options": [
+                "A.- Un \u00f3rgano administrativo. ",
+                "B.- El funcionario responsable de la tramitaci\u00f3n del acto correspondiente.  ",
+                "C.- El \u00f3rgano que orden\u00f3 dicho acto.  ",
+                "D.- El \u00f3rgano competente.  "
+            ]
+        },
+        {
+            "question": "8.- \u00bfD\u00f3nde se encontrar\u00e1n recogidos los criterios para la determinaci \u00f3n de las asignaturas a",
+            "options": [
+                "A.- En el Plan de Ordenaci\u00f3n Docente General de la Universidad de M\u00e1laga.  ",
+                "B.- En el correspondiente plan de estudios.  ",
+                "C.- En la programaci\u00f3n docente del centro. ",
+                "D.- En las directrices generales propias del t\u00edtulo acad\u00e9mico.  "
+            ]
+        },
+        {
+            "question": "9.- El acto de defensa de la tesis doctoral, de acuerdo con el Reglamento de los Estudios de",
+            "options": [
+                "A.- A los miembros del Tribunal.  ",
+                "B.- Al \u00f3rgano responsable del programa. ",
+                "C.- A la comisi\u00f3n de estudios de postgrado.  ",
+                "D.- A la Comisi\u00f3n de Posgrado.  "
+            ]
+        },
+        {
+            "question": "10.- Producido el cese o dimisi\u00f3n del Director de un Departamento, y contando desde esa fecha, \u00e9ste",
+            "options": [
+                "A.- Un mes.  ",
+                "B.- Treinta d\u00edas lectivos.  ",
+                "C.- Treinta d\u00edas naturales  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "11.- En la Universidad de M\u00e1laga \u00bfCu\u00e1l de los siguientes no podr\u00e1 participar en un \u00f3rgano de selecci\u00f3n, de acuerdo con lo establecido en el Estatuto B\u00e1sico de la Funci\u00f3n P\u00fablica?",
+            "options": [
+                "A.- Un funcionario en comisi\u00f3n de servicios. ",
+                "B.- Personal laboral perteneciente a cualquier categor\u00eda.  ",
+                "C.- El Secretario General.  ",
+                "D.- Todos los anteriores podr\u00e1n participar en un \u00f3rgano de selecci\u00f3n.  "
+            ]
+        },
+        {
+            "question": "12.- Los proyectos de reforma total o parcial de los estatutos, podr\u00e1n ser presentados al Claustro por al menos:",
+            "options": [
+                "A.- 1/3 de los miembros del Claustro  ",
+                "B.- 2/3 de los miembros del Claustro  ",
+                "C.- Una mayor\u00eda absoluta de los miembros del Claustro  ",
+                "D.- 1/3 de los miembros del Consejo de Gobierno.  "
+            ]
+        },
+        {
+            "question": "13.- \u00bfQu\u00e9 obligaci\u00f3n tiene el \u00f3rgano competente para redactar la propuesta de resoluci\u00f3n de un",
+            "options": [
+                "A.- Deber \u00e1 tenerlas en cuenta.  ",
+                "B.- Deber\u00e1 incorporarlas en la correspondiente propuesta de resoluci\u00f3n. ",
+                "C.- Podr\u00e1 ignorarlas, salvo que se trate de defectos de tramitaci\u00f3n y, en especial, los que ",
+                "D.- Ninguna.  "
+            ]
+        },
+        {
+            "question": "14.- Dentro de la Universidad de M\u00e1laga \u00bfA qui\u00e9n corresponde evaluar las investigaciones que se",
+            "options": [
+                "A.- Al Consejo de Gobierno.  ",
+                "B.- Al Vicerrector que asuma las competencias en investigaci\u00f3n.  ",
+                "C.- Al Gerente.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "15.- La Universidad de M\u00e1laga podr\u00e1 contratar entre especialistas de reconocida competencia que acrediten ejercer su actividad  profesional fuera de la Universidad a:",
+            "options": [
+                "A.- Profesores Ayudantes.  ",
+                "B.- Profesores Asociados.  ",
+                "C.- Profesores Contratados doctores.  ",
+                "D.- Profesores Visitantes.  "
+            ]
+        },
+        {
+            "question": "16.- Los expedientes de contrataci\u00f3n en la Universidad de M\u00e1laga pueden ser:",
+            "options": [
+                "A.- Ordinarios, urgentes y de emergencia.  ",
+                "B.- Ordinarios y urgentes.  ",
+                "C.- Ordinarios y extraordinarios.  ",
+                "D.- Por obras, suministros y trabajos de consultor\u00eda y asesor\u00eda.  "
+            ]
+        },
+        {
+            "question": "17.- La finalidad principal de un contrato de ayudante es:",
+            "options": [
+                "A.- La obtenci\u00f3n del t\u00edtulo de doctor.  ",
+                "B.- Completar la formaci\u00f3n docente e investigadora de quienes los suscriban.  ",
+                "C.- Completar la formaci\u00f3n de alumno.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "18.- \u00bfA cu\u00e1l de los siguientes principios no ten dr\u00e1 obligaci\u00f3n de sujeci \u00f3n una Administraci\u00f3n P\u00fablica",
+            "options": [
+                "A.- Publicidad. ",
+                "B.- Responsabilidad.  ",
+                "C.- Igualdad en el acceso.  ",
+                "D.- Neutralidad. "
+            ]
+        },
+        {
+            "question": "19.- \u00bfQu\u00e9 ocurre en el caso de no aprobarse el presupuesto de la Universidad antes del primer d\u00eda",
+            "options": [
+                "A.- Se paraliza la actividad econ\u00f3mica en la Universidad.  ",
+                "B.- Se considerar\u00e1 autom\u00e1ticamente prorrogado el del ejercicio anterior.  ",
+                "C.- El Consejo d e Gobierno tiene treinta d\u00edas para realizar las modificaciones sugeridas por el ",
+                "D.- Se estar\u00e1 a lo dispuesto en las normas presupuestarias de la Comunidad Aut\u00f3noma.  "
+            ]
+        },
+        {
+            "question": "20.- \u00bfQui\u00e9n resuelve una solicitud de anulaci\u00f3n de matr\u00edcula?",
+            "options": [
+                "A.- Al Rector.  ",
+                "B.- Al Decano o Director del Centro.  ",
+                "C.- Al Decano por delegaci\u00f3n del Rector. ",
+                "D.- El Secretario General.  "
+            ]
+        },
+        {
+            "question": "21.- Se crea en el Ministerio de Educaci\u00f3n el Registro Nacio nal de Titulados Universitarios Oficiales",
+            "options": [
+                "A.- Car\u00e1cter previo .  ",
+                "B.- Posterioridad a su expedici\u00f3n.  ",
+                "C.- En cualquier momento, una vez adjudicado n\u00famero de registro . ",
+                "D.- Ninguna de las respu estas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "22.- La media del expediente acad\u00e9mico de cada alumno, en el \u00e1mbito del espacio europeo de",
+            "options": [
+                "A.- Suma de los cr\u00e9ditos obtenidos por el alumno multiplicados cada uno  de ellos por el valor de ",
+                "B.- Suma de los cr\u00e9ditos superados multiplicados cada uno de ellos por el valor de la calificaci\u00f3n que corresponda y divid ido por el n\u00famero de cr\u00e9ditos totales de la ense\u00f1anza ",
+                "C.- Suma de todas las calificaciones de las asignaturas necesarias para la obtenci\u00f3n del correspondiente t\u00edtulo, divididas por el n\u00famero total de dichas asignaturas.  ",
+                "D.- Suma de los cr\u00e9ditos necesarios superados multiplicados cada uno de ellos por el valor de la "
+            ]
+        },
+        {
+            "question": "23.- Los registros electr\u00f3nicos se regir\u00e1n a efectos de c\u00f3mputo de los plazos imputables tanto a los interesados como a las Administraciones P\u00fablicas por  la fecha y hora oficial:",
+            "options": [
+                "A.- Que determine el Gobierno.  ",
+                "B.- De la sede electr\u00f3nica.  ",
+                "C.- Del Real Instituto y Observatorio de la Armada.  ",
+                "D.- Depender\u00e1 de la Comunidad Aut\u00f3noma en la que nos encontremos. "
+            ]
+        },
+        {
+            "question": "24.- En el caso de directrices para el dise\u00f1o de t\u00edtulos de master universitario y se trate de t\u00edtulos que",
+            "options": [
+                "A.- Al Gobierno.  ",
+                "B.- Al Ministerio de Educaci\u00f3n y Ciencia.  ",
+                "C.- Al Consejo de Universidades, o\u00edda la ANECA.  ",
+                "D.- Ninguna de las respuestas anteriores es correcta.  "
+            ]
+        },
+        {
+            "question": "25.- Si la pir\u00e1mide normativa se encuentra dividida en cinco niveles, ordenados de mayor a menor",
+            "options": [
+                "A.- Segundo.  ",
+                "B.- Tercero.  ",
+                "C.- Cuarto.  ",
+                "D.- Primero.  "
+            ]
+        }
+    ]
+}

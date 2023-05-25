@@ -1,0 +1,238 @@
+{
+    "questions": [
+      {
+        "question": "¿En qué artículo de la Constitución Española se reconocer la autonomía de las Universidades?",
+        "options": [
+          "A.‐ 27.3.",
+          "B.‐ 27.5.",
+          "C.‐ 27.10.",
+          "D.‐ 27.11."
+        ]
+      },
+      {
+        "question": "1.‐ ¿En qué artículo de la Constitución Española se reconocer la autonomía de las Universidades?",
+        "options": [
+          "A.‐ 27.3.",
+          "B.‐ 27.5.",
+          "C.‐ 27.10.",
+          "D.‐ 27.11."
+        ]
+      },
+      {
+        "question": "2.‐ Las Universidades podrán  crear escuelas de  doctorado de acuerdo con lo previsto en  su\npropia  normativa  y  en  la  respectiva  Comunidad  Autónoma,  su  creación  deberá  ser\nnotificada al Ministerio de Educación, a efectos de su inscripción en:",
+        "options": [
+          "A.‐ El Registro de Universidades y Facultades.",
+          "B.‐ La ANECA.",
+          "C.‐ El Consejo de Universidades.",
+          "D.‐ El Registro de Universidades, Centros y Títulos."
+        ]
+      },
+      {
+        "question": "3.‐ Sin perjuicio de la aplicación de lo dispuesto en la legislación sobre Patrimonio Histórico\nEspañol, los actos de disposición de las Universidades Públicas de bienes inmuebles y de los\nmuebles de extraordinario valor serán acordados, según la Ley Andaluza de Universidades,\ncuando su valor exceda del uno por ciento del Presupuesto de la Universidad:",
+        "options": [
+          "A.‐Por el Rector, previa autorización de la Consejería de la que dependa la Universidad.",
+          "B.‐ Por el Consejo de Gobierno de la Universidad.",
+          "C.‐ Por el Claustro Universitario.",
+          "D.‐ Por el Consejo Social."
+        ]
+      },
+      {
+        "question": "4.‐ Los  aspectos  relativos  a  los  derechos  de  propiedad  intelectual  o  industrial  que  puedan\ngenerarse  en  el  ámbito  del  programa  de  doctorado,  de  acuerdo  con  el  artículo  47  del\nReglamento 4/2022, se recogerán en:",
+        "options": [
+          "A.‐ El documento de actividades del doctorado.",
+          "B.‐ El compromiso documental de supervisión.",
+          "C.‐ El plan de investigación.",
+          "D.‐ El compendio de informes y documentos."
+        ]
+      },
+      {
+        "question": "5.‐ Para pertenecer a las comisiones que valoren las solicitudes de acreditación para el acceso a los cuerpos docentes universitarios, los catedráticos de universidad y personal investigador con categoría equivalente deberán haber obtenido el reconocimiento de:",
+        "options": [
+          "A.‐ Tres períodos de actividad investigadora.",
+          "B.‐ Cuatro períodos de actividad investigadora.",
+          "C.‐ Cinco periodos de actividad investigadora.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "6.‐ Es un deber específico del personal docente y/o investigador de la Universidad de Málaga:",
+        "options": [
+          "A.‐ Participar y ser evaluado conforme a los procedimientos y sistemas de evaluación que establezca el Consejo de Gobierno.",
+          "B.‐ Cumplir la legislación universitaria y los presentes Estatutos, así como las disposiciones y acuerdos de los órganos de gobierno y representación universitarios, cooperando con los mismos para lograr la mayor eficacia en la prestación del servicio público de educación superior.",
+          "C.‐ Tratar con dignidad y la debida consideración y respeto al estudiantado y al resto de la comunidad universitaria.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "7.‐ En relación al profesorado de una Universidad Privada ¿Con qué porcentaje de doctores debe de contar?",
+        "options": [
+          "A.‐ 50%",
+          "B.‐ 60%",
+          "C.‐ 70%",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "8.‐ El edad mínima para acceder a la función pública es de:",
+        "options": [
+          "A.‐ 21 años.",
+          "B.‐ 18 años.",
+          "C.‐ 16 años.",
+          "D.‐ No existe una edad mínima."
+        ]
+      },
+      {
+        "question": "9.‐ ¿Cuál de estas afirmaciones es incorrecta en relación con la delegación de competencias?",
+        "options": [
+          "A.‐ La adopción de disposiciones de carácter general es en todo caso indelegable.",
+          "B.‐ Son siempre indelegables las competencias que procedan de una delegación.",
+          "C.‐ La delegación de competencias debe publicarse en el boletín oficial que corresponda al ámbito de competencia territorial de que se trate.",
+          "D.‐ Ninguna de las afirmaciones anteriores es incorrecta."
+        ]
+      },
+      {
+        "question": "10.‐ Si en un determinado procedimiento administrativo se acuerda abrir un período de información pública, en ningún caso puede ser inferior a:",
+        "options": [
+          "A.‐ Veinte días.",
+          "B.‐ Treinta días.",
+          "C.‐ Un mes.",
+          "D.‐ Dos meses."
+        ]
+      },
+      {
+        "question": "11.‐ En el procedimiento administrativo, y a falta de disposición en contrario, ¿cómo son los informes?",
+        "options": [
+          "A.‐ Preceptivos y no vinculantes.",
+          "B.‐ Facultativos y no vinculantes.",
+          "C.‐ Preceptivos y vinculantes.",
+          "D.‐ Facultativos y accidentales."
+        ]
+      },
+      {
+        "question": "12.‐ Si no se designa suplente, la competencia del órgano administrativo se ejercerá por:",
+        "options": [
+          "A.‐ Quien designe el propio órgano.",
+          "B.‐ Quien designe el órgano administrativo superior.",
+          "C.‐ Quien designe el órgano administrativo inmediato superior de quién dependa.",
+          "D.‐ Quien sea el órgano administrativo inferior o la unidad administrativa dependiente del órgano suplido."
+        ]
+      },
+      {
+        "question": "13.‐ En el Consejo de Coordinación Universitaria ¿Cuántos miembros son designados por el Presidente del mismo?",
+        "options": [
+          "A.‐ 7.",
+          "B.‐ 5.",
+          "C.‐ 3.",
+          "D.‐ Ninguna de las respuestas anteriores es correcta."
+        ]
+      },
+      {
+        "question": "14.‐ De conformidad con lo establecido en el artículo 11.1 de la Ley Andaluza de Universidades, la creación, modificación y supresión de Facultades, será acordada por:",
+        "options": [
+          "A.‐ Por Decreto del Consejo de Gobierno de la Comunidad Autónoma.",
+          "B.‐ Mediante Orden de la Consejería de Educación y Ciencia.",
+          "C.‐ Por Acuerdo del Consejo Andaluz de Universidades.",
+          "D.‐ Por Acuerdo del órgano que estatutariamente así lo tenga establecido en cada Universidad."
+        ]
+      },
+      {
+        "question": "15.‐ De acuerdo con la D.F. 3ª del R.D. 22/2015 la certificación supletoria provisional que sustituirá al título y gozará de idéntico valor a efectos del ejercicio de los derechos a él inherentes, previsto en el apartado 2 del artículo 14 del Real Decreto 1002/2010, de 5 de agosto, sobre expedición de títulos universitarios oficiales, tendrá, desde la fecha de emisión de la certificación, una validez de:",
+        "options": [
+          "A.‐ Tres años.",
+          "B.‐ Dos años.",
+          "C.‐ Un año.",
+          "D.‐ No tiene caducidad."
+        ]
+      },
+      {
+        "question": "16.‐ El artículo 35 de la Constitución Española establece que todos los españoles tienen el deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio, a la promoción a través del trabajo y a una remuneración suficiente para satisfacer sus necesidades y las de su familia:",
+        "options": [
+          "A.‐ Sin que en ningún caso pueda hacerse discriminación por razón de raza.",
+          "B.‐ Sin que en ningún caso pueda hacerse discriminación por razón de religión.",
+          "C.‐ Sin que en ningún caso pueda hacerse discriminación por razón de sexo.",
+          "D.‐ Sin que en ningún caso pueda hacerse discriminación por razón de cualquier circunstancia personal o social."
+        ]
+      },
+      {
+        "question": "17.‐ ¿Cuántos miembros de la Comisión de Becas, Ayudas y Asistencia al Estudiantado de la Universidad de Málaga pertenecientes al PAS son elegidos por el Consejo de Gobierno?",
+        "options": [
+          "A.‐ 4.",
+          "B.‐ 3.",
+          "C.‐ 2.",
+          "D.‐ 1."
+        ]
+      },
+      {
+        "question": "18.‐ La programación docente de la Universidad de Málaga estará integrada por los siguientes documentos, y tendrá como referencia temporal a un determinado curso académico:",
+        "options": [
+          "A.‐ El Plan de Ordenación Docente General de la Universidad de Málaga.",
+          "B.‐ Los planes de ordenación docente de cada una de las escuelas de doctorado de la Universidad de Málaga.",
+          "C.‐ Los programas docentes de cada uno de los departamentos de la Universidad de Málaga.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "19.‐ ¿Cuál de los siguientes factores no será tenido en cuenta a la hora de determinar las retribuciones de los funcionarios interinos?",
+        "options": [
+          "A.‐ La progresión alcanzada por el funcionario dentro del sistema de carrera administrativa.",
+          "B.‐ La especial dificultad técnica, responsabilidad, dedicación, incompatibilidad exigible para el desempeño de determinados puestos de trabajo o las condiciones en que se desarrolla el trabajo.",
+          "C.‐ El grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo y el rendimiento o resultados obtenidos.",
+          "D.‐ Los servicios extraordinarios prestados fuera de la jornada normal de trabajo."
+        ]
+      },
+      {
+        "question": "20.‐ Los conceptos retributivos que retribuyen, valga la redundancia, las características de los puestos de trabajo se denomina:",
+        "options": [
+          "A.‐ Complemento de destino.",
+          "B.‐ Complemento específico.",
+          "C.‐ Productividad.",
+          "D.‐ Ninguna de las respuestas anteriores es correcta."
+        ]
+      },
+      {
+        "question": "21.‐ La delegación de firma:",
+        "options": [
+          "A.‐ Requiere que el delegante sea en ese momento el titular de la competencia.",
+          "B.‐ Asimismo requiere que la competencia ostentada no lo sea por delegación.",
+          "C.‐ La firma se puede delegar en órganos administrativos pero no se puede delegar en unidades administrativas.",
+          "D.‐ Todas las afirmaciones anteriores son correctas."
+        ]
+      },
+      {
+        "question": "22.‐ En procedimiento administrativo, los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de:",
+        "options": [
+          "A.‐ Veinte días a partir de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije otro plazo mayor.",
+          "B.‐ Veinte días a partir de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto.",
+          "C.‐ Diez días a partir de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto.",
+          "D.‐ Diez días a partir de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije otro plazo mayor."
+        ]
+      },
+      {
+        "question": "23.‐ De acuerdo con lo recogido en el artículo 13 del R.D. 1791/2010 por el que se aprueba el Estatuto del Estudiante Universitario, contribuir a la mejora de los fines y funcionamiento de la universidad, es:",
+        "options": [
+          "A.‐ Un derecho.",
+          "B.‐ Un deber.",
+          "C.‐ Una opción.",
+          "D.‐ Una quimera."
+        ]
+      },
+      {
+        "question": "24.‐ Elaborar para la Junta de Facultad o Escuela un informe anual sobre todos los aspectos y procedimientos del sistema de garantía de la calidad del centro es una competencia:",
+        "options": [
+          "A.‐ De la Comisión de Ordenación y Calidad.",
+          "B.‐ De la Comisión de Ordenación y Calidad del centro.",
+          "C.‐ De la Junta de Facultad o Escuela.",
+          "D.‐ Del Decano o Director."
+        ]
+      },
+      {
+        "question": "25.‐ La investigación desarrollada en la Universidad de Málaga respetará los principios establecidos en la legislación nacional e internacional, garantizándose un comportamiento ético en el desarrollo de la actividad investigadora en todas las ramas y ámbitos de conocimiento, especialmente, en el ámbito de:",
+        "options": [
+          "A.‐ La biomedicina.",
+          "B.‐ La biotecnología.",
+          "C.‐ La bioética.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      }
+    ] 
+} 
