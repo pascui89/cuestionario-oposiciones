@@ -86,7 +86,7 @@ const Questionaries = (props: IProps) => {
     const correctAnswers = formData.questions.filter(q => q.selected === q.valid).length;
     const incorrectAnswers = formData.questions.filter(q => q.selected !== q.valid && q.selected !== null).length;
     const result = ((correctAnswers - (incorrectAnswers * 0.25)) / formData.questions.length) * 100;
-    setIsExploding(result == 100);
+    setIsExploding(result > 70);
     setResult(result);
   };
 
