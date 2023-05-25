@@ -3,5 +3,5 @@ export const generateUniqueKey = (): string => {
 }
 
 export const getRandomNumber = (): number => {
-    return 21;//Math.floor(Math.random() * 69) + 1;
+    return Math.floor(Math.random() * 69) + 1;
 }
