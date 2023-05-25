@@ -1,0 +1,230 @@
+{
+    "questions": [
+      {
+        "question": "1.‐ En el presupuesto de la Universidad de Málaga, si un crédito fuera insuficiente, ¿Qué modificación presupuestaria procedería realizar?",
+        "options": [
+          "A.‐ Suplemento de crédito.",
+          "B.‐ Transferencia de crédito.",
+          "C.‐ Crédito extraordinario.",
+          "D.‐ Ampliación de crédito."
+        ]
+      },
+      {
+        "question": "2.‐ El Capítulo III del estado de ingresos del presupuesto de la Universidad de Málaga, se denomina:",
+        "options": [
+          "A.‐ Transferencias corrientes.",
+          "B.‐ Tasas, Precios Públicos y Otros.",
+          "C.‐ Ingresos Patrimoniales.",
+          "D.‐ Ingresos Diferidos."
+        ]
+      },
+      {
+        "question": "3.‐ La imagen fiel del patrimonio nos la va a dar:",
+        "options": [
+          "A.‐ El Balance de situación.",
+          "B.‐ Las cuentas anuales.",
+          "C.‐ Los activos fijos y los activos circulantes.",
+          "D.‐ El balance de situación y la cuenta de pérdidas y ganancias."
+        ]
+      },
+      {
+        "question": "4.‐ De acuerdo con el artículo 9 del Real Decreto 898/1985, las obligaciones docentes del Profesorado se medirán:",
+        "options": [
+          "A.‐ Semanalmente.",
+          "B.‐ Quincenalmente.",
+          "C.‐ Mensualmente.",
+          "D.‐ Anualmente."
+        ]
+      },
+      {
+        "question": "5.‐ Según determina lo dispuesto en el artículo 70 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Oferta de empleo público o instrumento similar deberá ser publicada:",
+        "options": [
+          "A.‐ En el Diario oficial correspondiente.",
+          "B.‐ En el Diario Oficial autonómico correspondiente y en el Boletín Oficial del Estado.",
+          "C.‐ En el Boletín Oficial del Estado en todo caso.",
+          "D.‐ Ninguna de las respuestas anteriores es correcta."
+        ]
+      },
+      {
+        "question": "6.‐ De conformidad con lo dispuesto en el artículo 87 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico, los funcionarios de carrera serán declarados en servicios especiales:",
+        "options": [
+          "A.‐ Cuando sean autorizados para realizar una misión por periodo determinado superior a tres meses en organismos internacionales, gobiernos o entidades públicas extranjeras o en programas de cooperación internacional.",
+          "B.‐ Cuando sean designados miembros del Gobierno o de los órganos de gobierno de las Comunidades Autónomas y Ciudades de Ceuta y Melilla, miembros de las Instituciones de la Unión Europea o de las organizaciones internacionales, o sean nombrados altos cargos de las citadas Administraciones Públicas o Instituciones.",
+          "C.‐ Cuando accedan a la condición de Diputado o Senador de las Cortes Generales o miembros de las asambleas legislativas de las comunidades autónomas si no perciben retribuciones periódicas por la realización de la función.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "7.‐ De conformidad con el artículo 49 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, la finalidad principal del contrato de Ayudante será:",
+        "options": [
+          "A.‐ Completar la formación docente e investigadora de dicha persona.",
+          "B.‐ Desarrollar tareas docentes y de investigación en el Departamento en el que estén adscritos.",
+          "C.‐ Ayudar en tareas docentes y colaborar en las tareas de investigación en el Departamento en el que estén adscritos.",
+          "D.‐ Ayudar en tareas docentes y de investigación en el Departamento en el que estén adscritos."
+        ]
+      },
+      {
+        "question": "8.‐ Según el artículo 2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, el sector público institucional queda integrado, entre otros, por:",
+        "options": [
+          "A.‐ Cualesquiera organismos públicos y entidades de derecho privado vinculados o dependientes de las Administraciones Públicas.",
+          "B.‐ Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas, que quedarán sujetas a lo dispuesto en las normas de esta Ley que específicamente se refieran a las mismas, y en todo caso, cuando no ejerzan potestades administrativas.",
+          "C.‐ Las Universidades públicas, que se regirán por su normativa específica y supletoriamente por las previsiones de esta Ley.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "9.‐ De conformidad con el artículo 116 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, constituye causa de inadmisión de un recurso administrativo:",
+        "options": [
+          "A.‐ Ser incompetente el órgano administrativo, cuando el competente perteneciera a la misma Administración Pública.",
+          "B.‐ Cuando los interesados carezcan de legitimación.",
+          "C.‐ Cuando se trate de un acto susceptible de revisión.",
+          "D.‐ Haber transcurrido el plazo para la interposición del recurso."
+        ]
+      },
+      {
+        "question": "10.‐ Según establece el artículo 19 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones Públicas, quedarán exceptuadas del régimen de incompatibilidades las actividades siguientes:",
+        "options": [
+          "A.‐ La dirección de seminarios en Centros oficiales destinados a la formación de funcionarios o profesorado, cuando no tengan carácter permanente o habitual ni supongan más de setenta y cinco horas al año.",
+          "B.‐ El ejercicio retribuido del cargo de Presidente, Vocal o miembro de Juntas rectoras de Mutualidades o Patronatos de Funcionarios.",
+          "C.‐ La producción y creación literaria, artística, científica y técnica, así como las publicaciones derivadas de aquéllas, siempre que se originen como consecuencia de una relación de empleo o de prestación de servicios.",
+          "D.‐ La participación habitual en coloquios y programas en cualquier medio de comunicación social."
+        ]
+      },
+      {
+        "question": "11.‐ El Gobierno cesará:",
+        "options": [
+          "A.‐ Por dimisión del Presidente del Congreso.",
+          "B.‐ Por enfermedad muy grave del Presidente del Gobierno.",
+          "C.‐ En los casos de pérdida de la confianza parlamentaria.",
+          "D.‐ Tras la celebración de Referéndum."
+        ]
+      },
+      {
+        "question": "12.‐ ¿Cuál de los siguientes requisitos no es de obligado cumplimiento en la creación de cualquier órgano administrativo?",
+        "options": [
+          "A.‐ Delimitación de sus funciones y competencias.",
+          "B.‐ Determinación de su forma de integración en la Administración pública de que se trate y su dependencia jerárquica.",
+          "C.‐ Justificación de su creación cuando supongan duplicación de otros ya existentes.",
+          "D.‐ Dotación de los créditos necesarios para su puesta en marcha y funcionamiento."
+        ]
+      },
+      {
+        "question": "13.‐ Según la Ley Andaluza de Universidades, para ser contratado por una Universidad como profesor asociado, es necesario acreditar que se ejerce una actividad profesional fuera de la Universidad:",
+        "options": [
+          "A.‐ Con una antigüedad de al menos tres años.",
+          "B.‐ Con una antigüedad de al menos dos años.",
+          "C.‐ Con una antigüedad de al menos un año.",
+          "D.‐ Sin antigüedad alguna."
+        ]
+      },
+      {
+        "question": "14.‐ De acuerdo con la Disposición Transitoria Primera del Real Decreto 822/2021 las enseñanzas universitarias oficiales de Grado de 180 créditos ECTS que, a la entrada en vigor de este real decreto, tengan carácter oficial deberán solicitar una modificación de su plan de estudios para pasar este a disponer de 240 créditos, en un plazo de dos años.",
+        "options": [
+          "A.‐ 1 año.",
+          "B.‐ 2 años.",
+          "C.‐ 3 años",
+          "D.‐ 4 años"
+        ]
+      },
+      {
+        "question": "15.‐ De acuerdo con lo recogido en el artículo 18 del Reglamento 4/2022 de la Universidad de Málaga, tendrá la consideración de estudiante de un programa de doctorado quien:",
+        "options": [
+          "A.‐ Haya defendido su tesis doctoral.",
+          "B.‐ Quién se haya prescrito en un programa de doctorado.",
+          "C.‐ Quienes estando realizando su tesis, no estén matriculados en el correspondiente programa de doctorado.",
+          "D.‐ Ninguna de las respuestas anteriores es correcta."
+        ]
+      },
+      {
+        "question": "16.‐ El órgano encargado de garantizar los principios que conforman el Código Ético de la Universidad de Málaga, es:",
+        "options": [
+          "A.‐ El Consejo de Gobierno.",
+          "B.‐ El Consejo de Dirección.",
+          "C.‐ El Consejo de Decanos y Directores.",
+          "D.‐ Ninguna de las respuestas anteriores es correcta."
+        ]
+      },
+      {
+        "question": "17.‐ El máximo órgano de representación estudiantil de la Universidad de Málaga es:",
+        "options": [
+          "A.‐ El Consejo de Gobierno.",
+          "B.‐ El Claustro.",
+          "C.‐ El Consejo de Estudiantes.",
+          "D.‐ El Consejo de Dirección."
+        ]
+      },
+      {
+        "question": "18.‐ La relación entre leyes estatales y autonómicas se rige por:",
+        "options": [
+          "A.‐ El principio de competencia.",
+          "B.‐ El principio de autonomía, prevaleciendo la de mayor rango.",
+          "C.‐ El principio de jerarquía normativa, prevaleciendo siempre la estatal.",
+          "D.‐ El principio de jerarquía normativa, prevaleciendo siempre la autonómica."
+        ]
+      },
+      {
+        "question": "19.‐ Según se establece en la normativa interna de la Universidad de Málaga, siguiendo el Real Decreto 99/2011, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado, la duración de los estudios de doctorado será de:",
+        "options": [
+          "A.‐ Un máximo de 3 años, a tiempo completo, prorrogables, y 5 años a tiempo parcial, prorrogables, en ambos casos, en los términos especificados en dicha normativa.",
+          "B.‐ Un máximo de 4 años, a tiempo completo, prorrogables, y 7 años a tiempo parcial, prorrogables, en ambos casos, en los términos especificados en dicha normativa.",
+          "C.‐ Un máximo de 3 años, a tiempo completo, prorrogables, y 7 años a tiempo parcial, prorrogables, en ambos casos, en los términos especificados en dicha normativa.",
+          "D.‐ Un máximo de 5 años, a tiempo completo, prorrogables, y 7 años a tiempo parcial, prorrogables, en ambos casos, en los términos especificados en dicha normativa."
+        ]
+      },
+      {
+        "question": "20.‐ ¿Quién de los siguientes no podrá acceder a los estudios universitarios oficiales de Grado en las Universidades españolas, en las condiciones que para cada caso se determinen en el Real Decreto 412/2014?",
+        "options": [
+          "A.‐ Estudiantes en posesión del título de Bachiller del Sistema Educativo Español o de otro declarado equivalente.",
+          "B.‐ Estudiantes en posesión del título de Bachillerato Europeo o del diploma de Bachillerato internacional.",
+          "C.‐ Estudiantes en posesión de títulos, diplomas o estudios de Bachillerato o Bachiller procedentes de sistemas educativos de Estados miembros de la Unión Europea o de otros Estados con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en régimen de reciprocidad.",
+          "D.‐ Todos los anteriores podrán acceder a los estudios de grado."
+        ]
+      },
+      {
+        "question": "21.‐ De acuerdo con el apartado 4 de la Resolución del Rectorado de la Universidad de Málaga, de fecha 12 de enero de 2022, por el que se inicia el procedimiento para la admisión de estudiantes con estudios universitarios españoles oficiales parciales (traslado de expediente) o estudios universitarios extranjeros parciales o totales que no hayan obtenido la homologación o equivalencia de sus títulos, que desean cursar en centros de dicha Universidad, durante el curso académico 2022/2023, enseñanzas universitarias oficiales de Grado, en el caso de que un alumno que solicite traslado de expediente a la Universidad de Málaga y aporte la certificación de los estudios superados, no siendo esta un documento original, deberá acompañarse:",
+        "options": [
+          "A.‐ Del documento original.",
+          "B.‐ De una declaración responsable.",
+          "C.‐ De una copia compulsada.",
+          "D.‐ De una copia electrónica."
+        ]
+      },
+      {
+        "question": "22.‐ En la preinscripción en el caso de que sobren plazas reservadas para personas con discapacidad o Deportistas de Alto Nivel o Alto Rendimiento:",
+        "options": [
+          "A.‐ Se acumularán a la vía general en la fase de preinscripción en la que proceda.",
+          "B.‐ Se mantendrán en su correspondiente cupo en cada fase, mientras sobren.",
+          "C.‐ Se acumularán en la vía general en la última fase de preinscripción.",
+          "D.‐ Se perderán."
+        ]
+      },
+      {
+        "question": "23.‐ En el supuesto de estudiantes de nuevo ingreso en la Universidad de Málaga, la participación en el procedimiento de matriculación conlleva de forma inseparable:",
+        "options": [
+          "A.‐ El abono del precio por seguro escolar.",
+          "B.‐ La solicitud de apertura del correspondiente expediente académico.",
+          "C.‐ El cumplimiento de los requisitos de progreso y permanencia.",
+          "D.‐ Todas las respuestas anteriores son correctas."
+        ]
+      },
+      {
+        "question": "24.‐ En el caso de estudiantes que superen las pruebas conducentes a la obtención de los créditos matriculados, antes de la finalización del periodo de prestación del correspondiente servicio docente presencial, procederá la reducción del respectivo precio público en la parte proporcional al servicio prestado, sin que en ningún caso dicha reducción pueda ser superior al:",
+        "options": [
+          "A.‐ 80% de dicho precio público.",
+          "B.‐ 70% de dicho precio público.",
+          "C.‐ 60% de dicho precio público.",
+          "D.‐ 50% de dicho precio público."
+        ]
+      },
+      {
+        "question": "25.‐ En una solicitud de reconocimiento corresponde indicar, en su caso, los módulos, materias, asignaturas o actividades formativas concretas del título de destino que deben ser objeto de convalidación, y/o el número de créditos que deben ser objeto de cómputo a efectos de la obtención de dicho título de destino:",
+        "options": [
+          "A.‐ Al Decano o Director del Centro.",
+          "B.‐ A la Secretaría del Centro.",
+          "C.‐ A cada uno de los Departamentos implicados en los reconocimientos.",
+          "D.‐ A la Comisión de Reconocimientos de Estudios del título."
+        ]
+      }
+    ]
+  }
+  
