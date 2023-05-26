@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- \u00bfQui\u00e9n supervisa las actividades de car\u00e1cter administrativo que se desarrollen en un",
+            "question": "1.- \u00bfQui\u00e9n supervisa las actividades de car\u00e1cter administrativo que se desarrollen en un Departamento de la Universidad de Málaga?",
             "options": [
                 "A.- El Gerente  ",
                 "B.- La Gerencia.  ",
@@ -12,31 +12,32 @@
         {
             "question": "2.- El sector p\u00fablico institucional se integra por:",
             "options": [
-                "B.- Las entidades de derecho privado vinculadas o dependientes de las ",
+                "A.- Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas.",
+                "B.- Las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas.",
                 "C.- Las Universidades P\u00fablicas.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "3.- El transcurso del plazo m\u00e1ximo legal para resolver un procedimiento y notificar la",
+            "question": "3.- El transcurso del plazo m\u00e1ximo legal para resolver un procedimiento y notificar la resolución se podrá suspender cuando: ",
             "options": [
-                "A.- Deban realizarse pruebas t\u00e9cnicas o an\u00e1lisis contradictorios o dirimentes ",
+                "A.- Deban realizarse pruebas t\u00e9cnicas o an\u00e1lisis contradictorios o dirimentes propuestos por los interesados. ",
                 "B.- Se inicien negociaciones con vistas a la conclusi\u00f3n de un pacto o convenio.  ",
-                "C.- Sea indispensable la obtenci\u00f3n de un previo pronunciamiento  por parte de un ",
+                "C.- Sea indispensable la obtenci\u00f3n de un previo pronunciamiento  por parte de un órgano jurisdiccional.",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
             "question": "4.- Respecto a la formalizaci\u00f3n de las encomiendas de gesti\u00f3n:",
             "options": [
-                "A.- Cuando la encomienda de gesti\u00f3n se realice entre \u00f3rganos administrativos o ",
-                "B.- En todo caso, el instrum ento de formalizaci\u00f3n de la encomienda de gesti\u00f3n y su ",
-                "C.- Cada Administraci\u00f3n podr\u00e1 regular los requisitos necesarios para la validez de ",
+                "A.- Cuando la encomienda de gesti\u00f3n se realice entre \u00f3rganos administrativos o Entidades de Derecho Público pertenecientes a la misma Administración deberá formalizarse por acuerdo expreso de los órganos o Entidades de Derecho Público intervinientes y, en su defecto, en los términos que establezca su normativa propia.",
+                "B.- En todo caso, el instrum ento de formalizaci\u00f3n de la encomienda de gesti\u00f3n y su resolución deberá ser publicada, para su eficacia, en el Boletín Oficial del Estado, en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendado.",
+                "C.- Cada Administraci\u00f3n podr\u00e1 regular los requisitos necesarios para la validez de tales acuerdos que incluirán, al menos, expresa mención de la actividad o actividades a las que afecten, el plazo de vigencia y la naturaleza y alcance de la gestión encomendada.",
                 "D.- Todas las respuestas anteriores son correctas.   "
             ]
         },
         {
-            "question": "5.- Por traslado de domicilio sin cambio de residencia, \u00bfQu\u00e9 permiso tendr\u00e1n los",
+            "question": "5.- Por traslado de domicilio sin cambio de residencia, \u00bfQu\u00e9 permiso tendr\u00e1n los funcionarios públicos?",
             "options": [
                 "A.- Un d\u00eda.  ",
                 "B.- Dos d\u00edas.  ",
@@ -45,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- Conforme al Art\u00ba 15 del EBEP \u00bfCu\u00e1l de los siguientes ser\u00eda un derecho individual del",
+            "question": "6.- Conforme al Art\u00ba 15 del EBEP \u00bfCu\u00e1l de los siguientes ser\u00eda un derecho individual del empleado público ejercido colectivamente? ",
             "options": [
                 "A.- Derecho a la libre asociaci\u00f3n profesional.  ",
                 "B.- Derecho a la libertad sindical.  ",
@@ -83,9 +84,9 @@
         {
             "question": "10.- El inicio de las actividades de una nueva Universidad se efect\u00faa:",
             "options": [
-                "A.- Por Decreto del Consejo de Gobierno de la CCAA, a propuesta de la Consejer\u00eda ",
-                "B.- En la Ley de creaci\u00f3n o reconocimiento de la Universidad, que lleva consigo la ",
-                "C.- Por acuerdo del Consejo de Ministro, previo informe de la Conferencia General ",
+                "A.- Por Decreto del Consejo de Gobierno de la CCAA, a propuesta de la Consejer\u00eda competente en materia de Universidades y previo informe del Consejo Andaluz de Universidades.",
+                "B.- En la Ley de creaci\u00f3n o reconocimiento de la Universidad, que lleva consigo la fecha de comienzo de la actividad y no requiere de ninguna autorización posterior.",
+                "C.- Por acuerdo del Consejo de Ministro, previo informe de la Conferencia General de Política Universitaria. ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- Ser\u00e1 requisito necesario para a utorizar la compatibilidad de actividades p\u00fablicas",
+            "question": "14.- Ser\u00e1 requisito necesario para a utorizar la compatibilidad de actividades p\u00fablicas para los funcionarios del Grupo A, el que la cantidad total percibida por ambos puestos o actividades no supere la remuneración prevista en los Presupuestos Generales del Estado para el cargo de Director General, ni supere la correspondiente al principal estimada en régimen de dedicación ordinaria, incrementada en un: ",
             "options": [
                 "A.- 30%  ",
                 "B.- 35%  ",
@@ -153,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- De acuerdo con lo establecido en la D.A. 7\u00aa del R.D. 822/2021, las ense\u00f1anzas",
+            "question": "18.- De acuerdo con lo establecido en la D.A. 7\u00aa del R.D. 822/2021, las ense\u00f1anzas oficiales de Grado, de Máster y de Doctorado conjuntas que se desarrollen como parte indisociable de un proyecto Erasmus+ European  Universities , serán objeto de una serie de especificidades en materia de evaluación de la calidad de la memoria y en su acreditación, en la matriculación del estudiantado, en la gestión del expediente del o la estudiante, y en la emisión del título. A estos efectos se entiende por título conjunto el correspondiente a un único plan de estudios oficial diseñado y part icipado por todas o como mínimo :",
             "options": [
                 "A.- Cuatro  de las universidades del conso rcio.  ",
                 "B.- Tres  de las universidades del consorcio .  ",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- \u00bfCu\u00e1l de los siguientes requisitos o caracter\u00edsticas no ser\u00e1 necesario que c umpla la",
+            "question": "19.- \u00bfCu\u00e1l de los siguientes requisitos o caracter\u00edsticas no ser\u00e1 necesario que cumpla la información incluida en las cuentas anuales de acuerdo con el marco conceptual de la contabilidad pública?",
             "options": [
                 "A.- Claridad.  ",
                 "B.- Relevancia.  ",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- La Ley Org\u00e1nica 4/2007 por la que se modifica la Ley Org\u00e1nica 6/2001 de Universidades, realiz\u00f3 una profunda reforma en la estructura y organizaci\u00f3n de las ense\u00f1anzas universitarias con el fin de converger hacia la armonizaci\u00f3n de los",
+            "question": "20.- La Ley Org\u00e1nica 4/2007 por la que se modifica la Ley Org\u00e1nica 6/2001 de Universidades, realiz\u00f3 una profunda reforma en la estructura y organizaci\u00f3n de las ense\u00f1anzas universitarias con el fin de converger hacia la armonizaci\u00f3n de los universitarias con el fin de converger hacia la armonización de los sistemas educativos superiores en el marco del Espacio Europeo de Enseñanza Superior estableci endo los siguientes ciclos:",
             "options": [
                 "A.- Diplomado, Arquitecto T\u00e9cnico, Ingeniero T\u00e9cnico, Licenciado, Arquitecto, Ingeniero y Doctor.  ",
                 "B.- Grado, Master y Doctorado.  ",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- Seg\u00fan lo establec ido en la Disposici\u00f3n Adicional 5\u00aa del R.D. 822/2021, l os t\u00edtulos",
+            "question": "21.- Seg\u00fan lo establec ido en la Disposici\u00f3n Adicional 5\u00aa del R.D. 822/2021, los t\u00edtulos universitarios no podrán inducir a confusión ni coincidir en ningún caso en su denominación y contenidos con los de los títulos universitarios que:",
             "options": [
                 "A.- Habiliten para el ejercicio de una p rofesi\u00f3n . ",
                 "B.- Habiliten para el ejercicio de una profesi\u00f3n sanitaria.   ",
@@ -198,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- De acuerdo con lo regulado en el art\u00edculo 8 de las Normas reguladoras de los",
+            "question": "23.- De acuerdo con lo regulado en el art\u00edculo 8 de las Normas reguladoras de los reconocimiento s de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtención de títulos universitarios oficiales de graduado y máster universitario, así como de la transferencia de créditos , el número de créditos que sean objeto de reconocimiento a partir de experiencia profesional o laboral y de enseñanzas universitarias no oficiales no podrá ser superior en su conjunto a: ",
             "options": [
                 "A.- El 5% del total de cr\u00e9ditos que constituyen el plan de estudios.  ",
                 "B.- El 10% del total de cr\u00e9ditos que cons tituyen el plan de estudios.  ",
@@ -216,7 +217,7 @@
             ]
         },
         {
-            "question": "25.- Un estudiantes que est\u00e9 en posesi\u00f3n de t\u00edtulos, diplomas o estudios, distintos del Bachillerato Europeo, Bachillerato Internacional u otros obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Uni\u00f3n Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del t\u00edtulo de Bachiller en r\u00e9gimen d e reciprocidad, homologados o declarados equivalentes al",
+            "question": "25.- Un estudiantes que est\u00e9 en posesi\u00f3n de t\u00edtulos, diplomas o estudios, distintos del Bachillerato Europeo, Bachillerato Internacional u otros obtenidos o realizados en sistemas educativos de Estados que no sean miembros de la Uni\u00f3n Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del t\u00edtulo de Bachiller en r\u00e9gimen d e reciprocidad, homologados o declarados equivalentes al sistemas educativos de Estados que no sean miembros de la Unión Europea con los que no se hayan suscrito acuerdos internacionales para el reconocimiento del título de Bachiller en régimen d e reciprocidad, homologados o declarados equivalentes al título de Bachiller del Sistema Educativo Español, o hayan solicitado su homologación y acredite una nacionalidad extranjera, podrá participar también en: ",
             "options": [
                 "A.- La fase extraordinaria de preinscripci\u00f3n.  ",
                 "B.- La fase ordinaria de preinscripci\u00f3n.  ",

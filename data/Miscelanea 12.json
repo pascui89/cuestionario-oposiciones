@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.-  De acuerdo con lo establecido en la D.  A. 7\u00aa del R.D. 822/2021, \u00bfC\u00f3mo se denomina",
+            "question": "1.-  De acuerdo con lo establecido en la D.  A. 7\u00aa del R.D. 822/2021, \u00bfC\u00f3mo se denomina el título correspondiente a un único plan de estudios oficial diseñado y participado por todas o como mínimo tres de las universidades del consorcio que han conformado las universidades que participan en una determinada alianza y que han suscrito el correspondiente convenio ?",
             "options": [
                 "A.- T\u00edtulo \u00danico.  ",
                 "B.- T\u00edtulo Conjunto.  ",
@@ -31,8 +31,8 @@
             "question": "4.- Respecto a la delegaci\u00f3n de firma, no es correcto:",
             "options": [
                 "A.-  No alterar\u00e1 la competencia del \u00f3rgano delegante.  ",
-                "B.-  Para su validez deber\u00e1 ser publicada en el \u00abBolet\u00edn Oficial del Estado\u00bb, en el ",
-                "C.-  En las resoluciones y actos que se firmen por delegaci\u00f3n se har\u00e1 constar esta circunsta ncia y la autoridad de procedencia  ",
+                "B.-  Para su validez deber\u00e1 ser publicada en el \u00abBolet\u00edn Oficial del Estado\u00bb, en el Boletín oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración delegante. ",
+                "C.-  En las resoluciones y actos que se firmen por delegaci\u00f3n se har\u00e1 constar esta circunstancia y la autoridad de procedencia  ",
                 "D.-  Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
@@ -48,8 +48,8 @@
         {
             "question": "6.- De acuerdo con el EBEP, es cierto que:  Miscelanea 12",
             "options": [
-                "A.- Los derechos econ\u00f3micos de los empleados p\u00fablicos est\u00e1n constituidos ",
-                "B.- Los derechos econ\u00f3micos de los empleados p\u00fablicos comprenden las ",
+                "A.- Los derechos econ\u00f3micos de los empleados p\u00fablicos est\u00e1n constituidos únicamente por las retribuciones. ",
+                "B.- Los derechos econ\u00f3micos de los empleados p\u00fablicos comprenden las retribuciones básicas, complementarias e indemnizaciones por razón del servicio. ",
                 "C.- Los derechos econ\u00f3micos de los empleados p\u00fablicos se integran por las retribuciones y por las indemnizaciones.  ",
                 "D.- Los derechos econ\u00f3micos de los empleados p\u00fablicos se integran por las retribuciones, las indemnizaciones y las gratificaciones por desempe\u00f1o . "
             ]
@@ -57,9 +57,9 @@
         {
             "question": "7.- Un ejemplo de retribuci\u00f3n diferida ser\u00eda:",
             "options": [
-                "A.- La aportaci\u00f3n a un plan de p ensiones.  ",
-                "B.- El empleo de la masa salarial destinada a determinados complementos, como la ",
-                "C.- Retribuciones que se perciben con cierta dilaci\u00f3n como la atenci\u00f3n continuada del ",
+                "A.- La aportaci\u00f3n a un plan de pensiones.  ",
+                "B.- El empleo de la masa salarial destinada a determinados complementos, como la antigua productividad, a planes y programas tales como ayudas ortoprotésicas, becas y otras figuras análogas.  ",
+                "C.- Retribuciones que se perciben con cierta dilaci\u00f3n como la atenci\u00f3n continuada del personal sanitario. ",
                 "D.- Las retribuciones diferidas no existen.  "
             ]
         },
@@ -75,7 +75,7 @@
         {
             "question": "9.- En relaci\u00f3n al Consejo Social Consejo Social:",
             "options": [
-                "A.- La Ley de la correspondiente Comunidad Aut\u00f3noma regular\u00e1 su composici\u00f3n y ",
+                "A.- La Ley de la correspondiente Comunidad Aut\u00f3noma regular\u00e1 su composici\u00f3n y funciones.",
                 "B.- Es el \u00f3rgano de participaci\u00f3n del alumnado en la Universidad.  ",
                 "C.- Le corresponde la supervisi\u00f3n de las actividades de la Universidad.  ",
                 "D.- A y C son respuestas cor rectas.  "
@@ -87,15 +87,15 @@
                 "A.- El Rector o la Rectora de la Universidad, de entre sus miembros.  ",
                 "B.- Por el Presidente o Presidenta del Consejo, de entre sus miembros.  ",
                 "C.- Por el Gerente o la Gerent e de la Universidad, de entre sus miembros.  ",
-                "D.- Por el Presidente o Presidenta del Consejo, o\u00eddo el Rector de la Universidad, de "
+                "D.- Por el Presidente o Presidenta del Consejo, o\u00eddo el Rector de la Universidad, de entre sus miembros."
             ]
         },
         {
-            "question": "11.- \u00bfA qui\u00e9n le corresponde la implantaci\u00f3n, suspensi\u00f3n y supresi\u00f3n de ense\u00f1anzas conducentes a la obtenci\u00f3n de t\u00edtulos de car\u00e1cter oficial y validez en todo el territorio nacional que se impartir\u00e1n en las Universidades andaluzas?   Miscelanea 12",
+            "question": "11.- \u00bfA qui\u00e9n le corresponde la implantaci\u00f3n, suspensi\u00f3n y supresi\u00f3n de ense\u00f1anzas conducentes a la obtenci\u00f3n de t\u00edtulos de car\u00e1cter oficial y validez en todo el territorio nacional que se impartir\u00e1n en las Universidades andaluzas?",
             "options": [
                 "A.-  Al Parlamento Andaluz . ",
                 "B.-  Al Consejo de Gobierno de Gobierno de la Junta de Andaluc\u00eda.  ",
-                "C.- A la Consejer\u00eda de Educaci\u00f3n y Ciencia previo informe del Consejo Andaluz de ",
+                "C.- A la Consejer\u00eda de Educaci\u00f3n y Ciencia previo informe del Consejo Andaluz de Universidades.",
                 "D.-  A la Consejer\u00eda que asuma las competencias en materia de Universidad, previo informe del Consejo Social y del Consejo Andaluz de Universidades.  "
             ]
         },
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "question": "13.- En el caso de que la iniciativa para la desvinculaci\u00f3n de un Instituto Universitario de Investigaci\u00f3n Adscrito sea de la Comun idad Aut\u00f3noma, ser\u00e1 necesario el previo",
+            "question": "13.- En el caso de que la iniciativa para la desvinculaci\u00f3n de un Instituto Universitario de Investigaci\u00f3n Adscrito sea de la Comun idad Aut\u00f3noma, ser\u00e1 necesario el previo informe favorable: ",
             "options": [
                 "A.- Del Consejo de Gobierno.  ",
                 "B.- Del Consejo Social.  ",
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- Ser\u00e1 requisito necesario para autorizar la compatibilidad de actividades p\u00fablicas para los funcionarios del Subgrupo C2, el que la cantidad total percibida por ambos",
+            "question": "14.- Ser\u00e1 requisito necesario para autorizar la compatibilidad de actividades p\u00fablicas para los funcionarios del Subgrupo C2, el que la cantidad total percibida por ambos puestos o actividades no supere la remuneración prevista en los Presupuestos Generales del  Estado para el cargo de Director General, ni supere la correspondiente al principal estimada en régimen de dedicación ordinaria, incrementada en un:",
             "options": [
                 "A.- 30%  ",
                 "B.- 35%  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- De conformidad con lo establecido en la normativa vigente, el grado personal m\u00e1ximo que  puede ser consolidado por el personal funcionarios pertenecientes a",
+            "question": "16.- De conformidad con lo establecido en la normativa vigente, el grado personal m\u00e1ximo que  puede ser consolidado por el personal funcionarios pertenecientes a cuerpos y escala del subgrupo C1 es:",
             "options": [
                 "A.- 26.  Miscelanea 12  ",
                 "B.- 25. ",
@@ -145,21 +145,21 @@
             ]
         },
         {
-            "question": "17.- El Real Decreto 33/1986, por el que se aprueba el Reglamento de R\u00e9gimen",
+            "question": "17.- El Real Decreto 33/1986, por el que se aprueba el Reglamento de R\u00e9gimen Disciplinario de los funcionarios de la Administración del Estado dispone en su artículo 19.1 que la responsabilid ad disciplinaria se extingue: ",
             "options": [
                 "A.- Con el cumplimiento de la sanci\u00f3n o su caducidad.  ",
                 "B.- Con el cumplimiento de la sanci\u00f3n, o pase del funcionario a la situaci\u00f3n administrativa de servicios especiales o excedencia en cualquier modalidad que imposibilita su cumplimiento.  ",
-                "C.- Con el cumplimiento de la sanci\u00f3n, muerte, prescripci\u00f3n de la falta o  de la ",
+                "C.- Con el cumplimiento de la sanci\u00f3n, muerte, prescripci\u00f3n de la falta o  de la sanción, indulto y amnistía.",
                 "D.- Con el cumplimiento de la sanci\u00f3n, jubilaci\u00f3n o muerte.  "
             ]
         },
         {
-            "question": "18.- \u00bfA qu\u00e9 \u00e1mbitos deber\u00e1n  ir referidos los dos ejercicios de la prueba de acceso para",
+            "question": "18.- \u00bfA qu\u00e9 \u00e1mbitos deber\u00e1n  ir referidos los dos ejercicios de la prueba de acceso para mayores de 45 años, según el artículo 17 del Real Decreto 412/2014, d e 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado?",
             "options": [
-                "A.- Comentario de texto o desarrollo de un tema general de actualidad y Lengua ",
+                "A.- Comentario de texto o desarrollo de un tema general de actualidad y Lengua extranjera, a elegir entre alemán, francés, inglés, italiano y portugués",
                 "B.- Comentario de texto o desarrollo de un tema general de actualidad y Lengua castellana.  ",
-                "C.- Comentario de texto o desarrollo de un tema general de actualidad, Lengua castellana y Lengua extranjera, a elegir entre alem\u00e1n, franc\u00e9s, ingl\u00e9s, italiano y ",
-                "D.- Comentario de texto o desarrollo de un tema general de actualidad, Lengua "
+                "C.- Comentario de texto o desarrollo de un tema general de actualidad, Lengua castellana y Lengua extranjera, a elegir entre alem\u00e1n, franc\u00e9s, ingl\u00e9s, italiano y portugués ",
+                "D.- Comentario de texto o desarrollo de un tema general de actualidad, Lengua castellana y Lengua extranjera, a elegir entre alemán, francés, inglés."
             ]
         },
         {
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- Los t\u00edtulos universitarios de car\u00e1cter oficial y con validez en territorio nacional",
+            "question": "20.- Los t\u00edtulos universitarios de car\u00e1cter oficial y con validez en territorio nacional deberán inscribirse e: ",
             "options": [
                 "A.- El Registro de Centros y Universidades.  ",
                 "B.- El Registro de Universidades, Centros y T\u00edtulos.  ",
@@ -193,22 +193,22 @@
             "question": "22.- De acuerdo con lo establecido en el art. 5.6 del R.D. 1125/2003, en materia de concesi\u00f3n de la menci\u00f3n de Matr\u00edcula de Honor, se\u00f1ale cual de las siguientes afirmaciones es correcta:",
             "options": [
                 "A.- Se podr\u00e1 conceder un maximo de 1 por cada 20 alumnos, o fracci\u00f3n, matriculados en la correspondiente asignatura y curso acad\u00e9mico.  ",
-                "B.- No podr\u00e1 exceder del cinco por ciento de los alumnos matriculados en una ",
-                "C.- No podr\u00e1 exceder del 10% de los alumnos matriculados en una materia en el correspondiente curso acad\u00e9mico, salvo que el n\u00famero de alumnos matriculados sea inferior a 20, en cuyo caso se podr\u00e1 conce der una sola Matr\u00edcula de Honor.  ",
-                "D.- No podr\u00e1 exceder de 1 por grupo, salvo que este supere los 100 alumnos "
+                "B.- No podr\u00e1 exceder del cinco por ciento de los alumnos matriculados en una materia en el correspondiente curso académico, salvo que el número de alumnos matriculados sea inferior a 20, en cuy o caso se podrá conceder una sola Matrícula de Honor. ",
+                "C.- No podr\u00e1 exceder del 10% de los alumnos matriculados en una materia en el correspondiente curso acad\u00e9mico, salvo que el n\u00famero de alumnos matriculados sea inferior a 20, en cuyo caso se podr\u00e1 conce der una sola Matr\u00edcula de Honor. ",
+                "D.- No podr\u00e1 exceder de 1 por grupo, salvo que este supere los 100 alumnos matriculados, en cuyo caso se podrá conceder 1 por cada 100 o fracción."
             ]
         },
         {
-            "question": "23.- De acuerdo con lo establecido en la D.A. 13\u00aa del R.D. 822/2021, con c ar\u00e1cter",
+            "question": "23.- De acuerdo con lo establecido en la D.A. 13\u00aa del R.D. 822/2021, con c ar\u00e1cter excepcional, es posible cursar menciones previstas en los planes de estudios de los títulos universitarios oficiales de Grado que habiliten para el ejercicio de las profesiones de Maestro en Educación Infantil o Maestro en Educación Primaria, en una universidad distinta a aquella en la que se obtuvo previamente el indicado título universitario. En este caso:",
             "options": [
                 "A.- Se podr\u00e1  expedir un nuevo t\u00edtulo a quienes cursen tales menciones . ",
-                "B.- No se podr\u00e1 expedir un nuevo t\u00edtulo , pero constar\u00e1 en el suplemento europeo al ",
+                "B.- No se podr\u00e1 expedir un nuevo t\u00edtulo , pero constar\u00e1 en el suplemento europeo al título.",
                 "C.- No se podr\u00e1 expedir un nuevo t\u00edtulo, por lo que la universidad expedir\u00e1 un certificado acad\u00e9mico oficial.   ",
-                "D.-  Se tendr\u00e1 que expedir un nuevo t\u00edtulo por la Universidad donde se haya cursado "
+                "D.-  Se tendr\u00e1 que expedir un nuevo t\u00edtulo por la Universidad donde se haya cursado la correspondiente mención."
             ]
         },
         {
-            "question": "24.- \u00bfA qui\u00e9n corresponde establecer las instrucciones de car\u00e1cter procedimental de",
+            "question": "24.- \u00bfA qui\u00e9n corresponde establecer las instrucciones de car\u00e1cter procedimental de matrícula en la Universidad de Málaga?",
             "options": [
                 "A.- Al Rector.  ",
                 "B.- A la Secretar\u00eda General.  ",
@@ -217,10 +217,10 @@
             ]
         },
         {
-            "question": "25.- Para realizar la preinscripci\u00f3n en cualquier titulaci\u00f3n y Centro de las Universidades",
+            "question": "25.- Para realizar la preinscripci\u00f3n en cualquier titulaci\u00f3n y Centro de las Universidades Públicas de Andalucía, será necesario cumplimentar la correspondiente solicitud que estará disponible: ",
             "options": [
                 "A.- En el correspondiente punto de acceso electr\u00f3nico.  ",
-                "B.- En cada una  de las Universidades que forman parte del Sistema Universitario ",
+                "B.- En cada una  de las Universidades que forman parte del Sistema Universitario Andaluz. ",
                 "C.- En la Comisi\u00f3n del Distrito \u00danico de Andaluc\u00eda.  ",
                 "D.- En el Consejo Andaluz de Universidades.  "
             ]

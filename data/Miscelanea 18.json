@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- \u00bfDe cu\u00e1ntos ejercicios de las materias troncales generales cursadas en el Bachillerato consta",
+            "question": "1.- \u00bfDe cu\u00e1ntos ejercicios de las materias troncales generales cursadas en el Bachillerato consta la prueba de acceso a la Universidad?",
             "options": [
                 "A.- 5. ",
                 "B.- 4.  ",
@@ -45,12 +45,12 @@
             ]
         },
         {
-            "question": "6.- Para que el personal investigador perteneciente a los Organismos P\u00fablicos de Investigaci\u00f3n,",
+            "question": "6.- Para que el personal investigador perteneciente a los Organismos P\u00fablicos de Investigaci\u00f3n, pueda realizar funciones de dirección de tesis doctorales deberá:  ",
             "options": [
                 "A.- Ser admitido en la Universidad correspondiente.  ",
                 "B.- Estar en posesi\u00f3n del T\u00edtulo de doctor.  ",
-                "C.- Pertenecer a alguna de las \u00e1reas con las que est\u00e9 relacionado el correspondiente ",
-                "D.- Todas las respuestas anteriores son co rrectas.  "
+                "C.- Pertenecer a alguna de las \u00e1reas con las que est\u00e9 relacionado el correspondiente programa de doctorado. ",
+                "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
@@ -63,7 +63,7 @@
             ]
         },
         {
-            "question": "8.- De acuerdo con el art\u00edculo 8 del Real Decreto 1791/2010, de 30 de diciembre, por el que se",
+            "question": "8.- De acuerdo con el art\u00edculo 8 del Real Decreto 1791/2010, de 30 de diciembre, por el que se aprueba el Estatuto del Estudiante Universitario, es un derecho específico del estudiante de grado:",
             "options": [
                 "A.- A recibir orientaci\u00f3n y tutor\u00eda personalizadas en el primer a\u00f1o y durante los estudios .  ",
                 "B.- A recibir una formaci\u00f3n investigadora de calidad . ",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "question": "10.- Por ser preciso atender el cuidado de un familiar de segundo grado, el funcionario tendr\u00e1",
+            "question": "10.- Por ser preciso atender el cuidado de un familiar de segundo grado, el funcionario tendr\u00e1 derecho a solicitar una reducción de hasta: ",
             "options": [
                 "A.- El cincuenta por ciento de la jornada laboral, con car\u00e1cter retribuido.  ",
                 "B.- El cuarenta por ciento de la jornada laboral, con car\u00e1cter retribuido.  ",
@@ -90,7 +90,7 @@
             ]
         },
         {
-            "question": "11.- La convocatoria de concursos p\u00fablicos para la contrataci\u00f3n de personal docente y/o",
+            "question": "11.- La convocatoria de concursos p\u00fablicos para la contrataci\u00f3n de personal docente y/o investigador podrá establecer perfiles docentes o investigadores, que serán aprobados por el Consejo de Gobierno, previa propuesta motivada: del Consejo de Departamento: ",
             "options": [
                 "A.- De la Comisi\u00f3n Acad\u00e9mica del Departamento.  ",
                 "B.- Del Director del Departamento.  ",
@@ -102,9 +102,9 @@
             "question": "12.- El domicilio es inviolable:",
             "options": [
                 "A.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l salvo en caso de flagrante delito . ",
-                "B.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular, salvo en ",
-                "C.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin resoluci\u00f3n judicial, salvo en caso de ",
-                "D.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9 l sin consentimiento del titular o resoluci\u00f3n "
+                "B.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular, salvo en caso de flagrante delito .",
+                "C.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin resoluci\u00f3n judicial, salvo en caso de flagrante delito . ",
+                "D.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9 l sin consentimiento del titular o resoluci\u00f3n judicial, salvo en caso de flagrante delito . "
             ]
         },
         {
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "question": "14.- El profesorado visitante extraordinario no ser\u00e1 contratado de entre perso nas vinculadas a",
+            "question": "14.- El profesorado visitante extraordinario no ser\u00e1 contratado de entre perso nas vinculadas a la universidad o profesionales de singular prestigio, y muy destacado reconocimiento en el mundo:",
             "options": [
                 "A.- Acad\u00e9mico.  ",
                 "B.- Cultural.  ",
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "question": "15.- En el supuesto de que una funcionaria v\u00edctima de violencia de g\u00e9nero que se vea obligada a abandonar el puesto de trabajo en la localidad donde ven\u00edan prestando sus servicios, dicho",
+            "question": "15.- En el supuesto de que una funcionaria v\u00edctima de violencia de g\u00e9nero que se vea obligada a abandonar el puesto de trabajo en la localidad donde ven\u00edan prestando sus servicios, dicho servicios, dicho traslado tendrá la consideración de:",
             "options": [
                 "A.- Forzoso.   ",
                 "B.- Voluntario.  ",
@@ -152,10 +152,10 @@
             ]
         },
         {
-            "question": "18.- De acuerdo con lo dispuesto en el art\u00edculo 8 del Real Decreto 822/2022, en los supuestos",
+            "question": "18.- De acuerdo con lo dispuesto en el art\u00edculo 8 del Real Decreto 822/2022, en los supuestos en que el acceso a la profesión regulada requiera estar en posesión de un título español oficial concreto de Máster, que a su vez tenga como requisito de acceso a la formación estar en posesión de un título español oficial concreto de Grado o de algún título de Grado, de no acreditarse su posesión ",
             "options": [
-                "A.-  La homolog aci\u00f3n a dicho M\u00e1ster requerir\u00e1, en el primer supuesto, la previa acreditaci\u00f3n ",
-                "B.-  La homologaci\u00f3n a dicho Master en el segundo caso, requerir\u00e1 la declaraci\u00f3n de ",
+                "A.-  La homolog aci\u00f3n a dicho M\u00e1ster requerir\u00e1, en el primer supuesto, la previa acreditaci\u00f3n de la posesión del Grado exigido. ",
+                "B.-  La homologaci\u00f3n a dicho Master en el segundo caso, requerir\u00e1 la declaraci\u00f3n de equivalencia a titulación en el área y campo en la que se en cuadre el título exigido para la admisión al Máster.",
                 "C.-  No ser\u00e1 posible la homologaci\u00f3n en ning\u00fan caso.  ",
                 "D.-  A y B son respuestas correctas.  "
             ]
@@ -163,16 +163,16 @@
         {
             "question": "19.- El haber acad\u00e9mico:",
             "options": [
-                "A.- Representa el cumplimiento de los objetivos previstos en los planes de estudios ",
-                "B.- Representa el cumplimiento de los objetivos previstos en los planes de estudios ",
-                "C.- Representa el cumplimiento de los objetivos previstos en los planes de estudios ",
-                "D.- Representa el cumplimiento de los objetivos previstos en los planes de estudios "
+                "A.- Representa el cumplimiento de los objetivos previstos en los planes de estudios conducentes a la obtención de los títulos universitarios oficiales con validez en territorio nacional y los títulos propios de cada Universidad se medirá en créditos europeos (ECTS). ",
+                "B.- Representa el cumplimiento de los objetivos previstos en los planes de estudios conducentes a la obtención de los títulos universitarios se medirá en créditos europeos (ECTS).",
+                "C.- Representa el cumplimiento de los objetivos previstos en los planes de estudios conducentes a la obtención de los títulos universitarios oficiales  medirá en créditos europeos (ECTS). ",
+                "D.- Representa el cumplimiento de los objetivos previstos en los planes de estudios conducentes a la obtención de los títulos universitarios no oficiales medirá en créditos europeos (ECTS). "
             ]
         },
         {
-            "question": "20.- Un t\u00edtulo de Master Un iversitario equivale en el EQF (European Qualification Framework) al",
+            "question": "20.- Un t\u00edtulo de Master Un iversitario equivale en el EQF (European Qualification Framework) al nivel:",
             "options": [
-                "A.-  5. ",
+                "A.- 5. ",
                 "B.- 6.  ",
                 "C.- 7.  ",
                 "D.- 8. "
@@ -188,7 +188,7 @@
             ]
         },
         {
-            "question": "22.- En los procedimientos tramitados por las Administraciones de las Comunidades Aut\u00f3nomas",
+            "question": "22.- En los procedimientos tramitados por las Administraciones de las Comunidades Aut\u00f3nomas y de las Entidades Locales, el uso de la lengua se ajustará a lo previsto en:",
             "options": [
                 "A.- La Ley 39/2015.  ",
                 "B.- En la legislaci\u00f3n auton\u00f3mica correspondiente.  ",
@@ -206,11 +206,11 @@
             ]
         },
         {
-            "question": "24.- Las cuestiones incidentales que se susciten en un procedimiento",
+            "question": "24.- Las cuestiones incidentales que se susciten en un procedimiento administrativo:",
             "options": [
                 "A.- En todo caso, suspender\u00e1n la tramitaci\u00f3n del mismo.  ",
                 "B.- No suspender\u00e1n la tramitaci\u00f3n del mismo.   ",
-                "C.- S\u00f3lo suspender\u00e1n la tramitaci\u00f3n del procedimiento las que se refieran a la nulidad de ",
+                "C.- S\u00f3lo suspender\u00e1n la tramitaci\u00f3n del procedimiento las que se refieran a la nulidad de actuaciones.",
                 "D.- No suspender\u00e1n la tramitaci\u00f3n del mismo, salvo la recusaci\u00f3n.    "
             ]
         },
