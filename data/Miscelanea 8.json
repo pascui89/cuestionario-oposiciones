@@ -1,12 +1,12 @@
 {
     "questions": [
         {
-            "question": "1.- \u00bfCu\u00e1l de los siguientes criterios no es utilizado para la graduaci\u00f3n de la sanci\u00f3n a aplicar en",
+            "question": "1.- \u00bfCu\u00e1l de los siguientes criterios no es utilizado para la graduaci\u00f3n de la sanci\u00f3n a aplicar en el ámbito de la potestad sancionadora de las Administraciones Públicas?",
             "options": [
                 "A.-  La existencia de intencionalidad.  ",
                 "B.-  La naturaleza de los perjuicios causados.  ",
-                "C.-  La reincidencia por comisi\u00f3n en el t\u00e9rmino de un a\u00f1o de m\u00e1s de una infracci\u00f3n de la ",
-                "D.-  Todas las respuestas anteriores son criterios utilizados para la graduaci\u00f3n de la sanci\u00f3n "
+                "C.-  La reincidencia por comisi\u00f3n en el t\u00e9rmino de un a\u00f1o de m\u00e1s de una infracci\u00f3n de la misma naturaleza , aunque no haya sido declarado por resolución firme. ",
+                "D.-  Todas las respuestas anteriores son criterios utilizados para la graduaci\u00f3n de la sanci\u00f3n a aplicar. "
             ]
         },
         {
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- \u00bfD\u00f3nde se incluir\u00e1n el personal que se adscribe a un instituto universitario de investigaci\u00f3n",
+            "question": "4.- \u00bfD\u00f3nde se incluir\u00e1n el personal que se adscribe a un instituto universitario de investigaci\u00f3n adscrito y su régimen?  ",
             "options": [
                 "A.- En el convenio de adscripci\u00f3n.  ",
                 "B.-  En el acuerdo de creaci\u00f3n.  ",
@@ -39,14 +39,14 @@
         {
             "question": "5.- En las escuelas de doctorado que no sean propias de la Universidad de M\u00e1laga, podr\u00e1 haber:",
             "options": [
-                "A.- Personal docente y/o investigador funcionario o laboral dependiente de otras ",
+                "A.- Personal docente y/o investigador funcionario o laboral dependiente de otras instituciones  públicas o privadas. ",
                 "B.- Personal docente y/o investigador propio de la Universidad. ",
                 "C.-  Profesionales externos y docentes o investigadores/as visitantes.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "6.-  El procedimiento administrativo para el reconocimiento de estudios, en la Universidad de",
+            "question": "6.-  El procedimiento administrativo para el reconocimiento de estudios, en la Universidad de Málaga, se iniciará a solicitud del respectivo estudiante mediante escrito dirigido:",
             "options": [
                 "A.- Al Rector.  ",
                 "B.-  A la Secretar\u00eda del correspondiente centro .  ",
@@ -55,11 +55,11 @@
             ]
         },
         {
-            "question": "7.- En el caso de que un funcionario acceda a un nuevo puesto del sector p\u00fablico y este resulte",
+            "question": "7.- En el caso de que un funcionario acceda a un nuevo puesto del sector p\u00fablico y este resulte incompatible con el que viniera desempeñand o si en el plazo de toma de posesión no optará por uno de ellos ¿Por qué puesto opta y en qué situación queda en el otro puesto?  ",
             "options": [
                 "A.- Opta por el que ven\u00eda desempe\u00f1ando y queda en excedencia forzosa en el otro.  ",
-                "B.- Opta por el nuevo puesto y queda en exced encia voluntaria por inter\u00e9s particular en el ",
-                "C.- Opta por el nuevo puesto y queda en excedencia voluntaria por servicios en el sector ",
+                "B.- Opta por el nuevo puesto y queda en exced encia voluntaria por inter\u00e9s particular en el otro.",
+                "C.- Opta por el nuevo puesto y queda en excedencia voluntaria por servicios en el sector público en el otro.",
                 "D.- Opta por el puesto que ven\u00eda desempe\u00f1ando y queda en expectativa de destino en el otro.  "
             ]
         },
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "question": "9.-  De las solicitudes, comunicaciones y escritos que presenten los interesados en las oficinas",
+            "question": "9.-  De las solicitudes, comunicaciones y escritos que presenten los interesados en las oficinas de asistencia en materia de registro de la Administración, podrán éstos exigir el correspondiente recibo que acredite: ",
             "options": [
                 "A.- La fecha de presentaci\u00f3n.  ",
                 "B.- El n\u00famero  de registro.  ",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "question": "11.- La superaci\u00f3n de las ense\u00f1anzas del programa de Doctorado y la presentaci\u00f3n y aprobaci\u00f3n",
+            "question": "11.- La superaci\u00f3n de las ense\u00f1anzas del programa de Doctorado y la presentaci\u00f3n y aprobaci\u00f3n de la tesis doctoral, dará derecho a la obtención del título universitario oficial de Doctora o Doctor, cuyo nivel equivale al MECES:",
             "options": [
                 "A.- 5. ",
                 "B.- 4.  ",
@@ -104,12 +104,12 @@
             "options": [
                 "A.-  Cuya necesidad sea inaplazable.  ",
                 "B.-  Cuya adjudicaci\u00f3n sea preciso acelerar por razones de inter\u00e9s p\u00fablico.  ",
-                "C.- Cuando la Universidad tenga que actuar de manera inmediata a causa de ",
+                "C.- Cuando la Universidad tenga que actuar de manera inmediata a causa de acontecimientos catastróficos.",
                 "D.-  Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "13.- Si un funcionario de la U niversidad de M\u00e1laga perteneciente al PAS tratar\u00e1 de compatibilizar",
+            "question": "13.- Si un funcionario de la U niversidad de M\u00e1laga perteneciente al PAS tratar\u00e1 de compatibilizar la actividad en esta administración con otro puesto en el ámbito de la Administrac ión General del Estado ¿Por quién habrá de ser emitido el informe correspondiente?",
             "options": [
                 "A.- Por el Ministerio de Administraciones P\u00fablicas.  ",
                 "B.- Por la Subsecretar\u00eda del Departamento Ministerial correspondiente.  ",
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- Cuando un do ctorando quiera obtener la menci\u00f3n de doctorado internacional \u00bfEn qu\u00e9",
+            "question": "14.- Cuando un do ctorando quiera obtener la menci\u00f3n de doctorado internacional \u00bfEn qu\u00e9 momento habrá debido cumplir un período de estancia mínima de tres meses fuera de España en una institución de enseñanza superior o centro de investigación de prestigio ?",
             "options": [
                 "A.- Durante la realizaci\u00f3n del programa de doctorado.  ",
                 "B.- Durante el per\u00edodo de formaci\u00f3n necesario para la obtenci\u00f3n del t\u00edtulo de Doctor . ",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- \u00bfA qui\u00e9n compete habilitar los medios personales y materiales para cumplir con el despacho",
+            "question": "15.- \u00bfA qui\u00e9n compete habilitar los medios personales y materiales para cumplir con el despacho adecuado y en el plazo máximo de resolución, cuando el número de solicitudes formuladas pudiera suponer un incumplimiento de dicho plazo? ",
             "options": [
                 "A.- Al \u00f3rgano instructor.  ",
                 "B.- Al \u00f3rgano competente para resolver.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- En la prueba de mayores de veinticinco a\u00f1os para poder promediar, la nota que obtenga en",
+            "question": "16.- En la prueba de mayores de veinticinco a\u00f1os para poder promediar, la nota que obtenga en la prueba específica tendrá que ser superior a:  ",
             "options": [
                 "A.- 4 puntos. ",
                 "B.- 3\u201999 puntos.  ",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- En el estado de gasto del presupuesto de la Universidad de M\u00e1laga \u00bfQu\u00e9 n\u00famero de cap\u00edtulos",
+            "question": "18.- En el estado de gasto del presupuesto de la Universidad de M\u00e1laga \u00bfQu\u00e9 n\u00famero de cap\u00edtulos conforman las denominadas operaciones corrientes?",
             "options": [
                 "A.- 6. ",
                 "B.- 5. ",
@@ -166,22 +166,22 @@
             "question": "19.- La Administraci\u00f3n P\u00fablica sirve",
             "options": [
                 "A.-  Con objetividad los intereses generales.  ",
-                "B.- Con los principios de eficacia, jerarqu\u00eda, descentralizaci\u00f3n, desconcentraci\u00f3n y ",
+                "B.- Con los principios de eficacia, jerarqu\u00eda, descentralizaci\u00f3n, desconcentraci\u00f3n y coordinación.",
                 "C.-  Con sometimiento pleno a la ley y al Derecho.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "20.- El reconocimiento de los estudios cursados por estudiantes de la Universidad de M\u00e1laga en el marco de convenios, nacionales e internacionales, suscritos por \u00e9sta para facilitar la",
+            "question": "20.- El reconocimiento de los estudios cursados por estudiantes de la Universidad de M\u00e1laga en el marco de convenios, nacionales e internacionales, suscritos por \u00e9sta para facilitar la facilitar la movilidad estudiantil, se regirá por:",
             "options": [
                 "A.-  Lo establecido en el correspondiente plan de estudios.  ",
                 "B.-  Lo dispuesto en las normas espec\u00edficas reguladoras de dicha movilidad y en los respectivos convenios.  ",
-                "C.-  Lo dispuesto en el Reglamento de Convalidaciones, Adaptaciones y Equivalencias de la ",
+                "C.-  Lo dispuesto en el Reglamento de Convalidaciones, Adaptaciones y Equivalencias de la Universidad de Málaga. ",
                 "D.-  Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "21.-  En la Universidad de M\u00e1laga y en el supuesto de concesi\u00f3n de un adelanto de cajero para",
+            "question": "21.-  En la Universidad de M\u00e1laga y en el supuesto de concesi\u00f3n de un adelanto de cajero para un viaje ¿Qué plazo se tendrá para justificar los gastos correspondientes desde que finalice el mismo?",
             "options": [
                 "A.- Un mes.  ",
                 "B.- Quince d\u00edas. ",
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "question": "22.-  \u00bfCu\u00e1l de los siguientes sucesos supone una alteraci\u00f3n de la titularidad de la",
+            "question": "22.-  \u00bfCu\u00e1l de los siguientes sucesos supone una alteraci\u00f3n de la titularidad de la competencia?",
             "options": [
                 "A.-  Avoc aci\u00f3n.  ",
                 "B.-  Encomienda de gesti\u00f3n.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- En un procedimiento administrativo \u00bfEn qu\u00e9 plazo se podr\u00e1 subsanar el defecto de",
+            "question": "23.- En un procedimiento administrativo \u00bfEn qu\u00e9 plazo se podr\u00e1 subsanar el defecto de insuficiente acreditación?",
             "options": [
                 "A.- Quince d\u00edas.  ",
                 "B.- Diez d\u00edas.  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- En el \u00e1mbito de las Administraciones P\u00fablicas los puestos de trabajo podr\u00e1n agruparse en",
+            "question": "24.- En el \u00e1mbito de las Administraciones P\u00fablicas los puestos de trabajo podr\u00e1n agruparse en función de sus características para ordenar:",
             "options": [
                 "A.- La selecci\u00f3n.  ",
                 "B.- La formaci\u00f3n. ",

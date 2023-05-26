@@ -12,32 +12,32 @@
         {
             "question": "2.- Las Corporaciones de Derecho P\u00fablico se regir\u00e1n por:",
             "options": [
-                "A.- Su normativa espec\u00edfica en el ejercicio de las funciones p\u00fablicas que les hayan sido ",
-                "B.- La presente Ley, y supletoriamente por su normativa espec\u00edfica en el ejercicio de las ",
-                "C.- Su normativa espec\u00edfica en el ejercicio de las funciones p\u00fablicas que les hayan sido ",
-                "D.- La presente Ley, y supletoriamente por su normativa espec\u00edfica e n el ejercicio de las "
+                "A.- Su normativa espec\u00edfica en el ejercicio de las funciones p\u00fablicas que les hayan sido atribuidas por Ley o delegadas por una Administración Pública, y supletoriamente por la presente Ley.",
+                "B.- La presente Ley, y supletoriamente por su normativa espec\u00edfica en el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o delegadas por una Administración Pública.",
+                "C.- Su normativa espec\u00edfica en el ejercicio de las funciones p\u00fablicas que les hayan sido atribuidas por Ley o cedidas por una Administración Pública, y supletoriamente por la presente Ley.",
+                "D.- La presente Ley, y supletoriamente por su normativa espec\u00edfica e n el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o cedidas por una Administración Pública"
             ]
         },
         {
-            "question": "3.- Podr\u00e1 suspenderse el plazo m\u00e1ximo legal para resolver un procedimiento y notificar la",
+            "question": "3.- Podr\u00e1 suspenderse el plazo m\u00e1ximo legal para resolver un procedimiento y notificar la resolución cuando se soliciten informes prece ptivos a un órgano de la misma o distinta Administración, por el tiempo que medie entre la petición y la recepción del informe. Este plazo de suspensión no podrá exceder en ningún caso de:",
             "options": [
-                "A.- 3 meses. En caso de no recibirse el informe en el plazo indic ado, caducar\u00e1 el ",
-                "B.- 1 mes. En caso de no recibirse el informe en el plazo indicado, proseguir\u00e1 el ",
+                "A.- 3 meses. En caso de no recibirse el informe en el plazo indic ado, caducar\u00e1 el procedimiento.",
+                "B.- 1 mes. En caso de no recibirse el informe en el plazo indicado, proseguir\u00e1 el procedimiento.",
                 "C.- 1 mes. En caso de no recibirse el informe en el plazo indicado, caducar\u00e1 el procedimiento.  ",
-                "D.- 3 meses. En caso de no recibirse el informe en el plazo indicado, proseguir\u00e1 el "
+                "D.- 3 meses. En caso de no recibirse el informe en el plazo indicado, proseguir\u00e1 el procedimiento."
             ]
         },
         {
-            "question": "4.-  Cuando la encomienda de gesti\u00f3n se realice entre \u00f3rganos y Entidades de Derecho P\u00fablico",
+            "question": "4.-  Cuando la encomienda de gesti\u00f3n se realice entre \u00f3rganos y Entidades de Derecho P\u00fablico de distintas Administraciones la formalización:",
             "options": [
                 "A.- Se realizar\u00e1 mediante firma del correspondiente convenio entre ellas.  ",
-                "B.- Deber\u00e1 ser publicada en el Bolet\u00edn Oficial del Estado, en el Bolet\u00edn oficial de la Comunidad ",
-                "C.- En el supuesto de la gesti\u00f3n ordinaria de los servicios de las Comunidades Aut\u00f3nomas ",
+                "B.- Deber\u00e1 ser publicada en el Bolet\u00edn Oficial del Estado, en el Bolet\u00edn oficial de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano encomendante.  ",
+                "C.- En el supuesto de la gesti\u00f3n ordinaria de los servicios de las Comunidades Aut\u00f3nomas por las Diputaciones Provinciales o en su caso Cabildos o Consejos insulares se regirá por la legislación de Régimen Local.",
                 "D.- Todas las respuestas anteriores son correctas.   "
             ]
         },
         {
-            "question": "5.- Los titulares de los \u00f3rganos administrativos podr\u00e1n ser suplidos temporal mente:  Miscel\u00e1 nea 10",
+            "question": "5.- Los titulares de los \u00f3rganos administrativos podr\u00e1n ser suplidos temporalmente:",
             "options": [
                 "A.- En los supuestos de vacante o ausencia.  ",
                 "B.- En los supuestos de enfermedad.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.-  Conforme al a rt\u00ba 2.1 del Estatuto B\u00e1sico del Empleado P\u00fablico el mismo vendr\u00eda a no incluir",
+            "question": "6.-  Conforme al a rt\u00ba 2.1 del Estatuto B\u00e1sico del Empleado P\u00fablico el mismo vendr\u00eda a no incluir explícitamente dentro de su ámbito de aplicación directa al personal funcionario:",
             "options": [
                 "A.- Al servicio de las Universidades P\u00fablicas.  ",
                 "B.- Al servicio de las Cortes Generales.  ",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "question": "7.- \u00bfCu\u00e1l de las siguientes clases de empleados p\u00fablicos no aparece contemplada en el Estatuto",
+            "question": "7.- \u00bfCu\u00e1l de las siguientes clases de empleados p\u00fablicos no aparece contemplada en el Estatuto Básico del Empleado Público?",
             "options": [
                 "A.- Personal laboral.  ",
                 "B.- Personal eventual pues actualmente recibe la denominaci\u00f3n de personal directivo.  ",
@@ -66,9 +66,9 @@
         {
             "question": "8.- Las Universidades :",
             "options": [
-                "A.- Tendr\u00e1n personalidad jur\u00eddica propia y su objeto social exclusivo ser\u00e1 la educaci\u00f3n ",
-                "B.- Tendr\u00e1n personalidad jur\u00eddica propia, no pudiendo adoptar ninguna de las formas ",
-                "C.- No tend r\u00e1n personalidad jur\u00eddica propia y su objeto social exclusivo ser\u00e1 la educaci\u00f3n ",
+                "A.- Tendr\u00e1n personalidad jur\u00eddica propia y su objeto social exclusivo ser\u00e1 la educaci\u00f3n superior y la investigación.",
+                "B.- Tendr\u00e1n personalidad jur\u00eddica propia, no pudiendo adoptar ninguna de las formas admitidas en Derecho por ser administraciones públicas.",
+                "C.- No tend r\u00e1n personalidad jur\u00eddica propia y su objeto social exclusivo ser\u00e1 la educaci\u00f3n superior.",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
@@ -84,28 +84,28 @@
         {
             "question": "10.- Seg\u00fan el art\u00edculo 2 de la LAU, el sist ema universitario andaluz se compone:",
             "options": [
-                "A.- Las Universidades p\u00fablicas y privadas comprendidas en el territorio de la Comunidad ",
-                "B.- Las Universidades creadas o reconocidas por Ley y comprendidas en el territorio de la ",
+                "A.- Las Universidades p\u00fablicas y privadas comprendidas en el territorio de la Comunidad Autónoma Andaluza.",
+                "B.- Las Universidades creadas o reconocidas por Ley y comprendidas en el territorio de la Comunidad Autónoma  Andaluz. ",
                 "C.- Las Universidades creadas o reconocidas por Ley del Parlamento de Andaluc\u00eda.  ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "11.- Las funciones mediante las cuales se presta el servicio p\u00fablico de la educaci\u00f3n superior",
+            "question": "11.- Las funciones mediante las cuales se presta el servicio p\u00fablico de la educaci\u00f3n superior según el artículo 4 de la LAU son:",
             "options": [
                 "A.- Investigaci\u00f3n, docencia y estudio.  ",
                 "B.- Formaci\u00f3n, estudio y docencia.  ",
                 "C.- Docencia, estudio y gesti\u00f3n.  ",
-                "D.- Docencia, la investigaci\u00f3n, la transferencia de conocimiento, la extensi\u00f3n cultural y el "
+                "D.- Docencia, la investigaci\u00f3n, la transferencia de conocimiento, la extensi\u00f3n cultural y el estudio."
             ]
         },
         {
-            "question": "12.- En cuanto a la composici\u00f3n del Consejo de Gobierno de la UMA, se\u00f1ala la respuesta",
+            "question": "12.- En cuanto a la composici\u00f3n del Consejo de Gobierno de la UMA, se\u00f1ala la respuesta incorrecta:  ",
             "options": [
                 "A.- 15 miembros ser\u00e1n designados por el Rector.  ",
                 "B.- 12 mi embros ser\u00e1n elegidos por y de entre los decanos y directores.  ",
                 "C.- 20 miembros ser\u00e1n elegidos por el Claustro. ",
-                "D.- 3 miembros ser\u00e1n designados por el Consejo Social pertenecientes a la Comunidad "
+                "D.- 3 miembros ser\u00e1n designados por el Consejo Social pertenecientes a la Comunidad Universitaria.  "
             ]
         },
         {
@@ -118,11 +118,11 @@
             ]
         },
         {
-            "question": "14.- Por excepci\u00f3n, el personal incluido en el \u00e1mbito  de Aplicaci\u00f3n de la Ley 53/1984, podr\u00e1 un",
+            "question": "14.- Por excepci\u00f3n, el personal incluido en el \u00e1mbito  de Aplicaci\u00f3n de la Ley 53/1984, podr\u00e1 un funcionario compatibilizar su actividad ¿Con cuál de los cargos electivo s siguientes?",
             "options": [
-                "A.- Miembros de las As ambleas Lehislativas de la Comunidades Aut\u00f3nomas, salvo que ",
-                "B.- Miembros de las Cortes Generales, salvo que perciban retribuciones peri\u00f3dicas por el ",
-                "C.- Miembros del Senado, salvo que perciban retribuciones peri\u00f3dicas por el desempe\u00f1o de ",
+                "A.- Miembros de las As ambleas Lehislativas de la Comunidades Aut\u00f3nomas, salvo que perciban retribuciones periódicas por el desempeño de la función o que por las mismas se establezca incompatibilidad.",
+                "B.- Miembros de las Cortes Generales, salvo que perciban retribuciones peri\u00f3dicas por el desempeño de la función o que por las mismas se establezca incompatibilidad.  ",
+                "C.- Miembros del Senado, salvo que perciban retribuciones peri\u00f3dicas por el desempe\u00f1o de la función o que por las mismas se establezca incompatibilidad.",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
@@ -131,12 +131,12 @@
             "options": [
                 "A.- Los cr\u00e9ditos extraordinarios concedidos durante el ejercicio . ",
                 "B.- Los cr\u00e9ditos incrementados con suplementos. ",
-                "C.- Los cr\u00e9ditos ampliado s. ",
+                "C.- Los cr\u00e9ditos ampliados. ",
                 "D.- No afectar\u00e1n a nada de los citado con anterioridad.  "
             ]
         },
         {
-            "question": "16.- De conformidad con lo establecido en la normativa vigente, el grado personal m\u00e1ximo que",
+            "question": "16.- De conformidad con lo establecido en la normativa vigente, el grado personal m\u00e1ximo que puede ser consolidado por el personal funcionarios pertenecientes a cuerpos y escala del subgrupo A1 es:",
             "options": [
                 "A.- 30.  ",
                 "B.- 29. ",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "question": "17.- \u00bfQu\u00e9 plazo tiene la autoridad que acord\u00f3 el nombramiento del Instructor para resolver",
+            "question": "17.- \u00bfQu\u00e9 plazo tiene la autoridad que acord\u00f3 el nombramiento del Instructor para resolver sobre la abstención o la recusación?",
             "options": [
                 "A.- 4 d\u00edas.  ",
                 "B.- 3 d\u00edas.  ",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- \u00bfDe qu\u00e9 plazo dispone la comisi\u00f3n acad\u00e9mica responsable del programa de doctorado para",
+            "question": "18.- \u00bfDe qu\u00e9 plazo dispone la comisi\u00f3n acad\u00e9mica responsable del programa de doctorado para asignar a cada doctorando un director de tesis doctoral, según el artículo 11 del Real Decreto 99/2011, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado? ",
             "options": [
                 "A.- En el plazo m\u00e1ximo de treinta d\u00edas meses desde la recepci\u00f3n de la solicitud.  ",
                 "B.- En el plazo m\u00e1ximo de tres meses desde la recepci\u00f3n de la solicitud.  ",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- \u00bfC\u00faal de los siguientes no es un principio contable de car\u00e1cter econ\u00f3mico patrimonial que",
+            "question": "19.- \u00bfC\u00faal de los siguientes no es un principio contable de car\u00e1cter econ\u00f3mico patrimonial que se aplica a la contabilidad de la UMA?",
             "options": [
                 "A.- Gesti\u00f3n continuada.  ",
                 "B.- Desafectaci\u00f3n.  ",
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- La declaraci\u00f3n que proclam\u00f3 la progresiva armonizaci\u00f3n de los sistemas universitarios con",
+            "question": "20.- La declaraci\u00f3n que proclam\u00f3 la progresiva armonizaci\u00f3n de los sistemas universitarios con el fin de Construir el Espacio Europeo de Educación Superior se denominó:",
             "options": [
                 "A.- Declaraci\u00f3n de Colonia.  ",
                 "B.- Declaraci\u00f3n de Polonia.  ",
@@ -181,16 +181,16 @@
             ]
         },
         {
-            "question": "21.- Entre los principi os generales que deber\u00e1n inspira r el dise\u00f1o de los nuevos t\u00edtulos los planes",
+            "question": "21.- Entre los principi os generales que deber\u00e1n inspira r el dise\u00f1o de los nuevos t\u00edtulos los planes de  estudios deberán tener en cuenta que cualquier actividad professional debe realizarse: ",
             "options": [
                 "A.- De cuerdo con los valores propios de una cultura de paz y de valores democr\u00e1ticos. ",
-                "B.- Desde el respeto a los derechos fundamentales y de igualdad entre hombres y mujeres.  Miscel\u00e1 nea 10 ",
-                "C.- Desde el respeto y promoci\u00f3n de los derechos humanos y los principios de ac cesibilidad ",
+                "B.- Desde el respeto a los derechos fundamentales y de igualdad entre hombres y mujeres.",
+                "C.- Desde el respeto y promoci\u00f3n de los derechos humanos y los principios de ac cesibilidad y diseño para todos",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "22.- \u00bfCu\u00e1ntas veces pueden presentarse de nuevo los alumnos que hayan superado la prueba",
+            "question": "22.- \u00bfCu\u00e1ntas veces pueden presentarse de nuevo los alumnos que hayan superado la prueba de acceso a los estudios universitarios (selectividad), con la finalidad de mejor ar la calificación obtenida?",
             "options": [
                 "A.- Cuatro veces.  ",
                 "B.- Seis veces.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- De acuerdo con lo establecido en el art\u00edculo 14 del Real decreto 822/2021, e l trabajo de fin",
+            "question": "23.- De acuerdo con lo establecido en el art\u00edculo 14 del Real decreto 822/2021, el trabajo de fin de grado tendrá  para los títulos de 300 créditos :",
             "options": [
                 "A.- Un m\u00ednimo de 6  cr\u00e9ditos y un m\u00e1ximo de  24 cr\u00e9ditos.  ",
                 "B.- Un m\u00ednimo de 6  cr\u00e9ditos y un m\u00e1ximo de 30  cr\u00e9ditos .  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- Los estudiantes de la UMA que participen en programas o convenios de movilidad deber\u00e1n",
+            "question": "24.- Los estudiantes de la UMA que participen en programas o convenios de movilidad deber\u00e1n matricularse de las asignaturas y/o el número de créditos:",
             "options": [
                 "A.- No menor a 60 cr\u00e9ditos, salvo que obtengan el reconocimiento de estudiantes a tiempo parcial. ",
                 "B.- Que figuren en sus respectivos Acuerdos de Aprendizaje.  ",
@@ -217,12 +217,12 @@
             ]
         },
         {
-            "question": "25.- De acuerdo con el art\u00edculo 2 de la Resoluci\u00f3n de 21 de diciembre de 2021, de la Direcci\u00f3n",
+            "question": "25.- De acuerdo con el art\u00edculo 2 de la Resoluci\u00f3n de 21 de diciembre de 2021, de la Direcci\u00f3n General de Universidades, por la que se hace público el Acuerdo de 2 de diciembre de 2021, de la Comisión del Distrito Único Universitario de Andalucía, por el que se  establece el procedimiento de admisión para el curso 2022 -2023 en los estudios universitarios de Grado ¿Cuál de los siguientes no necesitará realizar preinscripción para acceder a los estudios de grado?",
             "options": [
-                "A.- Una persona que haya superado el Curso de Orien taci\u00f3n Universitaria (C.O.U.) con ",
+                "A.- Una persona que haya superado el Curso de Orien taci\u00f3n Universitaria (C.O.U.) con anterioridad al curso académico 1974/75, el Curso Preuniversitario y las Pruebas de Madurez, o el Bachillerato de planes anteriores a 1953.",
                 "B.- Una persona que est\u00e9 en posesi\u00f3n de un t\u00edtulo universitario o equivalente que habilite para el acceso a la Universidad.  ",
                 "C.- Una persona que haya superado la Prueba de Acceso a la Universidad para mayores de 25 a\u00f1os.  ",
-                "D.- Todos los  anteriores tendr\u00e1nn que realiza r la preinscripci\u00f3n para accede a los estudios "
+                "D.- Todos los  anteriores tendr\u00e1nn que realiza r la preinscripci\u00f3n para accede a los estudios de grado. "
             ]
         }
     ]
