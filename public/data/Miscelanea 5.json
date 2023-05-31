@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- Para poder ejercer el derecho a un a\u00f1o de exenci\u00f3n de obligaciones docentes, para realizar",
+            "question": "1.- Para poder ejercer el derecho a un año de exención de obligaciones docentes, para realizar trabajos de investigación o docencia en alguna otra universidad, centro o institución nacional o extranjera no se han podido disfrutar de licencias de estudios que, sumadas, sean iguales o superiores a un año. Para este cómputo se tendrán en cuenta las licencias de duración superior a:",
             "options": [
                 "A.- Tres meses. ",
                 "B.- Dos meses.  ",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "question": "2.- De acuerdo con la LPA en el caso de que en un procedimiento administrativo se solicite un",
+            "question": "2.- De acuerdo con la LPA en el caso de que en un procedimiento administrativo se solicite un informe facultativo , este deberá fundamentarse en:",
             "options": [
                 "A.- El precepto que lo exija.  ",
                 "B.- El extremo acerca de lo que se solicita.  ",
@@ -23,7 +23,7 @@
             "options": [
                 "A.- Altera la competencia del \u00f3rgano delegante.  ",
                 "B.- No es necesaria su publicaci\u00f3n.  ",
-                "C.- En las resoluciones y actos que se firmen por delegaci\u00f3n no ser\u00e1 necesario hacer constar la ",
+                "C.- En las resoluciones y actos que se firmen por delegación no será necesario hacer constar la autoridad de procedencia.  ",
                 "D.- Cabe delegar la firma de cualquier tipo de resoluciones.  "
             ]
         },
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- Los bienes afectos al cumplimiento de los fines de la Universidad de M\u00e1laga, y los actos que \u00e9sta",
+            "question": "5.- Los bienes afectos al cumplimiento de los fines de la Universidad de Málaga, y los actos que ésta realice para el desarrollo de tales fines, así como sus rendimientos, disfrutarán de:",
             "options": [
                 "A.- Exacci\u00f3n tributaria.  ",
                 "B.- Bonificaci\u00f3n tributaria.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- Dentro del Ordenamiento Jur\u00eddico Espa\u00f1ol \u00bfCu\u00e1l de las siguientes ocupa el \u00faltimo lugar en la",
+            "question": "6.- Dentro del Ordenamiento Jurídico Español ¿Cuál de las siguientes ocupa el último lugar en la pirámide normativa?  ",
             "options": [
                 "A.- Leyes Auton\u00f3micas.  ",
                 "B.- Tratados Internacionales. ",
@@ -77,7 +77,7 @@
             "options": [
                 "A.- El arrendamiento de equipos y sistemas de telecomunicaciones.  ",
                 "B.- La adquisici\u00f3n de programas de ordenador desarrollados a medida.  ",
-                "C.- Los de fabricaci\u00f3n, por los que la cosa o cosas que hayan de ser entregadas por el empresario ",
+                "C.- Los de fabricación, por los que la cosa o cosas que hayan de ser entregadas por el empresario deban ser elaboradas con arreglo a características peculiares fijadas previamente por la entidad contratante.",
                 "D.- Todos los anteriores se considerar\u00e1n contratos de suministro.  "
             ]
         },
@@ -102,11 +102,14 @@
         {
             "question": "13.- De acuerdo con la LPA el plazo de prescripci\u00f3n de las sancione s empezar\u00e1 a contarse:",
             "options": [
-                "B.- Desde el d\u00eda en que la infracci\u00f3n se hubiera cometido . "
+                "A.-Comenzará a contarse desde el día siguiente a aquel en que sea ejecutable la resolución por la que se impone la sanción .  ",
+                "B.- Desde el día en que la infracción se hubiera cometido . ",
+                "C.-Desde el día en que se haya notificado la resolución del expediente y la correspondiente sanción  ",
+                "D.-Corresponde a cada administración establecer el régimen de prescripción de las sanciones administrativas en su ámbito competencial ."
             ]
         },
         {
-            "question": "14.- \u00bfCu\u00e1ntos profesores doctores con vinculaci\u00f3n permanente, como m\u00ednimo,  son elegidos por el",
+            "question": "14.- ¿Cuántos profesores doctores con vinculación permanente, como mínimo,  son elegidos por el Claustro Universitario para formar parte del Consejo de Gobierno de la Universidad?  ",
             "options": [
                 "A.- 4.  ",
                 "B.- 5. ",
@@ -124,6 +127,15 @@
             ]
         },
         {
+            "question": "16.-Determina la Constitución que “el Estado podrá dictar Leyes que establezcan los principios necesarios para armonizar…”:",
+            "options": [
+                "A.- La gestión de los servicios de las Comunidades Autónomas.  ",
+                "B.- El ejercicio de competencias de las Comunidades Autónomas.  ",
+                "C.- Las actuaciones llevadas a cabo por las Comunidades Autónomas. ",
+                "D.- Las disposiciones normativas de las Comunidades Autónomas.   "
+            ]
+        },
+        {
             "question": "17.- El procedimiento de matriculaci\u00f3n de un alumno en la UMA:",
             "options": [
                 "A.- Se inicia a solicitud del interesado.  ",
@@ -137,21 +149,21 @@
             "options": [
                 "A.- No significa nada ya que la inderogabilidad singular es solamente predicable de los ",
                 "B.- Que las resoluciones administrativas de car\u00e1cter general pueden vulnerar lo establecido en las de car\u00e1cter particular.  ",
-                "C.- Que las resoluciones administrativas de car\u00e1cter particular no podr\u00e1n vulnerar lo establecido ",
-                "D.- Que las disposiciones administrativas no podr\u00e1n vulnerar la Constituci\u00f3n o las leyes, ni regular aquellas materias que la Constituci\u00f3n o los Estatutos de Autonom\u00eda reconocen de la "
+                "C.- Que las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas tengan igual o superior rango a estas.",
+                "D.- Que las disposiciones administrativas no podrán vulnerar la Constitución o las leyes, ni regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas"
             ]
         },
         {
-            "question": "19.- \u00bfCu\u00e1l de los siguientes no es un recurso, econ\u00f3mico o financiero, de la Universidad de M\u00e1laga",
+            "question": "19.- \u00bfCu\u00e1l de los siguientes no es un recurso, econ\u00f3mico o financiero, de la Universidad de M\u00e1laga para el cumplimiento de sus fines? ",
             "options": [
                 "A.- Los remanentes de tesorer\u00eda.  ",
                 "B.- Los ingresos procedentes de contratos de colaboraci\u00f3n con otras Universidades.  ",
                 "C.- La venta de una propiedad incorporal.  ",
-                "D.- Todos los anteriores son recursos de la Universidad  de M\u00e1laga para el cumplimiento de sus "
+                "D.- Todos los anteriores son recursos de la Universidad  de M\u00e1laga para el cumplimiento de sus fines"
             ]
         },
         {
-            "question": "20.- \u00bfCu\u00e1l de los siguientes requisitos no ser\u00e1 necesario para poder participar en los procesos",
+            "question": "20.- \u00bfCu\u00e1l de los siguientes requisitos no ser\u00e1 necesario para poder participar en los procesos selectivos de acuerdo con lo recogido en el Estatuto Básico de la Función Pública?",
             "options": [
                 "A.- Poseer la capacidad func ional para el desempe\u00f1o de las tareas.  ",
                 "B.- Tener cumplidos diecis\u00e9is a\u00f1os y no exceder, en su caso, de la edad m\u00e1xima de jubilaci\u00f3n forzosa.  ",
@@ -163,20 +175,22 @@
             "question": "21.- \u00bfDesde qu\u00e9 momento podr\u00e1 ejercitarse la recusaci\u00f3n en un procedimiento disciplinario?",
             "options": [
                 "A.- Desde el momento de incoaci\u00f3n del procedimiento disciplinario.  ",
-                "B.- Desde el momento que el interesado tenga conocimiento de quienes son el instructor y el ",
+                "B.- Desde el momento que el interesado tenga conocimiento de quienes son el instructor y el secretario. ",
                 "C.- Desde el momento en que se realice las diligencias previas o informaci\u00f3n reservada.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "22.- La normat iva b\u00e1sica que permita a las Universidades fijar los procedimientos de solicitud de",
+            "question": "22.- La normat iva básica que permita a las Universidades fijar los procedimientos de solicitud de plaza de los alumnos que hayan superado las correspondientes pruebas de acceso, la matriculación y la incorporación de los mismos a la Universidad corresponde:",
             "options": [
                 "A.- Al Gobi erno previo informe del Consejo de Universidades.  ",
-                "C.- A las Comunidades Aut\u00f3nomas, o\u00eddas las Universidades establecidas en su territorio.  "
+                "B.-Al Gobierno, previa consulta de las Comunidades Autónomas.  ",
+                "C.- A las Comunidades Autónomas, oídas las Universidades establecidas en su territorio.  ",
+                "D.-A las Universidades de acuerdo con las directrices f ijadas por el Gobierno. "
             ]
         },
         {
-            "question": "23.- \u00bfQui\u00e9n fija la cuant\u00eda de los derechos por certificaciones y t\u00edtulos oficiales que expida la",
+            "question": "23.- ¿Quién fija la cuantía de los derechos por certificaciones y títulos oficiales que expida la Universidad?",
             "options": [
                 "A.- El Consejo de Gobierno de la Comunidad Aut\u00f3noma de Andaluc\u00eda.  ",
                 "B.- El Consejo Social previo informe del Consejo de Gobierno.   ",
@@ -185,7 +199,7 @@
             ]
         },
         {
-            "question": "24.- Aceptar y cumplir el c\u00f3digo \u00e9tico de la Universidad de M\u00e1laga y actuar conforme a sus",
+            "question": "24.- Aceptar y cumplir el c\u00f3digo \u00e9tico de la Universidad de M\u00e1laga y actuar conforme a sus compromisos es un deber:  ",
             "options": [
                 "A.- Del personal docente y/o investigador.  ",
                 "B.- Del personal de administraci\u00f3n y servicios.  ",
@@ -196,7 +210,7 @@
         {
             "question": "25.- Contra los actos de tr\u00e1mite \u00bfQu\u00e9 recurso cabe?",
             "options": [
-                "A.- Alzada o potestativo de reposici\u00f3n, que cabr\u00e1 fundar en cualquiera de los motivos de nulidad ",
+                "A.- Alzada o potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad, siempre que decidan directa o indirectamente el fondo del asunto, determinen la  imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.",
                 "B.- Contra los actos de tr\u00e1mite no cabe recurso, pero podr\u00e1n alegrarse los interesados.  ",
                 "C.- Recurso extraordinario de reposici\u00f3n. ",
                 "D.- Toda s las respuestas anteriores son correctas.  "
