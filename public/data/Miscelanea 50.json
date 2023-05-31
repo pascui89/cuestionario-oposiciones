@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- Seg\u00fan lo dispuesto en la Constituci\u00f3n Espa\u00f1ola las disposiciones del Gobierno que contengan",
+            "question": "1.- Seg\u00fan lo dispuesto en la Constituci\u00f3n Espa\u00f1ola las disposiciones del Gobierno que contengan legislaci\u00f3n delegada, recibir\u00e1n el t\u00edtulo de:",
             "options": [
                 "A.- Decretos -Leyes.  ",
                 "B.- Leyes ordinarias.  ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- De acuerdo con el art\u00edculo 55 de la LAU, las Universidades andaluzas fomentar\u00e1n el estudio,",
+            "question": "4.- De acuerdo con el art\u00edculo 55 de la LAU, las Universidades andaluzas fomentar\u00e1n el estudio, la docencia y la investigaci\u00f3n como actividades encaminadas a lograr:",
             "options": [
                 "A.- La formaci\u00f3n investigadora.  ",
                 "B.- La continuidad de la carrera acad\u00e9mica.  ",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- De acuerdo con el art\u00edculo 70 de la LAU, la programaci\u00f3n universitaria de la Junta de",
+            "question": "5.- De acuerdo con el art\u00edculo 70 de la LAU, la programaci\u00f3n universitaria de la Junta de Andaluc\u00eda incluye, como m\u00ednimo:",
             "options": [
                 "A.- Las ense\u00f1anzas conducentes a la obtenci\u00f3n de los t\u00edtulos universitarios oficia les. ",
                 "B.- La programaci\u00f3n de implantaci\u00f3n  de las ense\u00f1anzas . ",
@@ -48,14 +48,14 @@
         {
             "question": "6.- \u00bfQu\u00e9 gastos se distinguen en los cr\u00e9ditos para operaciones corrientes?",
             "options": [
-                "A.- Los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros ",
+                "A.- Los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias de capital.  ",
                 "B.- Los gastos de personal, los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias corrientes.   ",
                 "C.- Los gastos de personal, los gastos corrientes en bienes y servicios y las transferencias corrientes y de capital.  ",
-                "D.- Los gastos de personal , los gastos corrientes en bienes y servicios, los gastos financieros "
+                "D.- Los gastos de personal , los gastos corrientes en bienes y servicios, los gastos financieros y las transferencias corrientes y de capital. "
             ]
         },
         {
-            "question": "7.- De acuerdo con lo establecido en el art\u00edculo 172 del Reglamento de R\u00e9gimen Econ\u00f3mico y",
+            "question": "7.- De acuerdo con lo establecido en el art\u00edculo 172 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de M\u00e1laga \u00bfa qui\u00e9n corresponde proceder, en acto p\u00fablico, a  la apertura de las proposiciones presentadas para la  adqu isici\u00f3n de bienes inmuebles a t\u00edtulo oneroso?",
             "options": [
                 "A.- Al Rector . ",
                 "B.- Al Gerente.  ",
@@ -73,16 +73,16 @@
             ]
         },
         {
-            "question": "9.- Seg\u00fan lo recogido en el art\u00edculo 10 del EBEP, l os funcionarios interinos pueden ser nombrados",
+            "question": "9.- Seg\u00fan lo recogido en el art\u00edculo 10 del EBEP, l os funcionarios interinos pueden ser nombrados por causa de:",
             "options": [
-                "A.- Exceso o acumulaci\u00f3n de tareas por plazo m\u00e1ximo de 3 meses, dentro de un periodo de ",
-                "B.- Exceso o acumulaci\u00f3n de tareas por plazo m\u00e1ximo de 6 meses, dentro de un periodo de ",
-                "C.- Exceso o acumulaci\u00f3n de tareas por plazo  m\u00e1xi mo de 9  meses, dentro de un periodo de ",
-                "D.- Exceso o acumulaci\u00f3n de tareas por plazo  m\u00e1ximo de 12  meses, dentro de un periodo de "
+                "A.- Exceso o acumulaci\u00f3n de tareas por plazo m\u00e1ximo de 3 meses, dentro de un periodo de 6 meses.  ",
+                "B.- Exceso o acumulaci\u00f3n de tareas por plazo m\u00e1ximo de 6 meses, dentro de un periodo de 12 meses .  ",
+                "C.- Exceso o acumulaci\u00f3n de tareas por plazo  m\u00e1xi mo de 9  meses, dentro de un periodo de 18 meses .  ",
+                "D.- Exceso o acumulaci\u00f3n de tareas por plazo  m\u00e1ximo de 12  meses, dentro de un periodo de 24 meses . "
             ]
         },
         {
-            "question": "10.- De acuerdo con lo establecido en el art\u00edculo 84 del EBEP, las medidas de movilidad",
+            "question": "10.- De acuerdo con lo establecido en el art\u00edculo 84 del EBEP, las medidas de movilidad interadministrativ a se establecer\u00e1n preferentemente:",
             "options": [
                 "A.- Mediante Ley.  ",
                 "B.- Mediante un reglamento espec\u00edfico.  ",
@@ -93,14 +93,14 @@
         {
             "question": "11.- No es funci\u00f3n del Consejo Social de la UMA:",
             "options": [
-                "A.- Supervisar las actividades de car\u00e1cter econ\u00f3mico de la Universidad y del rendimiento de ",
-                "B.- Aprobar el presupuesto y la programaci\u00f3n plurianual de la Universidad, a propuesta del ",
-                "C.- Colaborar con el Consejo de Gobierno en la definici\u00f3n de los criterios y los objetivos de ",
+                "A.- Supervisar las actividades de car\u00e1cter econ\u00f3mico de la Universidad y del rendimiento de sus servicios.  ",
+                "B.- Aprobar el presupuesto y la programaci\u00f3n plurianual de la Universidad, a propuesta del Claustro.  ",
+                "C.- Colaborar con el Consejo de Gobierno en la definici\u00f3n de los criterios y los objetivos de planeamiento estrat\u00e9gico de la Universidad . ",
                 "D.- Todas las ant eriores son funciones del Consejo Social de la UMA.  "
             ]
         },
         {
-            "question": "12.- Seg\u00fan el art\u00edculo 49 de la LOU, c ompletar la formaci\u00f3n docente e investigadora de quienes",
+            "question": "12.- Seg\u00fan el art\u00edculo 49 de la LOU, c ompletar la formaci\u00f3n docente e investigadora de quienes los suscriban , es una finalidad principal de los contratos de:",
             "options": [
                 "A.- Ayudante.  ",
                 "B.- Profesor Ayudante.  ",
@@ -109,25 +109,25 @@
             ]
         },
         {
-            "question": "13.- De acuerdo con los Estatutos de la Universidad de M\u00e1laga, e l Consejo de Estudiantes estar\u00e1",
+            "question": "13.- De acuerdo con los Estatutos de la Universidad de M\u00e1laga, e l Consejo de Estudiantes estar\u00e1 presidido por:",
             "options": [
                 "A.- El Presidente del Consejo de Estudiantes de Centro m\u00e1s antiguo.  ",
                 "B.- El Presidente del Consejo de Alumnos.  ",
-                "C.- El miembro del Consejo de Gobierno de este colectivo que sea designado por los ",
+                "C.- El miembro del Consejo de Gobierno de este colectivo que sea designado por los mismos . ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "14.- De acuerdo con lo regulado en el art\u00edculo 9 de la Ley 39/2015, lo s interesados podr\u00e1n",
+            "question": "14.- De acuerdo con lo regulado en el art\u00edculo 9 de la Ley 39/2015, lo s interesados podr\u00e1n identificarse  electr\u00f3nicamente ante las Administraciones  P\u00fablicas a trav\u00e9s de:",
             "options": [
-                "A.- Sistemas basados en certificados  electr\u00f3nicos reconocidos o cualificados  de sello ",
-                "B.- Sistemas cifrados de sello electr\u00f3nico  expedidos por proveedores de  servicio incluidos ",
-                "C.- Sistemas basados en certificados  digitales de s ello electr\u00f3nico expedidos  por ",
+                "A.- Sistemas basados en certificados  electr\u00f3nicos reconocidos o cualificados  de sello electr\u00f3nico expedidos  por prestadores incluidos en la \u00abLis ta de confianza de prestadores de servicios  de certificaci\u00f3n\u00bb.  ",
+                "B.- Sistemas cifrados de sello electr\u00f3nico  expedidos por proveedores de  servicio incluidos en la \u00abLista oficial de proveedores de servicio\u00bb . ",
+                "C.- Sistemas basados en certificados  digitales de s ello electr\u00f3nico expedidos  por prestadores  incluidos en la  \u00abLista oficial de firmas digitales\u00bb.  ",
                 "D.- Ninguna de las contestaciones anteriores es correcta.  "
             ]
         },
         {
-            "question": "15.- En los casos previstos como motivos de abstenci\u00f3n, podr\u00e1 promoverse recusaci\u00f3n por los",
+            "question": "15.- En los casos previstos como motivos de abstenci\u00f3n, podr\u00e1 promoverse recusaci\u00f3n por los interesad os:",
             "options": [
                 "A.- En cualquier momento de la tramitaci\u00f3n del procedimiento.  ",
                 "B.- En cualquier momento anterior al tr\u00e1mite de audiencia.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- De acuerdo con el art\u00edculo 14 del Reglamento de R\u00e9gimen Eco n\u00f3mico y Financiero de la",
+            "question": "16.- De acuerdo con el art\u00edculo 14 del Reglamento de R\u00e9gimen Eco n\u00f3mico y Financiero de la UMA \u00bfa  qui\u00e9n corresponde fijar la cuant\u00eda m\u00ednima para que se practique una liquidaci\u00f3n por inter\u00e9s de demora?",
             "options": [
                 "A.- Al Consejo Social.  ",
                 "B.- Al Consejo de Gobierno.  ",
@@ -145,16 +145,16 @@
             ]
         },
         {
-            "question": "17.- Cuan do se haya producido el pago  indeb ido mediante la figura del Anticipo de Caja Fija, la",
+            "question": "17.- Cuan do se haya producido el pago  indeb ido mediante la figura del Anticipo de Caja Fija, la materializaci\u00f3n del reintegro se realizar\u00e1 mediante ingreso por la persona interesada en la Caja o en las cuentas bancarias de la totalidad de la deuda, o bien por:",
             "options": [
-                "A.-  Compensaci\u00f3n con el pago s iguiente que deba efectuarse por este procedimiento a l a ",
-                "B.-  Indemniza ci\u00f3n con el pago s iguiente que deba efectuarse por este procedimiento a l a ",
-                "C.- Resarcimiento  con el pago s iguiente que deba efectuarse por este procedimiento a l a ",
-                "D.- Desquite  con el pago s iguiente que deba efectuarse por este procedimiento a l a misma "
+                "A.-  Compensaci\u00f3n con el pago s iguiente que deba efectuarse por este procedimiento a la misma persona interesada .  ",
+                "B.-  Indemniza ci\u00f3n con el pago s iguiente que deba efectuarse por este procedimiento a la misma persona interesada.  ",
+                "C.- Resarcimiento  con el pago s iguiente que deba efectuarse por este procedimiento a la misma persona interesada.  ",
+                "D.- Desquite  con el pago s iguiente que deba efectuarse por este procedimiento a la misma persona interesada.  "
             ]
         },
         {
-            "question": "18.- En la Universidad de M\u00e1laga, e l personal funcionario tiene derecho a solicitar el cambio",
+            "question": "18.- En la Universidad de M\u00e1laga, e l personal funcionario tiene derecho a solicitar el cambio provisional de puesto de trabajo por motivos de salud f\u00edsica, riesgo psicosocial o acoso laboral, o de rehabilitaci\u00f3n. Dicho traslado ser\u00e1 resuelto por:",
             "options": [
                 "A.- El \u00c1rea de Medicina del Trabajo del SEPRUMA.  ",
                 "B.- El Comit\u00e9 de Seguridad y Salud Laboral de la Universidad de M\u00e1laga.  ",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- De acuerdo con lo recogido en el art\u00edcu lo 3 del Real Decreto 898/1985, e n el Consejo de",
+            "question": "19.- De acuerdo con lo recogido en el art\u00edcu lo 3 del Real Decreto 898/1985, e n el Consejo de Universidades deber\u00e1n constar los datos m\u00e1s relevantes de los integrantes de los Cuerpos docentes de las Universidades y, no ser\u00e1 necesario que se incluya:",
             "options": [
                 "A.- Su situaci\u00f3n administrativa.  ",
                 "B.- Universidades  donde prestan servicios . ",
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- La propuesta de miembros para formar parte de las Comisiones de Selecci\u00f3n para la",
+            "question": "20.- La propuesta de miembros para formar parte de las Comisiones de Selecci\u00f3n para la provisi\u00f3n de plazas de Profeso r Titular de Universidad estar\u00e1 integrada por un total de diez miembros incluyendo, al menos , con la categor\u00eda funcionarial de Catedr\u00e1tico de Universidad :",
             "options": [
                 "A.- 8. ",
                 "B.- 6. ",
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- Seg\u00fan el art\u00edculo 10 del R.D. 822/2021, c uando hablamos de \u201c la inclusi\u00f3n, en el expediente",
+            "question": "21.- Seg\u00fan el art\u00edculo 10 del R.D. 822/2021, c uando hablamos de \u201c la inclusi\u00f3n, en el expediente acad\u00e9mico y en el Suplemento Europeo al T\u00edtulo, de la totalidad de los cr\u00e9ditos obtenidos en ense\u00f1anzas oficiales cursadas previamente, indistintamente de la universidad, que no hayan conducido a la obtenci\u00f3n de un t\u00edtulo universitario oficial \u201d, nos estamos refiriendo:",
             "options": [
                 "A.- A la transferencia de cr\u00e9ditos .  ",
                 "B.- Al reconocimiento de cr\u00e9ditos.  ",
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- De acuerdo con lo establecido en las Normas reguladoras de la matriculaci\u00f3n de estudiantes en actividades formativas correspondientes a planes de estudios conducentes a t\u00edtulos",
+            "question": "22.- De acuerdo con lo establecido en las Normas reguladoras de la matriculaci\u00f3n de estudiantes en actividades formativas correspondientes a planes de estudios conducentes a t\u00edtulos universitarios de car\u00e1cter oficial, la finalizaci\u00f3n del procedimiento de matric ulaci\u00f3n no se producir\u00e1 por:",
             "options": [
                 "A.- La resoluci\u00f3n expresa de aceptaci\u00f3n de la solicitud de matriculaci\u00f3n.  ",
                 "B.- La resoluci\u00f3n expresa de archivo por desistimiento de la solicitud de matriculaci\u00f3n.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- Seg\u00fan lo recogido en el art\u00edculo 27 del Reglamento d e Estudios Oficiales Conducentes a los",
+            "question": "23.- Seg\u00fan lo recogido en el art\u00edculo 27 del Reglamento d e Estudios Oficiales Conducentes a los T\u00edtulos Oficiales de Master de la Universidad De M\u00e1laga, cuando se produzca la suspensi\u00f3n temporal o se inicie la extinci\u00f3n de un t\u00edtulo de M\u00e1ster Universitario, la Universidad de M\u00e1laga adoptar\u00e1 las medidas oportunas dirigidas a garantiz ar que los alumnos con estudios iniciados puedan concluirlos, posibilitando, en su caso, la posible adaptaci\u00f3n a otro plan de estudios. A estos efectos, el Centro responsable del t\u00edtulo propondr\u00e1 al CIPD, para su aprobaci\u00f3n y elevaci\u00f3n al Consejo de Gobierno, las acciones que garanticen lo dispuesto anteriormente. \u00c9stas no contemplar\u00e1n",
             "options": [
                 "A.- Admitir matr\u00edculas de nuevo ingreso en el t\u00edtulo.  ",
                 "B.- Cronograma de extinci\u00f3n o suspensi\u00f3n temporal de los estudios.  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- La calificaci\u00f3n obtenida en la fase general de la prueba de acceso a la universidad por los estudiantes que hubieran superado la prueba de acceso a la universidad establecida en el art\u00edculo 38 de la Ley Org\u00e1nica 2/2006, de 3 de mayo, con anterioridad a su modificaci\u00f3n por la Ley Org\u00e1nica 8/2013, de 9 de diciembre tendr\u00e1 validez como requisito de acceso y admisi\u00f3n a las e nse\u00f1anzas universitarias oficiales de Grado:",
+            "question": "24.- La calificaci\u00f3n obtenida en la fase general de la prueba de acceso a la universidad por los estudiantes que hubieran superado la prueba de acceso a la universidad establecida en el art\u00edculo 38 de la Ley Org\u00e1nica 2/2006, de 3 de mayo, con anterioridad a su modificaci\u00f3n por la Ley Org\u00e1nica 8/2013, de 9 de diciembre tendr\u00e1 validez como  requisito de acceso y admisi\u00f3n a las e nse\u00f1anzas universitarias oficiales de Grado:",
             "options": [
                 "A.- De dos a\u00f1os.  ",
                 "B.- De un a\u00f1o.  ",
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "question": "25.- Los solicitantes que ha yan sido admitidos en su primera preferencia  en el procedimiento de",
+            "question": "25.- Los solicitantes que ha yan sido admitidos en su primera preferencia  en el procedimiento de preinscripci\u00f3n  formalizar\u00e1n la matr\u00edcula conforme al procedimiento que cada universidad determine, en los plazos establecidos, n o obstante, si desean modificar la titulaci\u00f3n de mejor preferencia, podr\u00e1n incluir nuevas peticiones que ser\u00e1n atendidas :",
             "options": [
                 "A.- En la siguiente adjudicaci\u00f3n.  ",
                 "B.- En la siguiente fase.  ",

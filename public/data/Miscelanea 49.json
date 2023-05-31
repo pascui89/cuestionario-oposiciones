@@ -1,11 +1,11 @@
 {
     "questions": [
         {
-            "question": "1.- El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey, con arreglo a",
+            "question": "1.- El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey, con arreglo a las siguientes propuestas:",
             "options": []
         },
         {
-            "question": "2.- En los proyectos de ley declarados urgentes, se\u00f1ale de que plazo dispone el Senado para",
+            "question": "2.- En los proyectos de ley declarados urgentes, se\u00f1ale de que plazo dispone el Senado para vetar el mismo, seg\u00fan establece el art. 90.3 de la Constituci\u00f3n Espa\u00f1ola:",
             "options": [
                 "A.- Diez d\u00edas h\u00e1biles.  ",
                 "B.- Quince d\u00edas naturales.  ",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "question": "6.- Las Administraciones P\u00fablicas seg\u00fan redacci\u00f3n dada por la Ley 39/2015, solo requerir\u00e1n a los",
+            "question": "6.- Las Administraciones P\u00fablicas seg\u00fan redacci\u00f3n dada por la Ley 39/2015, solo requerir\u00e1n a los interesados el uso obligatorio de firma para:",
             "options": [
                 "A.- Presentar toda clase de documentos.  ",
                 "B.- Presentar alegaciones en el procedimiento.  ",
@@ -59,7 +59,7 @@
             ]
         },
         {
-            "question": "8.- Seg\u00fan el art\u00edculo 4 de la Ley 40/2015, las Administraciones P\u00fablicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requ isitos para el desarrollo de una",
+            "question": "8.- Seg\u00fan el art\u00edculo 4 de la Ley 40/2015, las Administraciones P\u00fablicas que, en el ejercicio de sus respectivas competencias, establezcan medidas que limiten el ejercicio de derechos individuales o colectivos o exijan el cumplimiento de requ isitos para el desarrollo de una actividad, deber\u00e1n aplicar el principio de:",
             "options": [
                 "A.- Proporcionalidad.  ",
                 "B.- Subjetividad.  ",
@@ -80,13 +80,13 @@
             "question": "10.- Es un derecho individual ejercido colectivamente por los empleados p\u00fablicos.",
             "options": [
                 "A.- A la libre asociaci\u00f3n profesional.  ",
-                "B.- A las prestaciones de la Seguridad Social correspondiente al r\u00e9gimen que les sea de ",
+                "B.- A las prestaciones de la Seguridad Social correspondiente al r\u00e9gimen que les sea de aplicaci\u00f3n.  ",
                 "C.- A la jubilaci\u00f3n seg\u00fan los t\u00e9rm inos y condiciones establecidas en las normas aplicables.  ",
                 "D.- A la libertad sindical.  "
             ]
         },
         {
-            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 127 de los Estatutos de La Universidad de M\u00e1laga, esta  podr\u00e1 establecer ense\u00f1anzas conjuntas con otras universidades, centros de ense\u00f1anza",
+            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 127 de los Estatutos de La Universidad de M\u00e1laga, esta  podr\u00e1 establecer ense\u00f1anzas conjuntas con otras universidades, centros de ense\u00f1anza superior o centros de investigaci\u00f3 n nacionales o extranjeros mediante :",
             "options": [
                 "A.- Un pacto.  ",
                 "B.- Un convenio .  ",
@@ -95,7 +95,7 @@
             ]
         },
         {
-            "question": "13.- Con arreglo a lo establecido en el art\u00edculo 132 de los Estatutos de La Universidad de M\u00e1laga",
+            "question": "13.- Con arreglo a lo establecido en el art\u00edculo 132 de los Estatutos de La Universidad de M\u00e1laga  la docencia es un derecho y un deber del personal docente y/o investigador y ser\u00e1 impartida bajo los principios de :",
             "options": [
                 "A.- Libertad y responsabilidad .  ",
                 "B.- Libertad de catedra, investigaci\u00f3n y estudios.  ",
@@ -112,7 +112,7 @@
             ]
         },
         {
-            "question": "15.- Seg\u00fan lo establecido en la Disposici\u00f3n Adicional Segunda de la LOU e l recurso al",
+            "question": "15.- Seg\u00fan lo establecido en la Disposici\u00f3n Adicional Segunda de la LOU e l recurso al endeudamiento por parte de la Universidad Nacional de Educaci\u00f3n a Distancia habr\u00e1 de  autorizarse por:",
             "options": [
                 "A.- El Ministro de Educaci\u00f3n.  ",
                 "B.- El Rector de dicha Universidad.  ",
@@ -121,7 +121,7 @@
             ]
         },
         {
-            "question": "16.- De acuerdo con el art\u00edculo 54 de la LAU s e establecer\u00e1 un r\u00e9gimen de ayudas a los",
+            "question": "16.- De acuerdo con el art\u00edculo 54 de la LAU s e establecer\u00e1 un r\u00e9gimen de ayudas a los estudiantes de doctorado con el fin de estimular:",
             "options": [
                 "A.- La formaci\u00f3n investigadora .  ",
                 "B.- La transferencia del conocimiento.  ",
@@ -139,16 +139,16 @@
             ]
         },
         {
-            "question": "18.- De acuerdo con lo establecido en el Real Decreto 1125/2003 El nivel de aprendizaje",
+            "question": "18.- De acuerdo con lo establecido en el Real Decreto 1125/2003 El nivel de aprendizaje conseguido por los estudiantes se expresar\u00e1 :",
             "options": [
                 "A.- Con la superaci\u00f3n o pruebas de evaluaci\u00f3n correspondientes.  ",
                 "B.- Con la estimaci\u00f3n de su correspondiente n\u00famero de horas . ",
                 "C.- Con calificaciones num\u00e9ricas .  ",
-                "D.- Con la aplicaci\u00f3n de la siguiente f\u00f3rmula: suma de los cr\u00e9ditos obtenidos por el alumno "
+                "D.- Con la aplicaci\u00f3n de la siguiente f\u00f3rmula: suma de los cr\u00e9ditos obtenidos por el alumno multiplicados cada uno de ellos por el valor de las calificaciones que correspondan, y dividida por el n\u00famero de cr\u00e9ditos totales obtenidos por el alumno.  "
             ]
         },
         {
-            "question": "19.- De acuerdo con el art\u00edculo 13 del R.D. 822/2021 \u00bfA qui\u00e9n corresponde garantizar, en el",
+            "question": "19.- De acuerdo con el art\u00edculo 13 del R.D. 822/2021 \u00bfA qui\u00e9n corresponde garantizar, en el \u00e1mbito de sus competencias, la coherencia acad\u00e9mica entre la denominaci\u00f3n de un t\u00edtulo universitario oficial de Grado y los objetivos formativos, as\u00ed como la estructura y contenidos fundamentales del plan de estudios de este?",
             "options": [
                 "A.- Registro E uropeo de Agencias de Calidad.  ",
                 "B.- A la ANECA . ",
@@ -157,7 +157,7 @@
             ]
         },
         {
-            "question": "20.- De acuerdo con lo recogido en el art\u00edculo 4 del Real D ecreto 889/2022 , no podr\u00e1 concederse",
+            "question": "20.- De acuerdo con lo recogido en el art\u00edculo 4 del Real D ecreto 889/2022 , no podr\u00e1 concederse la homologaci\u00f3n, ni la equivalencia a titulaci\u00f3n y a nivel acad\u00e9mico universitario oficial de t\u00edtulos extranjeros, a:",
             "options": [
                 "A.- T\u00edtulos espa\u00f1oles cuyos planes de estudios se hayan extinguido.  ",
                 "B.- T\u00edtulos espa\u00f1oles que a\u00fan no est\u00e9n implantados en  al menos una universidad espa\u00f1ola . ",
@@ -166,7 +166,7 @@
             ]
         },
         {
-            "question": "21.- De acuerdo con el art\u00edculo 5 del  Real Decreto 412/2014  la admisi\u00f3n a las ense\u00f1anzas",
+            "question": "21.- De acuerdo con el art\u00edculo 5 del  Real Decreto 412/2014  la admisi\u00f3n a las ense\u00f1anzas universitarias oficiales de Grado se realizar\u00e1 con respeto , adem\u00e1s de los principios de igualdad, m\u00e9rito y capacidad , con el principio de:",
             "options": [
                 "A.- Capacitaci\u00f3n profesional.  ",
                 "B.- Cualificaci\u00f3n acad\u00e9mica.  ",
@@ -175,7 +175,7 @@
             ]
         },
         {
-            "question": "22.- De acuerdo con lo establecido en el art\u00edculo 2 de la Orden PCM/63/2023  la evaluaci\u00f3n de",
+            "question": "22.- De acuerdo con lo establecido en el art\u00edculo 2 de la Orden PCM/63/2023  la evaluaci\u00f3n de Bachillerato se realizar\u00e1:",
             "options": [
                 "A.- Exclusivamente al alumnado que quiera acceder a las ense\u00f1anzas universitarias oficiales de Grado.   ",
                 "B.- A los alumnos que quieran obtener el correspondiente t\u00edtulo de Bachillerato.  ",
@@ -184,7 +184,7 @@
             ]
         },
         {
-            "question": "23.- De acuerdo con el art\u00edculo 167 del R eglamento de R\u00e9gimen Econ\u00f3mico y Financiero, de la",
+            "question": "23.- De acuerdo con el art\u00edculo 167 del R eglamento de R\u00e9gimen Econ\u00f3mico y Financiero, de la Universidad de M\u00e1laga, corresponde al Consejo de Gobierno, previo informe favorable del Consejo Social, los acuerdos relativos a la desafectaci\u00f3n de bienes de dominio p\u00fablico:",
             "options": [
                 "A.- Previa valoraci\u00f3n de los bienes a desafectar.  ",
                 "B.- Previo expediente en el que se justifiquen los motivos de esa decisi\u00f3n.  ",
@@ -202,7 +202,7 @@
             ]
         },
         {
-            "question": "25.- Seg\u00fan el art\u00edculo 3 del Reglamento de Provisi\u00f3n de puestos de trabajo del personal",
+            "question": "25.- Seg\u00fan el art\u00edculo 3 del Reglamento de Provisi\u00f3n de puestos de trabajo del personal funcionario de administraci\u00f3n y servicios de la UMA, p ara que un funcionario de otra",
             "options": [
                 "A.- Con los \u00f3rganos unitarios de representaci\u00f3n de los trabajadores.  ",
                 "B.- Con los \u00f3rganos de representaci\u00f3n sindical de los trabajadores.  ",
