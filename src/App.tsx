@@ -1,12 +1,14 @@
 import { useEffect, useState, CSSProperties, Fragment } from 'react'
 import './App.css'
-import { getRandomNumber } from './helpers';
+import { getRandomNumber, sendMessageByEmail } from './helpers';
 import ClockLoader from "react-spinners/ClockLoader";
 import Questionaries from './components/Questionaries';
 
 import { IQuestions } from './interfaces/IQuestions';
 
 import Solutions from './assets/miscelaneas/data/Miscelanea Solutions.json';
+import { IMessage } from './interfaces/IMesagge';
+import { Alert } from '@mui/material';
 
 const override: CSSProperties = {
   display: "block",
@@ -20,6 +22,7 @@ function App() {
   const [ loading, setLoading ] = useState(true);
   const [ jsonData, setJsonData ] = useState({} as IQuestions);
   const [ questionaryName, setQuestionaryName ] = useState('');
+  const [ message, setMessage ] = useState({} as IMessage);
 
   useEffect(() => {
     if (fetching) return;
@@ -38,6 +41,13 @@ function App() {
         setJsonData(newFormData);
       } catch (error) {
         console.error('Error al cargar el JSON:', error);
+        sendMessageByEmail(currentQuestionaryName) 
+        .then((result) => { 
+          console.log(result.text);
+        }, 
+        (error) => { 
+          console.log(error.text); 
+        });
       } finally {
         setTimeout(() => setLoading(false), 3500);
       }
@@ -53,7 +63,14 @@ function App() {
 
   return (
     <main>
-      <h1>Cuestionario Oposiciones</h1>
+      <h1>Cuestionario Oposiciones</h1>   
+      {message.showMessage && <Alert variant="outlined" severity={message.severity} 
+        onClose={() => setMessage({
+          ...message,
+          showMessage: false
+        })}>
+        {message.message}
+      </Alert>}
       <div className="card">
         {loading && 
           <Fragment>
@@ -67,7 +84,7 @@ function App() {
             />
             <p>Estamos cargando las preguntas aleatoriamente</p>
           </Fragment>}
-        {!loading && <Questionaries data={jsonData} questionaryName={questionaryName}/>}
+        {!loading && <Questionaries data={jsonData} questionaryName={questionaryName} setMessage={setMessage}/>}
       </div>
     </main>
   )

@@ -3,7 +3,7 @@ import { useTheme } from '@mui/material/styles';
 import { green } from '@mui/material/colors';
 import { SxProps } from '@mui/system';
 
-import { generateUniqueKey } from '../helpers';
+import { generateUniqueKey, sendMessageByEmail } from '../helpers';
 import Question from './Question';
 import { Button, Container, Fab, Zoom } from '@mui/material';
 import UpIcon from '@mui/icons-material/KeyboardArrowUp';
@@ -16,11 +16,12 @@ import { IQuestions } from '../interfaces/IQuestions';
 import { IQuestion } from '../interfaces/IQuestion';
 
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
-import emailjs from '@emailjs/browser';
+import { IMessage } from '../interfaces/IMesagge';
 
 interface IProps {
   data: IQuestions;
   questionaryName: string;
+  setMessage: any;
 }
 
 const fabStyle = {
@@ -98,21 +99,23 @@ const Questionaries = (props: IProps) => {
   const sendEmail = (e: any) => { 
     e.preventDefault(); 
     setReportDisabled(true);
-    emailjs.send( 
-      import.meta.env.VITE_SERVICE_ID ?? '', 
-      import.meta.env.VITE_TEMPLATE_ID ?? '', 
-      {
-        message: props.questionaryName 
-      } as Record<string, unknown>,
-      import.meta.env.VITE_PUBLIC_KEY ?? ''
-    ) 
-   .then((result) => { 
-     alert('message sent successfully...'); 
+    sendMessageByEmail(props.questionaryName) 
+    .then((result) => { 
      console.log(result.text); 
-   }, 
-   (error) => { 
+     props.setMessage({
+      severity: 'info',
+      message: 'Se ha enviado el email de aviso a su administrador. En breve lo arreglamos.',
+      showMessage: true
+     } as IMessage);
+    }, 
+    (error) => { 
      console.log(error.text); 
-     }); 
+     props.setMessage({
+      severity: 'error',
+      message: 'Se ha producido un error al enviar el email, contacte con su administrador.',
+      showMessage: true
+     } as IMessage);
+    }); 
    }; 
 
   useEffect(() => {
