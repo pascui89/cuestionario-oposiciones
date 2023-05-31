@@ -5,7 +5,7 @@ import { SxProps } from '@mui/system';
 
 import { generateUniqueKey } from '../helpers';
 import Question from './Question';
-import { Button, Fab, Zoom } from '@mui/material';
+import { Button, Container, Fab, Zoom } from '@mui/material';
 import UpIcon from '@mui/icons-material/KeyboardArrowUp';
 
 import { CircularProgressbar, buildStyles } from 'react-circular-progressbar'
@@ -15,8 +15,12 @@ import Confetti from 'react-dom-confetti';
 import { IQuestions } from '../interfaces/IQuestions';
 import { IQuestion } from '../interfaces/IQuestion';
 
+import MailOutlineIcon from '@mui/icons-material/MailOutline';
+import emailjs from '@emailjs/browser';
+
 interface IProps {
   data: IQuestions;
+  questionaryName: string;
 }
 
 const fabStyle = {
@@ -56,6 +60,7 @@ const Questionaries = (props: IProps) => {
   const [ showUpIcon, setShowUpIcon ] = useState(false);
   const [ showValidate, setShowValidate ] = useState(false);
   const [ showResult, setShowResult ] = useState(false);
+  const [ reportDisabled, setReportDisabled ] = useState(false);
   const elementRef = useRef<HTMLDivElement | null>(null);
 
   const transitionDuration = {
@@ -89,6 +94,26 @@ const Questionaries = (props: IProps) => {
     setIsExploding(result > 70);
     setResult(result);
   };
+
+  const sendEmail = (e: any) => { 
+    e.preventDefault(); 
+    setReportDisabled(true);
+    emailjs.send( 
+      import.meta.env.VITE_SERVICE_ID ?? '', 
+      import.meta.env.VITE_TEMPLATE_ID ?? '', 
+      {
+        message: props.questionaryName 
+      } as Record<string, unknown>,
+      import.meta.env.VITE_PUBLIC_KEY ?? ''
+    ) 
+   .then((result) => { 
+     alert('message sent successfully...'); 
+     console.log(result.text); 
+   }, 
+   (error) => { 
+     console.log(error.text); 
+     }); 
+   }; 
 
   useEffect(() => {
     const toggleVisible = () => {
@@ -154,9 +179,13 @@ const Questionaries = (props: IProps) => {
     </Fragment>;
 
   return (
-    <div>
+    <Container>
       {showResult && renderShowResult()}
       <main ref={elementRef}>
+      <Fab variant="extended" color="error" aria-label="report" onClick={sendEmail} disabled={reportDisabled}>
+        <MailOutlineIcon sx={{ mr: 1 }} />
+        Reportar
+      </Fab>
         {formData &&
           formData.questions.map((val: any, index: number) => (
             <Question
@@ -169,7 +198,7 @@ const Questionaries = (props: IProps) => {
           ))}
       </main>
       {renderButtoms()}
-    </div>
+    </Container>
   );
 };
 
