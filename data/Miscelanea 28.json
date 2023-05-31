@@ -1,16 +1,16 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con el Art. 81 de la Ley Org\u00e1nica de Universidades no formar\u00e1 parte del estado",
+            "question": "1.- De acuerdo con el Art. 81 de la Ley Org\u00e1nica de Universidades no formar\u00e1 parte del estado de ingresos del presupuesto de las Universidades:",
             "options": [
-                "A.- Las transferencias para gastos corrientes y de capital fijadas, anualmente, por las ",
-                "B.- Las transferencias para gastos de personal fijadas, anualmente, por las Comunidades ",
+                "A.- Las transferencias para gastos corrientes y de capital fijadas, anualmente, por las Comunidades Autónomas.",
+                "B.- Las transferencias para gastos de personal fijadas, anualmente, por las Comunidades Autónomas.",
                 "C.- Los precios de cursos de especializaci\u00f3n.  ",
                 "D.- Las compensaciones correspondientes a los importes derivados de las exenciones y reducciones.  "
             ]
         },
         {
-            "question": "2.- De acuerdo con el art\u00edculo 1 del Real Decreto 822/2021 en el mismo se fijan las directrices,",
+            "question": "2.- De acuerdo con el art\u00edculo 1 del Real Decreto 822/2021 en el mismo se fijan las directrices, condiciones y los procedimientos de aseguramiento de la calidad de los planes de estudios cuya superación permite la obtención de títulos universitarios oficiales con validez en todo el territorio nacional. Dichos procedimientos se concretan en la verificación del plan de estudios como requisito para: ",
             "options": [
                 "A.- La acreditaci\u00f3n inicial del t\u00edtulo .  ",
                 "B.- La inscripci\u00f3n en el Registro de Universidades, Centros y T\u00edtulos (RU CT).  ",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "question": "3.- Seg\u00fan el art\u00edculo 60 del Estatuto B\u00e1sico del Empleado P\u00fablico, podr\u00e1 formar parte de los",
+            "question": "3.- Seg\u00fan el art\u00edculo 60 del Estatuto B\u00e1sico del Empleado P\u00fablico, podr\u00e1 formar parte de los órganos de selección  de acceso a la condición de funcionario:",
             "options": [
                 "A.- El personal de designaci\u00f3n pol\u00edtica.  ",
                 "B.- Un funcionario de carrera.   ",
@@ -28,8 +28,7 @@
             ]
         },
         {
-            "question": "4.- Seg\u00fan el R.D. 1125/2003, por el que se establece el Sistema Europeo de Cr\u00e9ditos y el Sistema de Calificaciones en las Titulaciones Oficiales, el n\u00famero total de cr\u00e9ditos establecido en los",
-            "options": [
+            "question": "4.- Seg\u00fan el R.D. 1125/2003, por el que se establece el Sistema Europeo de Cr\u00e9ditos y el Sistema de Calificaciones en las Titulaciones Oficiales, el n\u00famero total de cr\u00e9ditos establecido en los establecido en los planes de estudios para cada curso académico será de:",            "options": [
                 "A.- 65.  ",
                 "B.- 60.  ",
                 "C.- 55.  ",
@@ -37,7 +36,7 @@
             ]
         },
         {
-            "question": "5.- De acuerdo con lo establecido en el art\u00edculo 87 la Ley Andaluza de Universidades, para la determinaci\u00f3n de las transferencias correspondientes a cada Universidad p\u00fablica andaluza",
+            "question": "5.- De acuerdo con lo establecido en el art\u00edculo 87 la Ley Andaluza de Universidades, para la determinaci\u00f3n de las transferencias correspondientes a cada Universidad p\u00fablica andaluza andaluza se elaborará un modelo de financiación común, revisable cada: ",
             "options": [
                 "A.- Tres a\u00f1os . ",
                 "B.- Cuatro a\u00f1os.  ",
@@ -46,7 +45,7 @@
             ]
         },
         {
-            "question": "6.- De acuerdo con lo establecido en el PORHUMA \u00bfCu\u00e1ntos vocales que formen parte de una",
+            "question": "6.- De acuerdo con lo establecido en el PORHUMA \u00bfCu\u00e1ntos vocales que formen parte de una Comisión de Valoración de un concurso en la Universidad de Málaga, son designados por sorteo celebrado en el Serv icio de PAS?",
             "options": [
                 "A.- 5. ",
                 "B.- 4",
@@ -55,7 +54,7 @@
             ]
         },
         {
-            "question": "7.- \u00bfA qui\u00e9n corresponde emitir el informe sobre la adecuaci\u00f3n entre las competencias y",
+            "question": "7.- \u00bfA qui\u00e9n corresponde emitir el informe sobre la adecuaci\u00f3n entre las competencias y conocimientos adquiridos de acuerdo con el plan de estudios del título de origen, o la experiencia laboral o profesional acreditada, y los previstos en el plan de estudios del título de destino, en una solicitud de reconocimiento?",
             "options": [
                 "A.- A la Secretar\u00eda del Centro.  ",
                 "B.- A la Comisi\u00f3n de Reconocimientos de Estudios .  ",
@@ -64,7 +63,7 @@
             ]
         },
         {
-            "question": "8.- De acuerdo con el art\u00edculo 178 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero, s e",
+            "question": "8.- De acuerdo con el art\u00edculo 178 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero, se considerarán obsoletos a efectos de e najenación de bienes mueble s patrimoniales, aquellos cuyo valor en el momento de la tasación para la venta sea inferior al:",
             "options": [
                 "A.- 10% del de adqu isici\u00f3n. ",
                 "B.- 15% del de adqu isici\u00f3n. ",
@@ -73,7 +72,7 @@
             ]
         },
         {
-            "question": "9.- A los efectos de pago \u00bfEn qu\u00e9 fase  debe r\u00e1n encontrarse las n\u00f3minas al menos, con tres d\u00edas",
+            "question": "9.- A los efectos de pago \u00bfEn qu\u00e9 fase  debe r\u00e1n encontrarse las n\u00f3minas al menos, con tres d\u00edas de antelación al último día hábi l de cada mes?",
             "options": [
                 "A.- Compromiso.  ",
                 "B.- Autorizaci\u00f3n.  ",
@@ -82,7 +81,7 @@
             ]
         },
         {
-            "question": "10.- Este principio establece que los ingresos o gastos deben registrarse en la fecha en que",
+            "question": "10.- Este principio establece que los ingresos o gastos deben registrarse en la fecha en que ocurren:",
             "options": [
                 "A.- Prudencia.  ",
                 "B.- Uniformidad.  ",
@@ -91,7 +90,7 @@
             ]
         },
         {
-            "question": "11.- La calificaci\u00f3n final de la prueba de mayores de veinticinco a\u00f1os, vendr\u00e1 determinada por",
+            "question": "11.- La calificaci\u00f3n final de la prueba de mayores de veinticinco a\u00f1os, vendr\u00e1 determinada por la media aritmética de las calificaciones obtenidas en la fase general y la fase específica, calificada de 0 a 10 y expres ada con:",
             "options": [
                 "A.- Dos cifras decimales.  ",
                 "B.- Tres cifras decimales.  ",
@@ -109,7 +108,7 @@
             ]
         },
         {
-            "question": "13.- \u00bfQu\u00e9 porcentaje de plazas podr\u00e1 reservar,  la Comisi\u00f3n del Distrito \u00danico Universitario de",
+            "question": "13.- \u00bfQu\u00e9 porcentaje de plazas podr\u00e1 reservar,  la Comisi\u00f3n del Distrito \u00danico Universitario de Andalucía, en la primera adjudicación de cada fase, y en previsión de posibles  reclamaciones?",
             "options": [
                 "A.- 10%.  ",
                 "B.- 5%. ",
@@ -118,7 +117,7 @@
             ]
         },
         {
-            "question": "14.- En los casos en que no se establezca limitaci\u00f3n en el n\u00famero de plazas ofertadas la para la",
+            "question": "14.- En los casos en que no se establezca limitaci\u00f3n en el n\u00famero de plazas ofertadas la para la admisión de estudiantes con estudios universitarios españoles parciales en la Universidad de Málaga no será necesaria la aplicación de los criterios establecidos en el punto 4 de las normas correspondientes, sino únicamente la comprobación del cumplimiento del requisito de obtener el reconocimiento de un mínimo de:",
             "options": [
                 "A.- 60 cr\u00e9ditos.  ",
                 "B.- 30 cr\u00e9ditos.  ",
@@ -127,16 +126,16 @@
             ]
         },
         {
-            "question": "15.- De conformidad con lo establecido en la Ley 40/2015, la delegaci\u00f3n de competencia y su",
+            "question": "15.- De conformidad con lo establecido en la Ley 40/2015, la delegaci\u00f3n de competencia y su revocación: ",
             "options": [
                 "A.- Deber\u00e1 publicarse en el bolet\u00edn oficial de administraci\u00f3n delegada.  ",
                 "B.- No es obligatorio que se publique en ning\u00fan bolet\u00edn.  ",
-                "C.- Deber\u00e1 publicarse en el Bolet\u00edn Oficial del Estado, en el de la Comunidad Aut\u00f3noma o ",
+                "C.- Deber\u00e1 publicarse en el Bolet\u00edn Oficial del Estado, en el de la Comunidad Aut\u00f3noma o en el de la Provincia, según el caso.  ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "16.- Los estudiantes de la Universidad de M\u00e1laga que participen en programas o convenios de",
+            "question": "16.- Los estudiantes de la Universidad de M\u00e1laga que participen en programas o convenios de movilidad deberán matricular: ",
             "options": [
                 "A.- 24 cr\u00e9ditos.  ",
                 "B.- 48 cr\u00e9ditos.  ",
@@ -145,7 +144,7 @@
             ]
         },
         {
-            "question": "17.- Para ser considerado estudiante, de grado o de m\u00e1ster, con dedicaci\u00f3n al estudio a tiempo",
+            "question": "17.- Para ser considerado estudiante, de grado o de m\u00e1ster, con dedicaci\u00f3n al estudio a tiempo parcial, los interesados deberán formalizar la correspondiente solicitud, durante su respectivo plazo de matrícula alegando:",
             "options": [
                 "A.- Ser mayor de edad.  ",
                 "B.- Tener 45 a\u00f1o s ",
@@ -154,7 +153,7 @@
             ]
         },
         {
-            "question": "18.- Los estudiantes que se matriculen, por primera vez a tiempo completo, en un t\u00edtulo oficial",
+            "question": "18.- Los estudiantes que se matriculen, por primera vez a tiempo completo, en un t\u00edtulo oficial de Máster Universitario deberán aprobar, como mínimo:",
             "options": [
                 "A.- 3 cr\u00e9ditos.  ",
                 "B.- 6 cr\u00e9ditos.  ",
@@ -172,7 +171,7 @@
             ]
         },
         {
-            "question": "20.- En relaci\u00f3n con las ense\u00f1anzas de master \u201c Responsabilizarse del seguimiento acad\u00e9mico de",
+            "question": "20.- En relaci\u00f3n con las ense\u00f1anzas de master \u201c Responsabilizarse del seguimiento acad\u00e9mico de la titulación, poniendo en marcha y coordinando las acciones que se consideren necesarias, de acuerdo con lo aprobado por el Centro”, es una función:",
             "options": [
                 "A.- De la Comisi\u00f3n Acad\u00e9mica del Master.  ",
                 "B.- Del C oordinador del Master.  ",
@@ -190,7 +189,7 @@
             ]
         },
         {
-            "question": "22.- \u00bfA qui\u00e9n corresponde conceder al personal docente e investigador de la Universidad de",
+            "question": "22.- \u00bfA qui\u00e9n corresponde conceder al personal docente e investigador de la Universidad de Málaga permisos superiores a tres meses?",
             "options": [
                 "A.- Al Consejo de Gobierno.  ",
                 "B.- Al Consejo de Departamento correspondiente.  ",
@@ -199,7 +198,7 @@
             ]
         },
         {
-            "question": "23.- El presupuesto de cada ejercicio, de la Universidad de M\u00e1laga, se liquidar\u00e1 en cuanto a la",
+            "question": "23.- El presupuesto de cada ejercicio, de la Universidad de M\u00e1laga, se liquidar\u00e1 en cuanto a la recaudación de derechos y el pago de obligaciones el 31 de diciembre del año natural correspondiente, quedando todos los ingresos y pagos pendientes a cargo:",
             "options": [
                 "A.- Del Gerente.  ",
                 "B.- De la Gerencia.  ",
@@ -217,11 +216,11 @@
             ]
         },
         {
-            "question": "25.- De acuerdo con el art\u00edculo 76.1 de la Ley 39/2015, los Interesados podr\u00e1n, en cualquier",
+            "question": "25.- De acuerdo con el art\u00edculo 76.1 de la Ley 39/2015, los Interesados podr\u00e1n, en cualquier momento del procedimiento administrativo, aducir alegaciones y aportar documentos u otros elementos de juicio, siempre que lo hagan:",
             "options": [
                 "A.- Con anterioridad al tr\u00e1mite de audiencia.  ",
                 "B.- Con anterioridad a la propuesta de resoluci\u00f3n.  ",
-                "C.- Con posterioridad al tr\u00e1mite de audiencia, pero antes de que se realice la propuesta de ",
+                "C.- Con posterioridad al tr\u00e1mite de audiencia, pero antes de que se realice la propuesta de resolución. ",
                 "D.- Solo con la solicitud o, en su caso, con l a subsanaci\u00f3n y mejora de la solicitud.  "
             ]
         }

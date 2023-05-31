@@ -6,20 +6,20 @@
                 "A.- Son aprobados por el Consejo de Ministros .  ",
                 "B.- Son aprobados por el Congreso . ",
                 "C.- Son aprobados por el Consejo de Ministros previa autorizaci\u00f3n  del Congreso.  ",
-                "D.- Son aprobados por el Presidente del Gobierno, previa deliberaci\u00f3n del Consejo de "
+                "D.- Son aprobados por el Presidente del Gobierno, previa deliberaci\u00f3n del Consejo de Ministros y consulta al Congreso . "
             ]
         },
         {
             "question": "2.- De acuerdo con lo establecido en el art\u00edculo 81 de l a Constituci\u00f3n :",
             "options": [
-                "A.- Son leyes org\u00e1nicas las relativas al desarrollo de los derechos fundamentales y libertades ",
+                "A.- Son leyes org\u00e1nicas las relativas al desarrollo de los derechos fundamentales y libertades p\u00fablicas y la ordenaci\u00f3n  de las instituciones b\u00e1sicas del Estado . ",
                 "B.- La aprobaci\u00f3n, modificaci\u00f3n y derogaci\u00f3n de las Leyes Org\u00e1nicas exigir\u00e1 mayor\u00eda absoluta del Congreso y del Senado en una votaci\u00f3n f inal sobre el conjunto del proyecto . ",
-                "C.- Son leyes org\u00e1nicas las relativas al desarrollo de los derechos, deberes y libertades  de los ",
-                "D.- Son leyes org\u00e1nicas las que aprueben los Estatutos de Autonom\u00eda y el r\u00e9gimen elec toral "
+                "C.- Son leyes org\u00e1nicas las relativas al desarrollo de los derechos, deberes y libertades  de los ciudadanos regulados en el T\u00edtulo I . ",
+                "D.- Son leyes org\u00e1nicas las que aprueben los Estatutos de Autonom\u00eda y el r\u00e9gimen electoral general.   "
             ]
         },
         {
-            "question": "3.- El n\u00famero m\u00e1ximo de tramos de actividad docente e investigadora que puede tener un",
+            "question": "3.- El n\u00famero m\u00e1ximo de tramos de actividad docente e investigadora que puede tener un profesor de lo cuerpos docentes universitarios es de:",
             "options": [
                 "A.- Cinco tramos de actividad docente y seis de actividad investigadora.  ",
                 "B.- Seis tramos de activ idad docente y seis de actividad investigadora.  ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- Seg\u00fan lo dispuesto en la orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan",
+            "question": "4.- Seg\u00fan lo dispuesto en la orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de Contabilidad P\u00fablica, el valor de un activo definido como el importe que se puede obtener por su enajenaci\u00f3n en el mercado de manera natural o no forzada, deduciendo los costes estimad os necesarios para llevarla a cabo, as\u00ed como, en el caso de los productos en curso, los costes estimados necesarios para terminar su producci\u00f3n, construcci\u00f3n o fabricaci\u00f3n, se denomina:",
             "options": [
                 "A.- Valor venial.  ",
                 "B.- Valor residual ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- En el supuesto de que una funcionaria v\u00edctima de violencia de g\u00e9nero que se vea obligada a",
+            "question": "6.- En el supuesto de que una funcionaria v\u00edctima de violencia de g\u00e9nero que se vea obligada a abandonar el puesto de trabajo en la localidad donde ven\u00edan prestando sus servicios, dicho traslado tendr\u00e1 la consideraci\u00f3n de:",
             "options": [
                 "A.-  Forzoso.   ",
                 "B.-  Voluntario.  ",
@@ -55,20 +55,20 @@
             ]
         },
         {
-            "question": "7.- Los acuerdos, pactos, convenios o contratos firmados por las Administraciones P\u00fablicas a",
+            "question": "7.- Los acuerdos, pactos, convenios o contratos firmados por las Administraciones P\u00fablicas a efectos de la terminaci\u00f3n convencional de un procedimiento, deber\u00e1n contener, al menos:",
             "options": [
-                "A.- Identificaci\u00f3n de las partes intervinientes, el \u00e1mbito personal, funcional y territorial, y el ",
-                "B.- Identificaci\u00f3n de las partes intervinientes, e l \u00e1mbito personal, funcional y territorial, el ",
+                "A.- Identificaci\u00f3n de las partes intervinientes, el \u00e1mbito personal, funcional y territorial, y el plazo de vigencia.  ",
+                "B.- Identificaci\u00f3n de las partes intervinientes, e l \u00e1mbito personal, funcional y territorial, el plazo de vigencia y fecha y lugar de publicaci\u00f3n.  ",
                 "C.- Identificaci\u00f3n de las partes intervinientes y el plazo de vigencia, as\u00ed como efectos de la publicaci\u00f3n del mismo.  ",
-                "D.- Identificaci\u00f3n de las partes intervin ientes, el \u00e1mbito personal, funcional y territorial, el "
+                "D.- Identificaci\u00f3n de las partes intervin ientes, el \u00e1mbito personal, funcional y territorial, el plazo de vigencia y fecha y lugar de publicaci\u00f3n naturaleza y las personas a las que estuvieran destinados.  "
             ]
         },
         {
-            "question": "8.- \u00bfCu\u00e1l es la definici\u00f3n de Instituto de investigaci\u00f3n que se recoge en los Estatutos de  la",
+            "question": "8.- \u00bfCu\u00e1l es la definici\u00f3n de Instituto de investigaci\u00f3n que se recoge en los Estatutos de  la Universidad de M\u00e1laga ?",
             "options": [
-                "A.- Son centros dedicados a la investigaci\u00f3n cient\u00edfica y t\u00e9cnica o a la creaci\u00f3n art\u00edstica, ",
-                "C.- Son centros que la Universidad constituye, conjuntamente con los organismos p\u00fablicos de investigaci\u00f3n, con los centros del Sistema Nacional de Salud y con otros centros de investigaci\u00f3n p\u00fablicos o privados con o sin \u00e1nimo de lucro, promovidos y participado s por ",
-                "C.- Son centros que la Universidad constituye conjuntamente con los organismos p\u00fablicos de investigaci\u00f3n, con los centros del Sistema Nacional de Salud y con otros centros de investigaci\u00f3n p\u00fablicos o privados sin \u00e1nimo de  lucro, promovidos y participados por otra ",
+                "A.- Son centros dedicados a la investigaci\u00f3n cient\u00edfica y t\u00e9cnica o a la creaci\u00f3n art\u00edstica, pudiendo organizar y desarrollar programas y estudios de doctorado y de postgrado y proporcionar asesoramiento t\u00e9cnico en el \u00e1mbito de su competencia.   ",
+                "B.- Son centros que la Universidad constituye, conjuntamente con los organismos p\u00fablicos de investigaci\u00f3n, con los centros del Sistema Nacional de Salud y con otros centros de investigaci\u00f3n p\u00fablicos o privados con o sin \u00e1nimo de lucro, promovidos y participados por una administraci\u00f3n p\u00fablica.  ",
+                "C.- Son centros que la Universidad constituye conjuntamente con los organismos p\u00fablicos de investigaci\u00f3n, con los centros del Sistema Nacional de Salud y con otros centros de investigaci\u00f3n p\u00fablicos o privados sin \u00e1nimo de  lucro, promovidos y participados por otra entidad p\u00fablica o privada.  ",
                 "D.- Son centros que la Universidad constituye como organismos p\u00fablicos de investigaci\u00f3n sin \u00e1nimo de lucro.  "
             ]
         },
@@ -77,16 +77,16 @@
             "options": [
                 "A.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n funcionarial.  ",
                 "B.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n profesional.  ",
-                "C.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n profesional y de acuerdo ",
-                "D.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n profesional y de acuerdo "
+                "C.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n profesional y de acuerdo con la pr ogresi\u00f3n alcanzada en su carrera profesional.  ",
+                "D.- El desempe\u00f1o efectivo de las funciones propi as de su condici\u00f3n profesional y de acuerdo con los objetivos de la evaluaci\u00f3n establecida.  "
             ]
         },
         {
             "question": "10.- Es falta muy grave del personal:",
             "options": [
                 "A.- Causar da\u00f1os graves en los locales, material o documentos de los servicios.  ",
-                "B.- Las conductas constitutivas de delito doloso relacionadas con el servicio o que causen ",
-                "C.- La publicaci\u00f3n o utilizaci\u00f3n indebida de la documentaci\u00f3n o informaci\u00f3n a que tengan o ",
+                "B.- Las conductas constitutivas de delito doloso relacionadas con el servicio o que causen da\u00f1o a la Administraci\u00f3n o a los administrados.  ",
+                "C.- La publicaci\u00f3n o utilizaci\u00f3n indebida de la documentaci\u00f3n o informaci\u00f3n a que tengan o hayan tenido acceso por raz\u00f3n de su cargo o funci\u00f3n.  ",
                 "D.- Todas las anteriores son faltas muy graves.  "
             ]
         },
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "question": "12.- De acuerdo con el art\u00edculo 37 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la",
+            "question": "12.- De acuerdo con el art\u00edculo 37 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de M\u00e1laga, si un cr\u00e9dito fuera insuficiente , \u00bfQu\u00e9 modificaci\u00f3n presupuestaria proceder\u00eda realizar?",
             "options": [
                 "A.- Suplemento de cr\u00e9dito.  ",
                 "B.- Transferencia de cr\u00e9dito.  ",
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "question": "13.- La coordinaci\u00f3n, elaboraci\u00f3n y publicaci\u00f3n del \u00abBolet\u00edn Oficial de la Universidad de M\u00e1laga\u00bb",
+            "question": "13.- La coordinaci\u00f3n, elaboraci\u00f3n y publicaci\u00f3n del \u00abBolet\u00edn Oficial de la Universidad de M\u00e1laga\u00bb corresponder\u00e1:",
             "options": [
                 "A.- Al Rector.  ",
                 "B.- Al Secretario General.   ",
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- De acuerdo con el art\u00edculo 14 de los Estatutos de la Universidad de M\u00e1laga, aprobar las",
+            "question": "14.- De acuerdo con el art\u00edculo 14 de los Estatutos de la Universidad de M\u00e1laga, aprobar las titulaciones propias de la Universidad de M\u00e1laga es una competencia:",
             "options": [
                 "A.- Del Consejo de Gobierno .  ",
                 "B.- De la Comisi\u00f3n de T\u00edtulos Propios . ",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- \u00bfCu\u00e1ntas personas integrantes del personal docente y/o investigador doctor con",
+            "question": "15.- \u00bfCu\u00e1ntas personas integrantes del personal docente y/o investigador doctor con vinculaci\u00f3n permanente a la Universidad, formar\u00e1n parte del Comit\u00e9 de Garant\u00edas del C\u00f3digo \u00c9tico, elegidas por el Claustro de la Universidad de M\u00e1laga?",
             "options": [
                 "A.- 2.  ",
                 "B.- 3.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- Los \u00f3rganos de representaci\u00f3n del Personal Docente e Investigador de la UMA para la",
+            "question": "16.- Los \u00f3rganos de representaci\u00f3n del Personal Docente e Investigador de la UMA para la defensa de sus intereses son:",
             "options": [
                 "A.- La Junta de Personal Docente  e Investigador y los De legados de Personal.  ",
                 "B.- La Junta de Personal Docente e Investigador y el Comit\u00e9 de Empresa .  ",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "question": "17.- La recusaci\u00f3n se plantear\u00e1 por escrito en el que se expresar\u00e1 la c ausa o causas en que se",
+            "question": "17.- La recusaci\u00f3n se plantear\u00e1 por escrito en el que se expresar\u00e1 la c ausa o causas en que se funda. El recusado manifestar\u00e1 a su inmediato superior si se da o no en \u00e9l la causa alegada:",
             "options": [
                 "A.- En el mismo momento.  ",
                 "B.- En el d\u00eda siguiente.  ",
@@ -153,7 +153,7 @@
             ]
         },
         {
-            "question": "18.- De acuerdo con lo estableci do en el art\u00edculo 6 de la Ley Andaluza de Universidades, estas no",
+            "question": "18.- De acuerdo con lo estableci do en el art\u00edculo 6 de la Ley Andaluza de Universidades, estas no deber\u00e1n disponer de espacios y equipamiento suficientes para :",
             "options": [
                 "A.- Comedores.  ",
                 "B.- Laboratorio . ",
@@ -162,7 +162,7 @@
             ]
         },
         {
-            "question": "19.- De acuerdo con lo establecido en el art\u00edculo 2 del PORHUMA, el procedimiento preferente",
+            "question": "19.- De acuerdo con lo establecido en el art\u00edculo 2 del PORHUMA, el procedimiento preferente para la provisi\u00f3n de puestos de trabajo en la Universidad de M\u00e1laga ser\u00e1:",
             "options": [
                 "A.- Concurso.  ",
                 "B.- Libre designaci\u00f3n.  ",
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "question": "20.- De acuerdo con las Normas reguladoras de los reconocimientos de estudios o actividades,",
+            "question": "20.- De acuerdo con las Normas reguladoras de los reconocimientos de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtenci\u00f3n de t\u00edtulos universitarios oficiales de graduado y m\u00e1ster universitario, as\u00ed como de la transferencia de cr\u00e9ditos, se entiende por puntuaci\u00f3n la v aloraci\u00f3n en t\u00e9rminos num\u00e9ricos del conjunto de cr\u00e9ditos que son objeto de c\u00f3mputo como resultado de un reconocimiento, exclusivamente a efectos del c\u00e1lculo de la nota media del respectivo expediente acad\u00e9mico, y expresada en una escala del :",
             "options": [
                 "A.- 1 al 10. ",
                 "B.- 3 al 10.  ",
@@ -180,25 +180,25 @@
             ]
         },
         {
-            "question": "21.- En caso de que una persona solicite la homologaci\u00f3n de un t\u00edtulo de doctorado extranjero",
+            "question": "21.- En caso de que una persona solicite la homologaci\u00f3n de un t\u00edtulo de doctorado extranjero con menci\u00f3n Europea o Internacional, en la Universidad de M\u00e1laga \u00bfCu\u00e1l de los siguientes documentos no tendr\u00e1 que presentar?",
             "options": [
                 "A.- Solicitud de homologaci\u00f3n.  ",
                 "B.- Certificaci\u00f3n acreditativa de la nacionalidad del solicitante mediante fotocopia compulsada del Documento de Identidad o Pasaporte.  ",
-                "C.- Copia compulsada del t\u00edtulo de Doctor obtenido o certificaci\u00f3n  acreditativa de su ",
-                "D.- Copia compulsada de la certificaci\u00f3n acad\u00e9mica de los estudios realizados por el solicitante para la obtenci\u00f3n del t\u00edtulo de postgrado, en la que consten, entre otros "
+                "C.- Copia compulsada del t\u00edtulo de Doctor obtenido o certificaci\u00f3n  acreditativa de su expedici\u00f3n.  ",
+                "D.- Copia compulsada de la certificaci\u00f3n acad\u00e9mica de los estudios realizados por el solicitante para la obtenci\u00f3n del t\u00edtulo de postgrado, en la que consten, entre otros  extremos, la duraci\u00f3n oficial, en a\u00f1os acad\u00e9micos, de l programa de estudios seguido, las asignaturas cursadas, la carga horaria de cada una de ellas y sus calificaciones.  "
             ]
         },
         {
-            "question": "22.- Para poder solicitar la evaluaci\u00f3n extraordinaria de una asignatura los estudiantes tendr\u00e1n",
+            "question": "22.- Para poder solicitar la evaluaci\u00f3n extraordinaria de una asignatura los estudiantes tendr\u00e1n que cumplir con uno de los siguientes r equisitos:",
             "options": [
-                "A.- Le resten un m\u00e1ximo de 24  cr\u00e9ditos para finalizar los estudios correspondientes a la ",
-                "B.- Hayan agotado 5  convocatorias de la asignatura cuya evaluaci\u00f3n extraordinaria se ",
-                "C.- Tengan superados en la Universidad de M\u00e1laga al menos el 60% de  los cr\u00e9ditos de la ",
-                "D.- Hayan solicitado previamente esta evaluaci\u00f3n extraordinaria, o procedimiento similar, "
+                "A.- Le resten un m\u00e1ximo de 24  cr\u00e9ditos para finalizar los estudios correspondientes a la titulaci\u00f3n oficial a la que pertenece la asignatura cuya evaluaci\u00f3n extraordinaria se solicita (o dos asignaturas de car\u00e1cter anual, en el caso de titulaciones no estructuradas en cr\u00e9ditos).  ",
+                "B.- Hayan agotado 5  convocatorias de la asignatura cuya evaluaci\u00f3n extraordinaria se solicita, o no tener derecho al examen de \u00e9sta debido a la extinci\u00f3n del plan de estudios donde se inscribe.  ",
+                "C.- Tengan superados en la Universidad de M\u00e1laga al menos el 60% de  los cr\u00e9ditos de la respectiva titulaci\u00f3n.   ",
+                "D.- Hayan solicitado previamente esta evaluaci\u00f3n extraordinaria, o procedimiento similar, en ninguna otra Universidad para la misma titulaci\u00f3n . "
             ]
         },
         {
-            "question": "23.- Cuando se produzca la suspensi\u00f3n temporal o se inicie la extinci\u00f3n de un t\u00edtulo de M\u00e1ster",
+            "question": "23.- Cuando se produzca la suspensi\u00f3n temporal o se inicie la extinci\u00f3n de un t\u00edtulo de M\u00e1ster Universitario, la Universidad de M\u00e1laga adoptar\u00e1 las medidas oportunas dirigidas a garantizar que los alumnos con estudios iniciados puedan concluirlos, posibilitando, en su caso, la posible adaptaci\u00f3n a otro plan de estudios. A estos efectos, el Centro responsable del t\u00edtulo propondr\u00e1 al CIPD, para su aprobaci\u00f3n y elevaci\u00f3n al Consejo de Gobierno, las acciones que garanticen lo dispuesto anteriormente. \u00c9stas no contemplar\u00e1n:",
             "options": [
                 "A.- Admitir matr\u00edculas de nuevo ingreso en el t\u00edtulo.   ",
                 "B.- Cronograma de extinci\u00f3n o suspensi\u00f3n temporal de los estudios.  ",
@@ -207,7 +207,7 @@
             ]
         },
         {
-            "question": "24.- Cada Centro de la Universidad de M\u00e1laga dispondr\u00e1 de una base de datos con los datos",
+            "question": "24.- Cada Centro de la Universidad de M\u00e1laga dispondr\u00e1 de una base de datos con los datos relativos a los TFG finalizados, en la que no se incluir\u00e1:",
             "options": [
                 "A.- T\u00edtulo del TFG.  ",
                 "B.- Resumen (tal y como aparece en la memoria).  ",
@@ -216,7 +216,7 @@
             ]
         },
         {
-            "question": "25.- A los efectos de la permanencia en los estudios universitarios oficiales correspondientes a",
+            "question": "25.- A los efectos de la permanencia en los estudios universitarios oficiales correspondientes a una titulaci\u00f3n de Grado, si el estudiante procede de los estudios universitarios de grado correspondientes a otra titulaci\u00f3n, le ser\u00e1n computados los cr\u00e9ditos que sean objeto de reconocimiento acad\u00e9mico, de acuerdo con las normas aprobad as por la Universidad de M\u00e1laga, entendi\u00e9ndose que cada bloque de 60 cr\u00e9ditos reconocidos equivalen a :",
             "options": [
                 "A.- Un a\u00f1o de permanencia a tiempo completo .  ",
                 "B.- Un curso acad\u00e9mico de permanencia a tiempo completo.  ",
