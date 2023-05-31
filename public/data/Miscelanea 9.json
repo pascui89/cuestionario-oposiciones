@@ -1,60 +1,61 @@
 {
     "questions": [
         {
-            "question": "1.-  Seg\u00fan el Real Decreto 822/2021, por el que se establece la organizaci\u00f3n  de las ense\u00f1anzas",
+            "question": "1.-  Seg\u00fan el Real Decreto 822/2021, por el que se establece la organizaci\u00f3n  de las ense\u00f1anzas universitarias, en su redacción actual, es cierto que puede ser objeto de reconocimiento:",
             "options": [
                 "A.- La experiencia laboral y profesional acreditada.  ",
                 "B.- Exclusivamente los cr\u00e9ditos superados en estudios de la misma rama de conocimiento.  ",
-                "C.- Todos los cr\u00e9ditos superados, pero no supondr\u00e1 en ning\u00fan caso la incorporaci\u00f3n de ",
+                "C.- Todos los cr\u00e9ditos superados, pero no supondr\u00e1 en ning\u00fan caso la incorporaci\u00f3n de calificación que dio origen a dicho reconocimiento. ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
             "question": "2.- El art\u00edculo 103.3 de la Constituci\u00f3n Espa\u00f1ola de 1978, establece que:",
             "options": [
-                "A.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de ",
-                "B.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de ",
-                "C.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de ",
-                "D.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de "
+                "A.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de acuerdo con los principios de mérito y capacidad .",
+                "B.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de acuerdo con los principios de m érito, capacidad y publicidad.",
+                "C.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de acuerdo con los principios de mérito, capacidad y competencia.",
+                "D.- La Ley regular\u00e1 el estatuto de los funcionarios p\u00fablicos, el acceso a la funci\u00f3n p\u00fablica de acuerdo con los principios de mérito y  competencia."
             ]
         },
         {
-            "question": "3.- El art\u00edculo 6 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones",
+            "question": "3.- El art\u00edculo 6 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones Públicas, determina que sin perjuicio de lo pre visto en cuanto a la dedicación del profesorado universitario en el artículo 4.3, de dicha ley, excepcionalmente podrá autorizarse la compatibilidad para el ejercicio de activi dades, entre otras, de:",
             "options": [
                 "A.- Investiga ci\u00f3n de car\u00e1cter permanente.  ",
-                "B.- Asesora miento cient\u00edfico en supuestos concretos, siempre que se correspondan a las ",
-                "C.-  Asesoramiento t\u00e9cnico en supuestos concretos, que no correspondan a las funciones del ",
+                "B.- Asesora miento cient\u00edfico en supuestos concretos, siempre que se correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.",
+                "C.-  Asesoramiento t\u00e9cnico en supuestos concretos, que no correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "4.-  Seg\u00fan establece el art\u00edculo 79 del Real Decr eto Legislativo 5/2015, de 30 de octubre, por el",
+            "question": "4.-  Seg\u00fan establece el art\u00edculo 79 del Real Decr eto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la composición de los órganos colegiados de carácter técnico encargados de la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos, responderá al principio de:",
             "options": [
                 "A.- Igualdad, m\u00e9rito y capacidad.  ",
                 "B.- Profesionalidad y especializaci\u00f3n de sus miembros.  ",
-                "C.- Adecuaci\u00f3n entre el contenido de los procesos selectivos y las funciones o tareas a ",
+                "C.- Adecuaci\u00f3n entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.",
                 "D.- Profesionalidad de sus miembros y transparencia, sin perjuicio de la objetividad.  "
             ]
         },
         {
-            "question": "5.- Seg\u00fan el art\u00edculo 95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo",
+            "question": "5.- Seg\u00fan el art\u00edculo 95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
             "options": [
-                "A.- La caducidad no producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de la ",
-                "B.-  La caducidad no producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de ",
-                "C.- La caducidad producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de la ",
+                "A.- La caducidad no producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de la Administración, pero los p rocedimientos caducados interrumpirán el plazo de prescripción.",
+                "B.-  La caducidad no producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpirán el plazo de prescripción.",
+                "C.- La caducidad producir\u00e1 por s\u00ed sola la prescripci\u00f3n de las acciones del particular o de la Administración, pero los procedimientos caducados no interrumpir án el plazo de prescripción. ",
                 "D.- Todas las respuestas anteriores son incorrectas   "
             ]
         },
         {
-            "question": "6.- Seg\u00fan establece el art\u00edculo 12 de la Ley 53/1984 de incompatibilidades del personal de las",
+            "question": "6.- Seg\u00fan establece el art\u00edculo 12 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones Públicas, no se podrá ejercer por parte del personal comprendido en el ámbito de aplicación de la Ley:",
             "options": [
-                "A.- El desempe\u00f1o de actividades privadas, en los asuntos en que est\u00e9 interviniendo, haya ",
-                "B.- El desempe\u00f1o, por s\u00ed o persona interpuesta, de cargos de to do orden en Empresas o ",
-                "C.- La participaci\u00f3n superior al 10 por 100 en el capital de una Sociedad avalada por el Sector "
+                "A.- El desempe\u00f1o de actividades privadas, en los asuntos en que est\u00e9 interviniendo, haya intervenido en los cinco últimos años o tenga que intervenir por razón del puesto público.",
+                "B.- El desempe\u00f1o, por s\u00ed o persona interpuesta, de cargos de to do orden en Empresas o Sociedades contratistas de obras, cuya configuración jurídica esté det erminada reglamentariamente. ",
+                "C.- La participaci\u00f3n superior al 10 por 100 en el capital de una Sociedad avalada por el Sector Público.",
+                "D.- La pertenencia a Consej os de Administración u órganos rectores de Empresas o Entidades privadas, en todo caso."
             ]
         },
         {
-            "question": "7.- \u00bfCu\u00e1l es el plazo m\u00e1ximo previsto en el art\u00edculo 3 4 del Real Decreto 822/ 2021, por el que se",
+            "question": "7.- \u00bfCu\u00e1l es el plazo m\u00e1ximo previsto en el art\u00edculo 3 4 del Real Decreto 822/ 2021, por el que se establece la organización  de las enseñanzas universitarias, en el que debe renovarse la acreditación de los títulos oficiales universitarios de Grado de 240 créditos  impartido  en centros universitarios no acreditados institucionalmente?",
             "options": [
                 "A.- Siete a\u00f1os.  ",
                 "B.- Seis a\u00f1os.  ",
@@ -63,7 +64,7 @@
             ]
         },
         {
-            "question": "8.- \u00bfDe qu\u00e9 plazo dispone la comisi\u00f3n acad\u00e9mica responsable del programa de doctorado para",
+            "question": "8.- \u00bfDe qu\u00e9 plazo dispone la comisi\u00f3n acad\u00e9mica responsable del programa de doctorado para asignar a cada doctorando un director de tesis doctoral, según el artículo 11 del Real Decreto 99/2011, de 28 de enero, por el que se regulan las enseñanzas oficiales de doctorado?",
             "options": [
                 "A.- En el plazo m\u00e1ximo de treinta d\u00edas meses desde l a recepci\u00f3n de la solicitud.  ",
                 "B.- En el plazo m\u00e1ximo de tres meses desde l a recepci\u00f3n de la solicitud.  ",
@@ -72,7 +73,7 @@
             ]
         },
         {
-            "question": "9.-  Cuando un acto administrativo se dicta el 01 -05-2019 y en el mismo se dice que tendr\u00e1",
+            "question": "9.-  Cuando un acto administrativo se dicta el 01 -05-2019 y en el mismo se dice que tendr\u00e1 efectos el 15 -5-2019 ¿Desde cuando será válido el acto y como se enti ende su eficacia?",
             "options": [
                 "A.- Ser\u00e1 v\u00e1lido desde el d\u00eda siguiente que se dicta y su eficacia ser\u00e1 retroactiva.  ",
                 "B.- Ser\u00e1 v\u00e1lido desde el d\u00eda que se dicta y su eficacia ser\u00e1 demorada.  ",
@@ -108,7 +109,7 @@
             ]
         },
         {
-            "question": "13.- De acuerdo con el art. 39 de la Ley 39/2015, excepcionalmente, podr\u00e1 otorgarse efica cia",
+            "question": "13.- De acuerdo con el art. 39 de la Ley 39/2015, excepcionalmente, podr\u00e1 otorgarse eficacia retroactiva a los actos administrativos:",
             "options": [
                 "A.- Cuando se dicten en supuestos de nulidad absoluta.  ",
                 "B.- Cuando produzcan efectos favorables al interesado, aunque los supuestos de hecho necesarios no existieran ya en la fecha a la que se retrotraen los efe ctos del acto.  ",
@@ -117,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- De acuerdo con el EBEP, \u00bfA trav\u00e9s de qu\u00e9 instrumento de gesti\u00f3n podr\u00e1n las",
+            "question": "14.- De acuerdo con el EBEP, \u00bfA trav\u00e9s de qu\u00e9 instrumento de gesti\u00f3n podr\u00e1n las Administraciones Públicas prever medidas de movilidad que puedan consistir en la convocatoria de concursos de provisión de puestos limitados a personal de determinadas Administraciones?",
             "options": [
                 "A.- A trav\u00e9s de la Oferta de Empleo P\u00fablico.  ",
                 "B.- A trav\u00e9s de las Relaciones de Puestos de Trabajo.  ",
@@ -126,12 +127,12 @@
             ]
         },
         {
-            "question": "15.- Las solicitudes de autorizaci\u00f3n de compatibilidad de un segundo puesto en el sector p\u00fablico",
+            "question": "15.- Las solicitudes de autorizaci\u00f3n de compatibilidad de un segundo puesto en el sector p\u00fablico del personal sometido al ámbito de aplicación del Real Decreto 598/1985, de 30 de abril, sobre incompatibilidades del personal al servicio de la Administración del Estado, de la Seguridad Social y de  los Entes, Organismos y Empresas dependientes, serán resueltas:",
             "options": [
-                "A.- En el plazo improrrogable de tres meses, debiendo entenderse denegada en caso de ",
-                "B.- En el plazo de tres meses a contar desde la fecha de presentaci\u00f3n de la solicitud, que ",
+                "A.- En el plazo improrrogable de tres meses, debiendo entenderse denegada en caso de silencio administrativo.",
+                "B.- En el plazo de tres meses a contar desde la fecha de presentaci\u00f3n de la solicitud, que podrá prorrogarse, mediante resolución motivada, por un período de tiempo no superior a un mes.",
                 "C.- En el plazo de cuatro meses a contar desde la fecha de presentaci\u00f3n d e la solicitud.    ",
-                "D.- En el plazo m\u00e1ximo de seis meses, de acuerdo con lo dispuesto en la Ley 39/2015, de 1 "
+                "D.- En el plazo m\u00e1ximo de seis meses, de acuerdo con lo dispuesto en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común. "
             ]
         },
         {
@@ -153,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- La estimaci\u00f3n del cr\u00e9dito europeo y de su correspondiente n\u00famero de horas, de acuerdo",
+            "question": "18.- La estimaci\u00f3n del cr\u00e9dito europeo y de su correspondiente n\u00famero de horas, de acuerdo con el R.D. 1125/2003, se entenderá referida a un estudiante dedicado a cursar  a tiempo completo estudios universitarios durante un mínimo de 36 y un máximo de:",
             "options": [
                 "A.- 37 semanas por curso acad\u00e9mico.  ",
                 "B.- 38 semanas por curso acad\u00e9mico.  ",
@@ -162,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- Las pruebas de evalua ci\u00f3n de bachillerato, para aquellos alumnos que quieran acceder a las",
+            "question": "19.- Las pruebas de evalua ci\u00f3n de bachillerato, para aquellos alumnos que quieran acceder a las enseñanzas de grado, versarán sobre las materias generales del:",
             "options": [
                 "A.- Bloque de asignaturas troncales de segundo curso de Bachillerato de la modalidad elegida para la prueba.  ",
                 "B.- Bachillerato.  ",
@@ -171,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- Conforme a lo establecido en la Disposici\u00f3n Adicional Quincuag\u00e9sima Cuarta de la LCSP , se",
+            "question": "20.- Conforme a lo establecido en la Disposici\u00f3n Adicional Quincuag\u00e9sima Cuarta de la LCSP , se amplía el límite de los contratos menores de suministro y servicios celebrados por la Universidad de Málaga siempre que vayan destinados a actividades de investigación, transferencia del conocimiento e innovación, en los términos previstos en la Ley 1 4/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, hasta un valor estimado inferior o igual a (IVA excluido):",
             "options": [
                 "A.- 50.000\u20ac.  ",
                 "B.- 40.000\u20ac.  ",
@@ -180,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- Los estudiantes de nuevo ingreso en estudios conducentes a t\u00edtulos de Graduado/a o M\u00e1ster",
+            "question": "21.- Los estudiantes de nuevo ingreso en estudios conducentes a t\u00edtulos de Graduado/a o M\u00e1ster Universitario en la Universidad de Málaga, en régimen de dedicación a tiempo completo, deberán matricular un mínimo de:",
             "options": [
                 "A.- 15 cr\u00e9ditos.  ",
                 "B.- 30 cr\u00e9ditos.  ",
@@ -189,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- El l\u00edmite m\u00e1ximo de permanenc ia en estudios universitarios oficiales de M\u00e1ster ser\u00e1, cuando",
+            "question": "22.- El l\u00edmite m\u00e1ximo de permanenc ia en estudios universitarios oficiales de M\u00e1ster ser\u00e1, cuando la carga lectiva total del correspondiente Máster Universitario sea de 60 créditos y el alumno este mátriculado a tiempo completo:",
             "options": [
                 "A.- Un curso.  ",
                 "B.- Dos cursos.  ",
@@ -198,16 +199,16 @@
             ]
         },
         {
-            "question": "23.- \u00bfCu\u00e1l de los siguientes criterios de valoraci\u00f3n para la concesi\u00f3n de un traslado de",
+            "question": "23.- \u00bfCu\u00e1l de los siguientes criterios de valoraci\u00f3n para la concesi\u00f3n de un traslado de expediente no será necesario que se contemple en la aplicación para la resolución de las mismas?",
             "options": [
-                "A.- Calificaci\u00f3n final obtenida en las ense\u00f1anzas cursadas y/ o en m\u00f3dulos o materias ",
-                "B.- Relaci\u00f3n entre los curr\u00edculos de las titulaciones anteriores y los t\u00edtulos universitarios ",
+                "A.- Calificaci\u00f3n final obtenida en las ense\u00f1anzas cursadas y/ o en m\u00f3dulos o materias concretas.",
+                "B.- Relaci\u00f3n entre los curr\u00edculos de las titulaciones anteriores y los t\u00edtulos universitarios solicitados.",
                 "C.- Formaci\u00f3n acad\u00e9mica o profesional complementaria. ",
                 "D.- Similitud de la formaci\u00f3n previa con los estudios a cursar.  "
             ]
         },
         {
-            "question": "24.-  En relaci\u00f3n con el c\u00f3digo \u00e9tico de la Universidad de M\u00e1laga el Director del Departamento",
+            "question": "24.-  En relaci\u00f3n con el c\u00f3digo \u00e9tico de la Universidad de M\u00e1laga el Director del Departamento podrá planteará actuaciones, garantizar la aplicación del mismo y realizar propuestas en los casos de su incumplimiento:",
             "options": [
                 "A.- Al Consejo de Departamento.  ",
                 "B.- Al Consejo de Gobierno.  ",
@@ -216,11 +217,11 @@
             ]
         },
         {
-            "question": "25.- A tenor de lo dispuesto en el art. 21 de la Ley 39/2015, cuando las normas reguladoras de",
+            "question": "25.- A tenor de lo dispuesto en el art. 21 de la Ley 39/2015, cuando las normas reguladoras de los procedimientos no fijen el plaz o máximo para su resolución, este será de:",
             "options": [
-                "A.- 3 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro ",
-                "B.- 6 meses desde la fecha del acuerdo de iniciaci\u00f3n en los procedimientos iniciados de ",
-                "C.- 6 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro ",
+                "A.- 3 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico en los procedimientos iniciados a solicitud del interesado. ",
+                "B.- 6 meses desde la fecha del acuerdo de iniciaci\u00f3n en los procedimientos iniciados de oficio. ",
+                "C.- 6 meses desde la fecha en que la solicitud haya tenido entrada en cualquier registro electrónico en los procedimientos iniciados a solicitud del interesado.",
                 "D.- 3 meses desde la fecha del acuerdo de iniciaci\u00f3n en los procedimientos iniciados de oficio.   "
             ]
         }

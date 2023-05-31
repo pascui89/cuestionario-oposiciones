@@ -4,13 +4,13 @@
             "question": "1.- \u00bfTienen todos los reglamentos la misma jerarqu\u00eda?",
             "options": [
                 "A.- Si. ",
-                "B.- Los estatales tienen mayor rango que los auton\u00f3micos, y estos a su vez mayor rango que los ",
+                "B.- Los estatales tienen mayor rango que los auton\u00f3micos, y estos a su vez mayor rango que los locales. ",
                 "C.- Tienen distinta jerarqu\u00eda en funci\u00f3n del \u00f3rgano que los dicta.  ",
                 "D.- Tienen distinta jerarqu\u00eda seg\u00fan la materia que regulan.  "
             ]
         },
         {
-            "question": "2.- Cuando estemos hablando de un p rocedimiento  para la modificaci\u00f3n no sustancial de los planes",
+            "question": "2.- Cuando estemos hablando de un p rocedimiento  para la modificaci\u00f3n no sustancial de los planes de estudios impartidos en centros universitarios no a creditados institucionalmente ¿a  quién corresponde realizar informe previo de los mismos?",
             "options": [
                 "A.- A los \u00f3rganos de gobierno de la Universidad correspondien te. ",
                 "B.- A los sistemas internos de garant\u00eda de la calidad de la Universidad correspondiente.  ",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "question": "3.- Cuando en un procedimiento administrativo hayan  de tenerse en cuenta nuevos hechos o",
+            "question": "3.- Cuando en un procedimiento administrativo hayan  de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, se pondrán de manifiesto a los interesados para que aleguen durante el plazo de: ",
             "options": [
                 "A.- Diez d\u00edas.  ",
                 "B.- No inferior a quince d\u00edas. ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- \u00bfCu\u00e1ntos funcionarios docentes sin t\u00edtulo de Doctor forman parte de la Comisi\u00f3n de Becas,",
+            "question": "4.- \u00bfCu\u00e1ntos funcionarios docentes sin t\u00edtulo de Doctor forman parte de la Comisi\u00f3n de Becas, Ayudas y Asistencia al estudiante?  ",
             "options": [
                 "A.- Ninguno.  ",
                 "B.- 1.  ",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- De acuerdo con el RD 412/2014 el porcentaje m\u00e1ximo de plazas reservadas a estudiantes de",
+            "question": "5.- De acuerdo con el RD 412/2014 el porcentaje m\u00e1ximo de plazas reservadas a estudiantes de formación profesional para el acceso a estudios de grado será del:",
             "options": [
                 "A.- 30%  ",
                 "B.- 15%  ",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "question": "9.- En caso de fallecimiento de un familiar de 2\u00ba grado por consanguinidad en un municipio distinto",
+            "question": "9.- En caso de fallecimiento de un familiar de 2\u00ba grado por consanguinidad en un municipio distinto al del domicilio del trabajador ¿De qué permiso disfrutará?",
             "options": [
                 "A.- 6 d\u00edas.  ",
                 "B.- 5 d\u00edas.  ",
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "question": "12.- De acuerdo con los Estatutos de la Universi dad de M\u00e1laga \u00bfQui\u00e9n fija el orden del d\u00eda de las",
+            "question": "12.- De acuerdo con los Estatutos de la Universi dad de M\u00e1laga \u00bfQui\u00e9n fija el orden del d\u00eda de las sesiones del Claustro?",
             "options": [
                 "A.- El Rector, a propuesta de la Mesa del Claustro, o\u00edda la Junta de Portavoces.  ",
                 "B.- La Mesa del Claustro.  ",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.-  \u00bfDe qu\u00e9 depender\u00e1 el que se tenga que publicar un pacto que finalice de forma convencional",
+            "question": "15.-  \u00bfDe qu\u00e9 depender\u00e1 el que se tenga que publicar un pacto que finalice de forma convencional un procedimiento? ",
             "options": [
                 "A.- De su naturaleza y de las personas a las que vaya destinado.  ",
                 "B.- Del \u00e1mbito personal, funcional y territorial.  ",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "question": "17.- De acuerdo con el PORHUMA \u00bfEn cu\u00e1ntas \u00e1reas b\u00e1sic as de organizaci\u00f3n se agrupan los puestos",
+            "question": "17.- De acuerdo con el PORHUMA \u00bfEn cu\u00e1ntas \u00e1reas b\u00e1sic as de organizaci\u00f3n se agrupan los puestos de trabajo de la RPT de la UMA? ",
             "options": [
                 "A.- 7. ",
                 "B.- 6.  ",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "question": "18.-  \u00bfCu\u00e1l de las siguientes caracter\u00edsticas no ser\u00e1 necesario que re\u00fana un gasto para que el mismo",
+            "question": "18.-  \u00bfCu\u00e1l de las siguientes caracter\u00edsticas no ser\u00e1 necesario que re\u00fana un gasto para que el mismo sea imputable al Capítulo II del estado de gastos del presupuesto de la Universidad de Málaga? ",
             "options": [
                 "A.- Que sea un bien fungible. ",
                 "B.- Que tenga una duraci\u00f3n previsiblemente inferior a un a\u00f1o.  ",
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- En un procedimiento de reconocimiento de asignaturas \u00bfA qui\u00e9n corresponde efectuar la",
+            "question": "20.- En un procedimiento de reconocimiento de asignaturas \u00bfA qui\u00e9n corresponde efectuar la comprobación de la validez formal de la documentación aportada? ",
             "options": [
                 "A.- Al Decano del Centro.  ",
                 "B.- A la Secretar\u00eda del Centro.  ",
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- De acuerdo con la Ley 30/2007 cuando se utilice un solo criterio para la adjudicaci\u00f3n de un",
+            "question": "21.- De acuerdo con la Ley 30/2007 cuando se utilice un solo criterio para la adjudicaci\u00f3n de un contra to, este ha de ser, necesariamente:",
             "options": [
                 "A.- El precio m\u00e1s bajo.  ",
                 "B.- El plazo de ejecuci\u00f3n o entrega de la prestaci\u00f3n.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- En la UMA los actos de disposici\u00f3n de los bienes inmuebles y de los muebles de extraordinario",
+            "question": "23.- En la UMA los actos de disposici\u00f3n de los bienes inmuebles y de los muebles de extraordinario valor, serán acordados por:  ",
             "options": [
                 "A.- El Consejo Social.  ",
                 "B.- El Consejo de Gobierno con la aprobaci\u00f3n del Consejo Social.  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- \u00bfC\u00f3mo se denomina el Cap\u00edtulo V del estado de ingresos del presupuesto de la Universidad de",
+            "question": "24.- \u00bfC\u00f3mo se denomina el Cap\u00edtulo V del estado de ingresos del presupuesto de la Universidad de Málaga? ",
             "options": [
                 "A.- Transferencias corrientes.  ",
                 "B.- Inversiones reales.  ",
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "question": "25.- \u00bfCu\u00e1ntos miembros, designados por el Parlamento de Andaluc\u00eda, forman p arte del Consejo",
+            "question": "25.- \u00bfCu\u00e1ntos miembros, designados por el Parlamento de Andaluc\u00eda, forman p arte del Consejo Andaluz de Universidades? ",
             "options": [
                 "A.- 3.  ",
                 "B.- 4. ",

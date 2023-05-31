@@ -10,16 +10,16 @@
             ]
         },
         {
-            "question": "2.- El plazo del que dispone el Senado para enmendar o vetar un proyecto de ley org\u00e1nica es",
+            "question": "2.- El plazo del que dispone el Senado para enmendar o vetar un proyecto de ley org\u00e1nica es de:",
             "options": [
                 "A.- Dos meses a partir de  la aprobaci\u00f3n del mismo por parte del Congreso. ",
                 "B.- Veinte d\u00edas en todo caso. ",
-                "C.- Quince d\u00edas en caso de proyectos declarados urgentes por el Gobierno o por el Congreso ",
+                "C.- Quince d\u00edas en caso de proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados. ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "3.- \u00bfA qui\u00e9n  corresponde fomentar convenios a fin de facilitar la incorporaci\u00f3n a los",
+            "question": "3.- \u00bfA qui\u00e9n  corresponde fomentar convenios a fin de facilitar la incorporaci\u00f3n a los Departamentos universitarios de los profesores de los cuerpos docentes de otros niveles educativos? ",
             "options": [
                 "A.-  A las Comunidades Aut\u00f3nomas.  ",
                 "B.-  Al Consejo de Universidades.  ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- De acuerdo con lo establecido en la LOU las Universidades podr\u00e1n convocar plazas de",
+            "question": "4.- De acuerdo con lo establecido en la LOU las Universidades podr\u00e1n convocar plazas de promoción interna, que estén dotadas en el estado de gastos de su presupuesto, para el acceso al:",
             "options": [
                 "A.- Cuerpo d e Catedr\u00e1ticos de Universidad.  ",
                 "B.- Cuerpo de Catedr\u00e1ticos de Escuela Universitaria.  ",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- De acuerdo con el art\u00edculo 84 de la LAU, las Univer sidades p\u00fablicas andaluzas intensificar\u00e1n",
+            "question": "5.- De acuerdo con el art\u00edculo 84 de la LAU, las Univer sidades p\u00fablicas andaluzas intensificar\u00e1n la competencia por la excelencia, fomentando:",
             "options": [
                 "A.- La formaci\u00f3n de redes de centros y de conocimiento.  ",
                 "B.- Favorecer la interdisciplinariedad.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- De acuerdo con lo recogido en el art\u00edculo 14 del R.D. 822/2021, e n un t\u00edtulo de grado de",
+            "question": "6.- De acuerdo con lo recogido en el art\u00edculo 14 del R.D. 822/2021, e n un t\u00edtulo de grado de 240 créditos, el trabajo fin de grado tendrá un m ínimo de: ",
             "options": [
                 "A.- 36 cr\u00e9ditos.  ",
                 "B.- 30 cr\u00e9ditos.  ",
@@ -55,16 +55,16 @@
             ]
         },
         {
-            "question": "7.- De acuerdo con el art\u00edculo 3 del R.D. 22/2015, de 23 de enero, por el que se establecen los",
+            "question": "7.- De acuerdo con el art\u00edculo 3 del R.D. 22/2015, de 23 de enero, por el que se establecen los requisitos de expedición del Suplemento Europeo a los títulos regulados en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las  enseñanzas universitarias oficiales y se modifica el Real Decreto 1027/2011, de 15 de julio, por el que se establece el Marco Español de Cualificaciones para la Educación Superior , el suplemento europeo al título no podrá ser expedido acompañando : ",
             "options": [
-                "A.- T\u00edtulos universitarios oficiales con validez en territorio nacional con m\u00e1s de una ",
-                "B.- Diplomas o t\u00edtulos propios establecidos por las universidades u otros centros no ",
+                "A.- T\u00edtulos universitarios oficiales con validez en territorio nacional con m\u00e1s de una mención.",
+                "B.- Diplomas o t\u00edtulos propios establecidos por las universidades u otros centros no universitarios.",
                 "C.- T\u00edtulos de doctor .  ",
                 "D.- Se podr\u00e1 expedir con todo lo citado anteriormente . "
             ]
         },
         {
-            "question": "8.- De acuerdo con lo establecido en la D.A. 10\u00aa del R.D. 822/2021 \u00bfQu\u00e9 nivel de MECES podr\u00e1",
+            "question": "8.- De acuerdo con lo establecido en la D.A. 10\u00aa del R.D. 822/2021 \u00bfQu\u00e9 nivel de MECES podr\u00e1 obtener un título de Grado de al menos  300 créditos que comprendan un mínimo de 60 créditos de nivel de Máster? ",
             "options": [
                 "A.- 4. ",
                 "B.- 3.  ",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "question": "9.- Las decisiones adoptadas por las Universidades en relaci\u00f3n a acordar la realizaci\u00f3n conjunta",
+            "question": "9.- Las decisiones adoptadas por las Universidades en relaci\u00f3n a acordar la realizaci\u00f3n conjunta de todo o parte de los procedimientos de admisión, así como el reconocimiento mutuo de los resultados de las valoraciones realizadas en los procedimientos de a dmisión, serán comunicadas:",
             "options": [
                 "A.- Al Gobierno. ",
                 "B.- A la ANECA.  ",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "question": "11.- La nota de admisi\u00f3n a los estudios de grado para aquellos alumnos que hubieran superado",
+            "question": "11.- La nota de admisi\u00f3n a los estudios de grado para aquellos alumnos que hubieran superado el Curso de Orientación Universitaria (C.O.U.) con anterioridad al curso académico 1974/75, el Curso Preuniversitario y las Pruebas de Madurez, o el Bachillerato de planes anteriores a 1953, será 1",
             "options": [
                 "A.- Nota Admisi\u00f3n= Nota med\u00eda del t\u00edtulo de bachiller +a*CM1+b*CM2  ",
                 "B.- Nota Admisi\u00f3n= Nota de media del COU +a*CM1+b*CM2  ",
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "question": "12.- En Andaluc\u00eda el porcentaje reservado para el  acceso a los t\u00edtulos de grado a quienes",
+            "question": "12.- En Andaluc\u00eda el porcentaje reservado para el  acceso a los t\u00edtulos de grado a quienes acceden por la vía de mayores de veinticinco años de edad es del:",
             "options": [
                 "A.- 1% ",
                 "B.- 2%  ",
@@ -109,7 +109,7 @@
             ]
         },
         {
-            "question": "13.- \u00bfQu\u00e9 validez tendr\u00e1 a efectos de admisi\u00f3n y formalizaci\u00f3n de matr\u00edcula la credencial",
+            "question": "13.- \u00bfQu\u00e9 validez tendr\u00e1 a efectos de admisi\u00f3n y formalizaci\u00f3n de matr\u00edcula la credencial expedida por la UNED a un estudiante procedentes de sistema educativo de un Estado miembro de la Unión Europea o de otros Estados con los que s e haya suscrito Acuerdos internacionales aplicables? ",
             "options": [
                 "A.- Un a\u00f1o.  ",
                 "B.- Dos a\u00f1os.  ",
@@ -118,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- La Universidad Nacional de Educaci\u00f3n a Distancia (UNED) organizar\u00e1 la evaluaci\u00f3n de",
+            "question": "14.- La Universidad Nacional de Educaci\u00f3n a Distancia (UNED) organizar\u00e1 la evaluaci\u00f3n de Bachillerato de los estudiantes procedent es de los centros docentes españoles situados en el exterior del territorio nacional. En la prueba correspondiente a la Primera Lengua Extranjera, los estudiantes no podrán elegir como tal el:",
             "options": [
                 "A.- Franc\u00e9s.  ",
                 "B.- Portugu\u00e9s  ",
@@ -127,19 +127,21 @@
             ]
         },
         {
-            "question": "15.- El reconocimiento de la condici\u00f3n de estudiante a tiempo parcial, de aquellos alumnos que",
+            "question": "15.- El reconocimiento de la condici\u00f3n de estudiante a tiempo parcial, de aquellos alumnos que se encuentren matriculados en la Universidad de Málaga en los estudios oficiales de Grado o Máster, no producirá el siguiente efecto: ",
             "options": [
-                "A.- El derecho preferente a elegir turno cuando existan un grupo de una determinada asignatura o materia y los citados grupos tengan horarios diferentes.  ",
-                "D.- El derecho a obtener un tratamiento diferente al de los estudiantes con dedicaci\u00f3n a "
+                "A.- El derecho preferente a elegir turno cuando existan un grupo de una determinada asignatura o materia y los citados grupos tengan horarios diferentes. ",
+                "B.-El derecho al reconocimiento de un régimen de asistencia a clase de carácter flexible, que no afecte negativamente al proceso de evaluación del estudiante. A tal efecto, las Comisiones de Ordenación Académica de los diferentes Centros de la Universidad de Málaga concretarán el alcance de dicha flexibilidad en sus respectivas titulaciones.  ",
+                "C.-El derecho a matricularse de un número de c réditos inferior al mínimo que corresponda a los alumnos con dedicación a tiempo completo, y que no podrá ser inferior a  24 créditos, salvo que le resten un número inferior para finalizar los estudios.  ",
+                "D.- El derecho a obtener un tratamiento diferente al de los estudiantes con dedicación a tiempo completo, en las normas que regulen el progreso y la permanencia de los estudiantes en la Universidad de Málaga, de acuerdo con lo que dispongan las citadas normas.  "
             ]
         },
         {
-            "question": "16.- Como norma general, los estudiantes qu e formalicen por primera vez su matr\u00edcula en",
+            "question": "16.- Como norma general, los estudiantes qu e formalicen por primera vez su matr\u00edcula en estudios conducentes a un título de Graduado/a por la Universidad de Málaga (excepto los conjuntos con otras Universidades) a partir del curso académico 2012/2013 la permanencia será de un máximo de: ",
             "options": [
-                "A.- 6 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen ",
-                "B.- 7 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen ",
-                "C.- 8 cursos acad\u00e9mi cos matriculados, para los estudiantes que se encuentren en r\u00e9gimen ",
-                "D.- 9 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen "
+                "A.- 6 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen de dedicación a tiempo completo.",
+                "B.- 7 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen de dedicación a tiempo completo.",
+                "C.- 8 cursos acad\u00e9mi cos matriculados, para los estudiantes que se encuentren en r\u00e9gimen de dedicación a tiempo completo.",
+                "D.- 9 cursos acad\u00e9micos matriculados, para los estudiantes que se encuentren en r\u00e9gimen de dedicación a tiempo completo."
             ]
         },
         {
@@ -147,12 +149,12 @@
             "options": [
                 "A.- Cuando participen  empresas en el programa o Escuela de doctorado . ",
                 "B.- Cuando existan convenios de confidencialidad con empresas .  ",
-                "C.- Cuando exista l a posibilidad de generaci\u00f3n de patentes q ue recaigan sobre el contenido ",
+                "C.- Cuando exista l a posibilidad de generaci\u00f3n de patentes que recaigan sobre el contenido de la tesis. ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "18.- Concluida la exposici\u00f3n oral de la defensa de una tesis doctoral en la Universidad de",
+            "question": "18.- Concluida la exposici\u00f3n oral de la defensa de una tesis doctoral en la Universidad de Málaga, ¿A quién corresponde hacer un resumen oral con los aspectos más relevantes expresados en los informes externos que recibió la tesis, y del informe del doctorando que detalla su respuesta a estos informes? ",
             "options": [
                 "A.- Al doctorando.  ",
                 "B.- Al Presidente del Tribunal.  ",
@@ -170,20 +172,25 @@
             ]
         },
         {
-            "question": "20.- El concepto de cr\u00e9dito y el modo de su asignaci\u00f3n establecidos en el real Decreto",
+            "question": "20.- El concepto de cr\u00e9dito y el modo de su asignaci\u00f3n establecidos en el real Decreto 1125/2003 se aplicarán a: ",
             "options": [
                 "A.- A los planes de estudios.  ",
-                "B.- A las directrices generales propias correspondientes a t\u00edtulos universitarios de car\u00e1cter ",
-                "C.- A las directrices generales comunes correspondientes a t\u00edtulos universit arios de car\u00e1cter ",
-                "D.- A las memorias de verificaci\u00f3n correspondientes a t\u00edtulos universitarios de car\u00e1cter ",
-                "A.- Calificaci\u00f3n final obtenida en las ense\u00f1anzas cursadas y/o en m\u00f3dulos o materias ",
-                "B.- Relaci\u00f3n entre las materias superadas de las titulaciones anteriores y los t\u00edtulos ",
+                "B.- A las directrices generales propias correspondientes a t\u00edtulos universitarios de car\u00e1cter oficial. ",
+                "C.- A las directrices generales comunes correspondientes a t\u00edtulos universit arios de car\u00e1cter oficial. ",
+                "D.- A las memorias de verificaci\u00f3n correspondientes a t\u00edtulos universitarios de car\u00e1cter oficial. "
+            ]
+        },
+        {
+            "question": "21- ¿Cuál de los siguientes será un criterio de valoración establecido a aplicar para la resolución de las solicitudes de admisión a las diferentes titulaciones oficiales impartidas en dicha Universidad?",
+            "options": [
+                "A.- Calificaci\u00f3n final obtenida en las ense\u00f1anzas cursadas y/o en m\u00f3dulos o materias concretas. ",
+                "B.- Relaci\u00f3n entre las materias superadas de las titulaciones anteriores y los t\u00edtulos universitarios solicitados. ",
                 "C.- Formaci\u00f3n complementaria.  ",
                 "D.- Estudios cursados con anterioridad.  "
             ]
         },
         {
-            "question": "22.- La valoraci\u00f3n de los m\u00e9ritos de los aspirantes en un concurso para la  provisi\u00f3n de puestos",
+            "question": "22.- La valoraci\u00f3n de los m\u00e9ritos de los aspirantes en un concurso para la  provisi\u00f3n de puestos de trabajo en la Universidad de Málaga se realizará por:",
             "options": [
                 "A.- La Vicegerencia de Recursos Humanos.  ",
                 "B.- El Servicio de Personal.  ",
@@ -192,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- En el supuesto de un funcionario de la Universidad de M\u00e1laga que reingresa al servicio",
+            "question": "23.- En el supuesto de un funcionario de la Universidad de M\u00e1laga que reingresa al servicio activo a través de un concurso, el plazo de toma de posesión será de: ",
             "options": [
                 "A.- 3 d\u00edas.  ",
                 "B.- 5 d\u00edas.  ",
@@ -201,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- El nivel de los puestos de trabajo cuya denominaci\u00f3n es \u201cPuesto Administrativo\u201d en la",
+            "question": "24.- El nivel de los puestos de trabajo cuya denominaci\u00f3n es \u201cPuesto Administrativo\u201d en la Universidad de Málaga es el: ",
             "options": [
                 "A.- 16. ",
                 "B.- 17.  ",
@@ -210,7 +217,7 @@
             ]
         },
         {
-            "question": "25.- El r\u00e9gimen horario del personal de la Escuela Infantil vendr\u00e1 determinado por los turnos",
+            "question": "25.- El r\u00e9gimen horario del personal de la Escuela Infantil vendr\u00e1 determinado por los turnos que se oferten a los usuarios, no realizándose en:",
             "options": [
                 "A.- Turno de ma\u00f1ana.  ",
                 "B.- Turno de tarde.  ",

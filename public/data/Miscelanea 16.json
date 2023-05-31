@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con lo establecido en el apartado 32 de las Normas de aplicaci\u00f3n del",
+            "question": "1.- De acuerdo con lo establecido en el apartado 32 de las Normas de aplicaci\u00f3n del PORHUMA, ¿Quién p odrá atribuir funciones diferentes a las propias de su puesto de trabajo a funcionarios, cuando concurran razones de urgencia inaplazable o necesidad, derivadas del incremento de volumen de las cargas de trabajo en Servicios o Unidades o circunstancias extraordinarias y/o imprevisibles que impliquen una modificación sustancial o un incremento de las actividades a desarrollar, excepcionalmente ?",
             "options": [
                 "A.- El Rector.  ",
                 "B.- La Vicegerencia de Recursos Humanos.  ",
@@ -22,8 +22,8 @@
             "question": "3.- El principio contable de no compensaci\u00f3n signifi ca:",
             "options": [
                 "A.- No podr\u00e1n compensarse las partidas del activo y del pasivo del balance.  ",
-                "B.- No podr\u00e1n compensarse las partidas de gastos e ingresos que integran la cuenta del resultado econ\u00f3mico patrimonial o el estado de cambios en el patrimonio ",
-                "C.- Se valorar\u00e1n separadamente los elementos integrantes de las cuentas anuales, ",
+                "B.- No podr\u00e1n compensarse las partidas de gastos e ingresos que integran la cuenta del resultado econ\u00f3mico patrimonial o el estado de cambios en el patrimonio neto.",
+                "C.- Se valorar\u00e1n separadamente los elementos integrantes de las cuentas anuales, salvo aquellos casos en que de forma excepcional así se regule.",
                 "D.- Significa todo lo anteriormente citado.  "
             ]
         },
@@ -39,14 +39,14 @@
         {
             "question": "5.- En la Universidad de M\u00e1laga no estar\u00e1n sometidos a intervenci\u00f3n previa:",
             "options": [
-                "A.- Los gastos de car\u00e1cter peri\u00f3dico y dem\u00e1s de tracto sucesivo, una vez intervenido ",
+                "A.- Los gastos de car\u00e1cter peri\u00f3dico y dem\u00e1s de tracto sucesivo, una vez intervenido el gasto correspondiente al periodo inicial del acto o contrato del que se deriven o sus modificaciones.",
                 "B.- Los contratos menores.  ",
                 "C.- Los gastos cuyo pago deba realizarse mediante el procedimiento especial de Anticipo de Caja Fija.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "6.- S\u00f3lo en virtud de ley podr\u00e1 aplicarse como sistema selectivo de los funcionarios de",
+            "question": "6.- S\u00f3lo en virtud de ley podr\u00e1 aplicarse como sistema selectivo de los funcionarios de carrera, con carácter excepcional, el sistema de: ",
             "options": [
                 "A.- Concurso.  ",
                 "B.- Oposici\u00f3n.  ",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "question": "7.- Si alguna disposici\u00f3n atribuye competencia a una Administraci\u00f3n no se entender\u00e1",
+            "question": "7.- Si alguna disposici\u00f3n atribuye competencia a una Administraci\u00f3n no se entender\u00e1 que la facultad de instruir y resolver los expedientes corresponde a los órganos inferiores competentes por razón de: ",
             "options": [
                 "A.- Jerarqu\u00eda.  ",
                 "B.- Materia.  ",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "question": "8.- \u00bfCu\u00e1l de las siguientes no ser\u00e1 una forma de iniciar de oficio un procedimiento de",
+            "question": "8.- \u00bfCu\u00e1l de las siguientes no ser\u00e1 una forma de iniciar de oficio un procedimiento de acuerdo con la Ley 39/2015?",
             "options": [
                 "A.- Como consecuencia de orden superior.  ",
                 "B.- Mediante moci\u00f3n razonada de los subordinados.  ",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "question": "9.-  Si una moci\u00f3n de censura a un Director de Departamento  no fuera aprobada, las",
+            "question": "9.-  Si una moci\u00f3n de censura a un Director de Departamento  no fuera aprobada, las personas signatarias no podrán presentar otra:  ",
             "options": [
                 "A.- Durante esa legislatura.  ",
                 "B.- Hasta pasado un a\u00f1o.  ",
@@ -85,13 +85,13 @@
             "question": "10.- \u00bfTienen todos los reglamentos la misma jerarqu\u00eda?",
             "options": [
                 "A.- Si. ",
-                "B.- Los estatales tienen mayor rango que los auton\u00f3micos, y estos a su vez mayor ",
+                "B.- Los estatales tienen mayor rango que los auton\u00f3micos, y estos a su vez mayor rango que los locales.",
                 "C.- Tienen distinta jerarqu\u00eda en funci\u00f3n del \u00f3rgano que los dicta.  ",
                 "D.- Tienen distinta jerarqu\u00eda seg\u00fan la materia que regulan.  "
             ]
         },
         {
-            "question": "11.- \u00bfMediante qu\u00e9 tipo de ley se regular\u00e1 las formas de ejercicio y requisitos de la",
+            "question": "11.- \u00bfMediante qu\u00e9 tipo de ley se regular\u00e1 las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley? ",
             "options": [
                 "A.- Ley o rg\u00e1nica.  ",
                 "B.- Ley ordinaria.  ",
@@ -109,16 +109,16 @@
             ]
         },
         {
-            "question": "13.- \u00bfQui\u00e9n de los siguientes no tendr\u00e1n derecho a la compensaci\u00f3n de matr\u00edcula por",
+            "question": "13.- \u00bfQui\u00e9n de los siguientes no tendr\u00e1n derecho a la compensaci\u00f3n de matr\u00edcula por estudios en otras  universidades, por la Universidad de Málaga? ",
             "options": [
-                "A.- Personal de la Universidad de M\u00e1laga que perciba sus retribuciones con cargo al ",
-                "B.- Personal de la Universidad de M\u00e1lag a que perciba sus retribuciones con cargo al ",
-                "C.- C\u00f3nyuges, parejas de hecho e hijos menores de 28 a\u00f1os del Personal de la ",
+                "A.- Personal de la Universidad de M\u00e1laga que perciba sus retribuciones con cargo al capítulo I del Presupuesto y preste sus servicios en régimen de dedicación a tiempo.",
+                "B.- Personal de la Universidad de M\u00e1lag a que perciba sus retribuciones con cargo al capítulo I del Presupuesto y preste sus servicios en régimen de dedicación a tiempo parcial. ",
+                "C.- C\u00f3nyuges, parejas de hecho e hijos menores de 28 a\u00f1os del Personal de la Universidad de Málaga que perciba sus re tribuciones con cargo al capítulo I del Presupuesto y preste sus servicios en régimen de dedicación a tiempo completo. ",
                 "D.- El Presidente del Consejo Escolar de Andaluc\u00eda.  "
             ]
         },
         {
-            "question": "14.- El importe a pagar por la matr\u00edcula en la Universidad de M\u00e1laga no contemplar\u00e1,",
+            "question": "14.- El importe a pagar por la matr\u00edcula en la Universidad de M\u00e1laga no contemplar\u00e1, para todos los alumnos, la prestación de los siguientes servicios:  ",
             "options": [
                 "A.- Servicios docentes.  ",
                 "B.- Servicios administrativos.  ",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- En l a Comisi\u00f3n de Reclamaciones de la Univ ersidad de M\u00e1laga actuar\u00e1 como",
+            "question": "15.- En l a Comisi\u00f3n de Reclamaciones de la Universidad de M\u00e1laga actuar\u00e1 como Secretario : ",
             "options": [
                 "A.- El catedr\u00e1tico de universidad m\u00e1s antiguo .  ",
                 "B.- El catedr\u00e1tico de universidad m\u00e1s moderno.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- \u00bfDe qu\u00e9 n\u00famero de pruebas consta la prueba de acceso para personas mayores de",
+            "question": "16.- \u00bfDe qu\u00e9 n\u00famero de pruebas consta la prueba de acceso para personas mayores de 45 años, en una Comunidad sin lengua cooficial?",
             "options": [
                 "A.- 4. ",
                 "B.- 3. ",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "question": "17.- \u00bfQu\u00e9 porcentaje, a l menos, de la calificaci\u00f3n de cada prueba deber\u00e1 obtenerse a",
+            "question": "17.- \u00bfQu\u00e9 porcentaje, a l menos, de la calificaci\u00f3n de cada prueba deber\u00e1 obtenerse a través de la evaluación de estándares de aprendizaje seleccionados entre los definidos en la matriz de especificaciones de la materia correspondiente?",
             "options": [
                 "A.- 70%.  ",
                 "B.- 60%.  ",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- \u00bfQui\u00e9n ser\u00e1 responsable de establecer las especificaciones y objetivos concretos del",
+            "question": "18.- \u00bfQui\u00e9n ser\u00e1 responsable de establecer las especificaciones y objetivos concretos del TFG, de orientar al estudiante en su desarrollo y de velar por el cumplimiento de los objetivos fijados?",
             "options": [
                 "A.- El Coordinador del Grado.  ",
                 "B.- El tutor del TFG.  ",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- Se consideran como supuestos que dan derecho a solicitar el reconocimiento de la",
+            "question": "19.- Se consideran como supuestos que dan derecho a solicitar el reconocimiento de la condición de estudiante con dedicación al estudio a tiempo parcial:",
             "options": [
                 "A.- Estar trabajando y acreditar que, durante el per\u00edodo lectivo del curso acad\u00e9mico correspondiente, se alcanzan al menos 60 d\u00edas de actividad laboral.  ",
                 "B.- Ser menor de 45 a\u00f1os.  ",
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- \u00bfEn cu\u00e1l de los siguientes supuestos el Recto r no podr\u00e1 disponer la adscripci\u00f3n",
+            "question": "20.- \u00bfEn cu\u00e1l de los siguientes supuestos el Recto r no podr\u00e1 disponer la adscripci\u00f3n provisional del personal funcionario?",
             "options": [
                 "A.- Remoci\u00f3n o cese en un puesto de trabajo obtenido por concurso o libre designaci\u00f3n.   ",
                 "B.- Supresi\u00f3n de puestos de trabajo incluidos en la relaci\u00f3n de puestos de trabajo.   ",
@@ -181,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- \u00bfDe cu\u00e1ntas fases consta el proceso de preinscripci\u00f3n dirigidas a quienes est\u00e9n en",
+            "question": "21.- \u00bfDe cu\u00e1ntas fases consta el proceso de preinscripci\u00f3n dirigidas a quienes est\u00e9n en posesión de un título universitario, español o extranj ero, que les habilite para el acceso a los Másteres?",
             "options": [
                 "A.- 4. ",
                 "B.- 3.  ",
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- Si el que accede a un puesto p\u00fablico viniere realizando una actividad privada que requiera el reconocimiento de compatibilidad, deber\u00e1 obtener \u00e9sta o cesar en la",
+            "question": "22.- Si el que accede a un puesto p\u00fablico viniere realizando una actividad privada que requiera el reconocimiento de compatibilidad, deber\u00e1 obtener \u00e9sta o cesar en la realización de la actividad privada antes de comenzar el ejercicio de sus funciones públicas, ¿En qué plazo se deberá solicitar ésta para que el plazo posesorio se prorrogue éste hasta que recaiga la resolución correspondiente?",
             "options": [
                 "A.- En los cinco primeros d \u00edas del plazo posesorio.  ",
                 "D.- En los seis primeros d\u00edas del plazo posesorio.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- De acuerdo con lo establecido en el art\u00edculo 7 del R.D. 1002/ 2010,  de 5 de agosto,",
+            "question": "23.- De acuerdo con lo establecido en el art\u00edculo 7 del R.D. 1002/ 2010,  de 5 de agosto, sobre expedición de títulos universitarios oficiales , la expedición de Títulos Conjuntos de Grado obtenidos tras la superación de un plan de estudios conjunto entre universidades españolas y extranjeras  se regirá por lo establecido en el Convenio que a estos efectos hayan suscrito las respectivas universidades , debiendo especificarse en el mismo que Universidad será responsable de :",
             "options": [
                 "A.-  La expedici\u00f3n material del t\u00edtulo . ",
                 "B.-  El registro del t\u00edtulo . ",

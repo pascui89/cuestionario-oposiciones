@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios",
+            "question": "1.- De acuerdo con el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtención de títulos universitarios oficiales de graduado y máster universitario, así como de la transferencia de créditos, el número de créditos que sean objeto de reconocimiento a partir de experiencia profesional o laboral y de enseñanzas universitarias no oficiales no podrá ser superior, en su conjunto, al:",
             "options": [
                 "A.- 15 por ciento del total de cr\u00e9ditos que constituyen el plan de estudios.   ",
                 "B.- 5 por ciento del total de cr\u00e9ditos que constituyen el plan de estudios.  ",
@@ -10,25 +10,30 @@
             ]
         },
         {
-            "question": "2.- De conformidad con el art\u00edculo 49 de la Ley Org\u00e1nica 6/2001, de 21 de diciembre, de",
-            "options": []
+            "question": "2.- De conformidad con el art\u00edculo 49 de la Ley Org\u00e1nica 6/2001, de 21 de diciembre, de Universidades, la finalidad principal del contrato de Ayudante será:",
+            "options": [
+                "A.-Completar la formación docente e investigadora de dicha persona. ",
+                "B.-Desarrollar tareas docentes y  de investigación en el Departamento en el que estén adscritos.  ",
+                "C.-Ayudar en tareas docentes y colaborar en las tareas de investigación en el Departamento en el que estén adscritos.  ",
+                "D.-Ayudar en tareas docentes y de investigación en el Departamento en el  que estén adscritos."
+            ]
         },
         {
-            "question": "3.- El art\u00edculo 6 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones",
+            "question": "3.- El art\u00edculo 6 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones Públicas, determina que sin perjuicio de lo previsto en cuanto a la dedicación del profesorado universitario en el artículo 4.3, de dicha ley, excepcionalmente podrá autorizarse la compatibilidad para el ejercicio de actividades, entre otras, de: ",
             "options": [
                 "A.- Investigaci\u00f3n de car\u00e1cter permanente.  ",
-                "B.- Asesoramiento cient\u00edfico en supuestos concretos, siempre que se correspondan a las ",
-                "C.- Asesoramiento t\u00e9cnico en supuestos concretos, que no correspondan a las funciones del ",
+                "B.- Asesoramiento cient\u00edfico en supuestos concretos, siempre que se correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas.",
+                "C.- Asesoramiento t\u00e9cnico en supuestos concretos, que no correspondan a las funciones del personal adscrito a las respectivas Administraciones Públicas. ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
             "question": "4.- De acuerdo con el art\u00ba 109 del Estatuto de la Universidad de M\u00e1laga, actuar\u00e1 como s ecretario",
             "options": [
-                "A.- Una persona perteneciente al personal de administraci\u00f3n y servicios, elegida por la ",
+                "A.- Una persona perteneciente al personal de administraci\u00f3n y servicios, elegida por la representación de dicho sector en el Consejo de Gobierno.",
                 "B.- La persona titular de la Jefatura del Servicio de Becas de la Universidad.  ",
                 "C.- Un miembro de la Gerencia de la Un iversidad.  ",
-                "D.- Un Jefe de Secretar\u00eda de un Centro elegida por la representaci\u00f3n del PAS en el Consejo de "
+                "D.- Un Jefe de Secretar\u00eda de un Centro elegida por la representaci\u00f3n del PAS en el Consejo de Gobierno."
             ]
         },
         {
@@ -37,11 +42,11 @@
                 "A.- Investigaciones que no tengan como objetivo directo el desarrollo armament\u00edstico.  ",
                 "B.- Investigaciones que supongan menoscabo o deterioro del medio ambiente.  ",
                 "C.- Investigaciones que puedan dar lugar a la vulneraci\u00f3n de los derechos humanos.  ",
-                "D.- No part icipar\u00e1 en ninguna de las anteriores propuestas.  "
+                "D.- No participar\u00e1 en ninguna de las anteriores propuestas.  "
             ]
         },
         {
-            "question": "6.- De acuerdo con el art\u00edculo 40.1 de la LAU el profesorado asociado  a tiempo parcial se",
+            "question": "6.- De acuerdo con el art\u00edculo 40.1 de la LAU el profesorado asociado a tiempo parcial se contratará, de entre es pecialistas de reconocida competencia, adquirida durante:  ",
             "options": [
                 "A.- Tres a\u00f1os.  ",
                 "B.- Al menos tres a\u00f1os.  ",
@@ -50,7 +55,7 @@
             ]
         },
         {
-            "question": "7.- De acuerdo con el art\u00edculo 37 del Real Decreto 822/2021  las universidades podr\u00e1n impartir",
+            "question": "7.- De acuerdo con el art\u00edculo 37 del Real Decreto 822/2021  las universidades podr\u00e1n impartir enseñanzas propias de menos de",
             "options": [
                 "A.- 20 ECTS.  ",
                 "B.- 15 ECTS .   ",
@@ -68,16 +73,16 @@
             ]
         },
         {
-            "question": "9.- De acuerdo con el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios",
+            "question": "9.- De acuerdo con el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtención de títulos universitarios oficiales de graduado y máster universitario, así como de la transferencia  de créditos, e n las solicitudes de reconocimiento presentadas, en las que se alegue experiencia laboral o profesional acreditada, no se podrá superar el resultado de aplicar la ratio de:",
             "options": [
-                "A.- Un cr\u00e9dito por cada 20 horas de la actividad correspondiente a dicha experiencia laboral ",
+                "A.- Un cr\u00e9dito por cada 20 horas de la actividad correspondiente a dicha experiencia laboral o profesional.",
                 "B.- Un cr\u00e9dito por cada 25 horas de la actividad correspondiente a dicha experiencia laboral o profesional.  ",
                 "C.- Un cr\u00e9dito por cada 30 horas de la actividad correspondiente a dicha experiencia laboral o profesional . ",
                 "D.- Un cr\u00e9dito por cada 35 horas de la actividad correspondiente a dicha experiencia laboral o profesional.  "
             ]
         },
         {
-            "question": "10.- \u00bfQu\u00e9 porcentaje se detraer\u00e1 de l total de ingresos de un t\u00edtulo propio y qu e se destinar\u00e1 a",
+            "question": "10.- \u00bfQu\u00e9 porcentaje se detraer\u00e1 de l total de ingresos de un t\u00edtulo propio y qu e se destinar\u00e1 a cubrir los gastos generales de la Universidad de acuerdo con lo establecido en el artículo 73 del Reglamento del Régimen Económico -Financiero de la Universidad de Málaga?",
             "options": [
                 "A.- 10%.  ",
                 "B.- 15%.  ",
@@ -95,7 +100,7 @@
             ]
         },
         {
-            "question": "12.- Principio que presume que la empresa va a realizar sus actividades por un tiempo",
+            "question": "12.- Principio que presume que la empresa va a realizar sus actividades por un tiempo indefinido, salvo que se pueda demostrar lo contrario.",
             "options": [
                 "A.- Continuidad.  ",
                 "B.- Per\u00edodo.  ",
@@ -104,7 +109,7 @@
             ]
         },
         {
-            "question": "13.- De acuerdo con lo establecido en el art\u00edculo 5 del Real Decreto 412/2014, los estudiantes",
+            "question": "13.- De acuerdo con lo establecido en el art\u00edculo 5 del Real Decreto 412/2014, los estudiantes que, habiendo comenzado sus estudios universitarios en un determinado centro, y los hayan abandonado temporalmente, podrán continuarlos en el mismo centro sin necesidad de volver a participar en proceso de admisión alguno, sin perjuicio de las normas de permanencia que la universidad pueda tener establecidas, siempre y cuando tengan superados, al menos:",
             "options": [
                 "A.- Tres cr\u00e9ditos ECTS . ",
                 "B.- Cinco cr\u00e9ditos ECTS.  ",
@@ -113,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- Las categor\u00edas de preguntas de las pruebas de evaluaci\u00f3n de Bachillerato para el acceso a la",
+            "question": "14.- Las categor\u00edas de preguntas de las pruebas de evaluaci\u00f3n de Bachillerato para el acceso a la Universidad  no se definen como:",
             "options": [
                 "A.- Opci\u00f3n m\u00faltiple.  ",
                 "B.- Semiabiertas.  ",
@@ -122,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- Para aquellas personas que est\u00e9n en posesi\u00f3n de un t\u00edtulo universitario o equivalente que",
+            "question": "15.- Para aquellas personas que est\u00e9n en posesi\u00f3n de un t\u00edtulo universitario o equivalente que habilite para el acceso a la Universidad, el orden de prelación dentro de cada fase se realizará en función de:",
             "options": [
                 "A.- La nota media de expediente acad\u00e9mico del t\u00edtulo de Grado, M\u00e1ster u otro t\u00edtulo universitario oficial.  ",
                 "B.- La calificaci\u00f3n obtenida para la rama de conocimiento de que se trate.  ",
@@ -131,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- En el supuesto de que la admisi\u00f3n de estudiantes con estudios universitarios espa\u00f1oles",
+            "question": "16.- En el supuesto de que la admisi\u00f3n de estudiantes con estudios universitarios espa\u00f1oles parciales en la Universidad de Málaga se hubiese efectuado a través de los cupos de plazas reservadas para estudiantes con titu lación universitaria o equivalente, o para quienes hayan realizado las pruebas de acceso para mayores de 25 años, para mayores de 45 años, o para mayores de 40 años que acrediten experiencia laboral o profesional, su calificación, expresada en su respectiv a base aritmética, será trasladada, mediante la correspondiente operación aritmética, a la base:",
             "options": [
                 "A.- 14.  ",
                 "B.- 12. ",
@@ -158,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- Cuando la carga lectiva total del correspondiente M\u00e1ster Universitario sea de 60 cr\u00e9ditos,",
+            "question": "19.- Cuando la carga lectiva total del correspondiente M\u00e1ster Universitario sea de 60 cr\u00e9ditos, el límite máximo de permanencia en estudios universitarios oficiales de Máster para los estudiantes con dedicación al estudio a tiempo completo, será:",
             "options": [
                 "A.- Un curso acad\u00e9mico matriculado.  ",
                 "B.- Dos cursos acad\u00e9micos matriculados.  ",
@@ -185,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- Con car\u00e1cter gen eral, para el acceso a un programa oficial de doctorado ser\u00e1 necesario estar",
+            "question": "22.- Con car\u00e1cter gen eral, para el acceso a un programa oficial de doctorado ser\u00e1 necesario estar en posesión de los títulos oficiales españoles de Grado, o equivalente, y de Máster universitario, o equivalente, siempre que se hayan superado, al menos:",
             "options": [
                 "A.- 400 cr\u00e9ditos ECTS  en el conjunto de estas dos ense\u00f1anzas.  ",
                 "B.- 360 cr\u00e9ditos ECTS en el conjunto de estas dos ense\u00f1anzas.  ",
@@ -194,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- Al personal docente e investigador, de acuerdo con lo establecido en el Estatuto de la",
+            "question": "23.- Al personal docente e investigador, de acuerdo con lo establecido en el Estatuto de la Universidad de Málaga, se le podrán conceder permisos de duración inferior a tres meses sin merma alguna de retribución para desplazamientos por razones:",
             "options": [
                 "A.- Docentes.  ",
                 "B.- Investig adoras.  ",
@@ -203,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- De acuerdo con lo establecido en el art\u00edculo 185 de los Estatutos de la Universidad de",
+            "question": "24.- De acuerdo con lo establecido en el art\u00edculo 185 de los Estatutos de la Universidad de Málaga ¿Quién elaborará los expedientes de las modificaciones presupuestarias?",
             "options": [
                 "A.- Al Consejo de Gobierno.  ",
                 "B.- Al Rector.  ",

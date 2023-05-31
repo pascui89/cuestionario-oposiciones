@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- El proyecto de reglamento que acompa\u00f1a las propuestas de creaci\u00f3n de institutos",
+            "question": "1.- El proyecto de reglamento que acompa\u00f1a las propuestas de creaci\u00f3n de institutos universitarios de investigación necesitarán incluir, al menos, la siguiente información:",
             "options": [
                 "A.- Personal que se adscribe al instituto y su r\u00e9gimen.  ",
                 "B.-  Criterios de calidad cient\u00edfica, con sus correspondientes indicadores.  ",
@@ -19,11 +19,11 @@
             ]
         },
         {
-            "question": "3.- \u00bfQu\u00e9 ocurre en el caso de no aprobarse el presupuesto de la Universidad antes del primer",
+            "question": "3.- \u00bfQu\u00e9 ocurre en el caso de no aprobarse el presupuesto de la Universidad antes del primer día del ejercicio económico?",
             "options": [
                 "A.- Se paraliza la actividad econ\u00f3mica en la Universidad.  ",
                 "B.-  Se considerar\u00e1 autom\u00e1ticamente prorrogado el del ejercicio anterior.  ",
-                "C.-  El Consejo de Gobierno tiene treinta d\u00edas para realizar las modificaciones pertinentes ",
+                "C.-  El Consejo de Gobierno tiene treinta d\u00edas para realizar las modificaciones pertinentes para su aplicación.",
                 "D.-  Se estar\u00e1 a l o dispuesto en las normas presupuestarias de la Comunidad Aut\u00f3noma.  "
             ]
         },
@@ -37,16 +37,16 @@
             ]
         },
         {
-            "question": "5.- El personal docente y/o investigador, funcionario de carrera o laboral fijo que se en cuentre",
+            "question": "5.- El personal docente y/o investigador, funcionario de carrera o laboral fijo que se en cuentre en excedencia temporal tendrá derecho: ",
             "options": [
                 "A.- A la reserva del puesto de trabajo que viniera desempe\u00f1ando.  ",
                 "B.- Al c\u00f3mputo del tiempo que se encuentre en dicha situaci\u00f3n a efectos de antig\u00fcedad.  ",
-                "C.- A la consolidaci\u00f3n de grado personal en los casos que corresponda seg\u00fan la normativa ",
+                "C.- A la consolidaci\u00f3n de grado personal en los casos que corresponda seg\u00fan la normativa aplicable.",
                 "D.- A todo lo anteriormente citado.  "
             ]
         },
         {
-            "question": "6.- \u00bfPueden las Administraciones P\u00fablicas asignar a su personal funciones, tareas o",
+            "question": "6.- \u00bfPueden las Administraciones P\u00fablicas asignar a su personal funciones, tareas o responsabilidades distintas a las correspondientes al puesto de trabajo que desempeñen? Señale la respuesta incorrecta. ",
             "options": [
                 "A.- Siempre que resulten adecuadas a su clasificaci\u00f3n, categor\u00eda o grado.  ",
                 "B.- Cuando las necesidades del servicio lo justifiquen.  ",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "question": "10.- \u00bfCu\u00e1l de las siguientes comisiones ser\u00e1 o\u00edda en relaci\u00f3n con los criterios, indicadores y",
+            "question": "10.- \u00bfCu\u00e1l de las siguientes comisiones ser\u00e1 o\u00edda en relaci\u00f3n con los criterios, indicadores y bases comunes que hayan de utilizarse para la evaluación de la calidad de las Universidades?",
             "options": [
                 "A.- Comisi\u00f3n de Fomento de la Calidad.  ",
                 "B.- Comisi\u00f3n de Programaci\u00f3n.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- \u00bfA qui\u00e9n corresponde mantener actualizada una relaci\u00f3n de emp leados p\u00fablicos que",
+            "question": "16.- \u00bfA qui\u00e9n corresponde mantener actualizada una relaci\u00f3n de emp leados p\u00fablicos que cuenten con resolución de adecuación de su actividad laboral, en la UMA?",
             "options": [
                 "A.- El Rector.  ",
                 "B.- El Gerente.  ",
@@ -145,13 +145,16 @@
             ]
         },
         {
-            "question": "17.- Cuando se incoe un expediente disciplinario a un funcionario que ostente la condici\u00f3n de",
+            "question": "17.- Cuando se incoe un expediente disciplinario a un funcionario que ostente la condici\u00f3n de Delegado sindical, Delegado de personal o cargo electivo a nivel provincial, autonómico o estatal en las Organizaciones Sindicales más representativas, deberá notificarse dicha incoación a la correspondiente Sección Sindical, Junta de Personal o Central Sindical:",
             "options": [
-                "C.- En todo caso, a fin de que puedan ser o\u00eddos durante la tramitaci\u00f3n del procedimiento.  "
+                "A .- En todo caso, a fin de que asuman formalmente la defensa del funcionario. ",
+                "B .- En todo caso, a fin de que gestionen la baja provisional como Delegado sindical, Delegado de personal o cargo electivo. ",
+                "C.- En todo caso, a fin de que puedan ser oídos durante la tramitación del procedimiento. ",
+                "D .- Sólo si el funcionario lo solicita expresamente al Instructor del expediente ."
             ]
         },
         {
-            "question": "18.- La admisi\u00f3n a las ense\u00f1anzas universitarias oficiales de Grado se realizar\u00e1 con respeto a",
+            "question": "18.- La admisi\u00f3n a las ense\u00f1anzas universitarias oficiales de Grado se realizar\u00e1 con respeto a los principio s de:",
             "options": [
                 "A.- Igualdad, no discriminaci\u00f3n, m\u00e9rito y capacidad.  ",
                 "B.- Igualdad, m\u00e9rito y capacidad.  ",
@@ -160,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- Los elementos relacionados con la ejecuci\u00f3n del presupuesto que se reflejan en el estado",
+            "question": "19.- Los elementos relacionados con la ejecuci\u00f3n del presupuesto que se reflejan en el estado de liquidación del presupuesto son:",
             "options": [
                 "A.- Gastos presupuestarios.  ",
                 "B.- Ingresos presupuestarios.  ",
@@ -169,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- Las ense\u00f1anzas universitarias oficiales se concretar\u00e1n en planes de estudios qu e ser\u00e1n",
+            "question": "20.- Las ense\u00f1anzas universitarias oficiales se concretar\u00e1n en planes de estudios qu e ser\u00e1n elaborados por las Universidades, con sujeción a las normas y condiciones que le sean de aplicación en cada caso dichos planes de estudios habrán de ser verificados:",
             "options": [
                 "A.- Las Comunidades Aut\u00f3nomas respectivas.  ",
                 "B.- El Gobierno.  ",
@@ -178,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- En las ense\u00f1anzas oficiales de grado y m\u00e1ster, la menci\u00f3n de \u201cmatr\u00edcula de honor\u201d podr\u00e1",
+            "question": "21.- En las ense\u00f1anzas oficiales de grado y m\u00e1ster, la menci\u00f3n de \u201cmatr\u00edcula de honor\u201d podr\u00e1 ser otorgada a alumnos que hayan obtenido una calificación:",
             "options": [
                 "A.- De 10.  ",
                 "B.- Igual o superior a 9.  ",
@@ -196,16 +199,16 @@
             ]
         },
         {
-            "question": "23.- Para la calificaci\u00f3n en el doctorado, el tribunal emitir\u00e1 un informe y la calificaci\u00f3n global",
+            "question": "23.- Para la calificaci\u00f3n en el doctorado, el tribunal emitir\u00e1 un informe y la calificaci\u00f3n global concedida a la tesis de acuerdo con la siguiente escala: ",
             "options": [
                 "A.- Numerica del 1 al 10.  ",
                 "B.- Apto o no apto. ",
-                "C.- Insuficiente, aprobado, notable, sobresaliente y sobresaliente con menci\u00f3n \u201ccum ",
+                "C.- Insuficiente, aprobado, notable, sobresaliente y sobresaliente con menci\u00f3n \u201ccum laude”.",
                 "D.- No apto, aprobado, notable y sobresaliente.  "
             ]
         },
         {
-            "question": "24.- La finalizaci\u00f3n del procedimiento de matriculaci\u00f3n, en la Universidad de M\u00e1laga, se",
+            "question": "24.- La finalizaci\u00f3n del procedimiento de matriculaci\u00f3n, en la Universidad de M\u00e1laga, se producirá por:",
             "options": [
                 "A.- La resoluci\u00f3n expresa de aceptaci\u00f3n de la solicitud de matriculaci\u00f3n.  ",
                 "B.- La resoluci\u00f3n expresa de archivo por desistimiento de la solicitud de matriculaci\u00f3n ",
@@ -214,12 +217,12 @@
             ]
         },
         {
-            "question": "25.- Un alumno que participe en el procedimiento de preinscripci\u00f3n para el acceso a los",
+            "question": "25.- Un alumno que participe en el procedimiento de preinscripci\u00f3n para el acceso a los estudios grado y quiera participar en la fase de extranjero no será necesario que presente o acredite adicionalmente: ",
             "options": [
                 "A.-  Su nacionalidad extranjera.  ",
-                "B.- Que un t\u00edt ulo, Diploma o estudios extranjeros que no sean: Bachillerato Europeo, ",
+                "B.- Que un t\u00edt ulo, Diploma o estudios extranjeros que no sean: Bachillerato Europeo, Diploma de Bachillerato Internacional, Bachiller de sistemas educativos de Estados miembros de la Unión Europea o de otros Estados con los que se hayan suscrito acuerdos internacionales  aplicables a este respecto, en régimen de reciprocidad.",
                 "C.-  Haber obtenido el t\u00edtulo, Diploma o estudios en un Centro ubicado en el extranjero. ",
-                "D.-  Ser\u00e1 necesario que presente o acredite todo lo anteriormente citado.  Miscelanea 14  "
+                "D.-  Ser\u00e1 necesario que presente o acredite todo lo anteriormente citado. "
             ]
         }
     ]

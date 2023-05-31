@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- Seg\u00fan lo establecido en el art \u00edculo  35.1 de la LPACAP \u00bfCu\u00e1l de los siguientes ser\u00e1n motivados",
+            "question": "1.- Seg\u00fan lo establecido en el art \u00edculo  35.1 de la LPACAP \u00bfCu\u00e1l de los siguientes ser\u00e1n motivados con sucinta referencia de hechos y fundamentos de derecho?",
             "options": [
                 "A.- Los actos que acuerden la iniciaci\u00f3n del procedimiento.  ",
                 "B.- Los actos que rechace n la realizaci\u00f3n de pruebas propuestas por los interesados.   ",
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "question": "2.- Seg\u00fan lo establecido en el art \u00edculo  70.1 de la LPACAP el conjunto ordenado e  documentos y",
+            "question": "2.- Seg\u00fan lo establecido en el art \u00edculo  70.1 de la LPACAP el conjunto ordenado e  documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla, se entiende por:",
             "options": [
                 "A.- Expediente administrativo.   ",
                 "B.- Acto administrativo.  ",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "question": "3.- De acuerdo con el art\u00edculo 19 de la Ley 40/2015, corresponde ostentar la representaci\u00f3n de",
+            "question": "3.- De acuerdo con el art\u00edculo 19 de la Ley 40/2015, corresponde ostentar la representaci\u00f3n de un órgano colegiado: ",
             "options": [
                 "A.- Al Presidente.   ",
                 "B.- Al Secretario.  ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- \u00bfA qui\u00e9n corresponde establecer los requisitos b\u00e1sicos que deben cumplir los centros",
+            "question": "4.- \u00bfA qui\u00e9n corresponde establecer los requisitos b\u00e1sicos que deben cumplir los centros adscritos? ",
             "options": [
                 "A.- Al Gobierno.   ",
                 "B.- A la Comunidad Aut\u00f3noma.  ",
@@ -37,10 +37,10 @@
             ]
         },
         {
-            "question": "5.- \u00bfC\u00f3mo se aplica la Ley 7 /2007, de 12 de abril, del Estatuto B\u00e1sico del Empleado P\u00fablico al",
+            "question": "5.- \u00bfC\u00f3mo se aplica la Ley 7 /2007, de 12 de abril, del Estatuto B\u00e1sico del Empleado P\u00fablico al personal investigador?",
             "options": [
                 "A.- S\u00f3lo cuando as\u00ed lo dispongan las normas espec\u00edficas que le sean de aplicaci\u00f3n.  ",
-                "B.- El Estatuto B\u00e1sico del Empleado P\u00fablico en ning\u00fan caso podr\u00e1 aplicarse al personal ",
+                "B.- El Estatuto B\u00e1sico del Empleado P\u00fablico en ning\u00fan caso podr\u00e1 aplicarse al personal investigador.",
                 "C.- Directamente.  ",
                 "D.- Podr\u00e1n dictarse normas singulares para adecuarlo a sus peculiaridades.   "
             ]
@@ -54,7 +54,7 @@
             ]
         },
         {
-            "question": "7.- El Profesorado asociado a tiempo parcial, ser\u00e1 contratado entre es pecialistas de reconocida",
+            "question": "7.- El Profesorado asociado a tiempo parcial, ser\u00e1 contratado entre es pecialistas de reconocida competencia adquirida durante al menos:",
             "options": [
                 "A.- 5 a\u00f1os.  ",
                 "B.- 4 a\u00f1os.  ",
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "question": "10.- De acuerdo con lo contemplado en el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de  la experiencia laboral o profesional, a",
+            "question": "10.- De acuerdo con lo contemplado en el art\u00edculo 8 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de  la experiencia laboral o profesional, a efectos de la obtención de títulos universitarios oficiales de graduado y máster universitario, así como de la transferencia de créditos, e n las solicitudes de reconocimiento presentadas, en las que se alegue la participación en actividades universitarias culturales, deportivas, de representación estudiantil, solidarias y de cooperación, para el cómputo de créditos en títulos universitarios oficiales de Graduado, no podrá ser objeto de reconocimiento, en su conjunto,  un número de créditos superior al:",
             "options": [
                 "A.- 3% de la carga lectiva total del t\u00edtulo de destino.  ",
                 "B.- 5% de la carga lectiva total del t\u00edtulo de destino.   ",
@@ -99,7 +99,7 @@
             ]
         },
         {
-            "question": "12.- Los estudiantes de nuevo ingreso en estudios conducentes a t\u00edtulos de Graduado/a o M\u00e1ster Universitario, en r\u00e9gimen de dedicaci\u00f3n a tiempo parcial, deber\u00e1n matricular un",
+            "question": "12.- Los estudiantes de nuevo ingreso en estudios conducentes a t\u00edtulos de Graduado/a o M\u00e1ster Universitario, en r\u00e9gimen de dedicaci\u00f3n a tiempo parcial, deber\u00e1n matricular un mínimo de",
             "options": [
                 "A.- 12 cr\u00e9ditos.  ",
                 "B.- 24 cr\u00e9ditos.   ",
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "question": "14.- De conformidad con lo dispuesto en el art\u00edculo 96 del Real Decreto Legislativo 5/2015, de",
+            "question": "14.- De conformidad con lo dispuesto en el art\u00edculo 96 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la suspensión firme de funciones, o de empleo y sueldo en el caso del personal laboral, tendrá una duración máxima de:",
             "options": [
                 "A.- 1 a\u00f1o.  ",
                 "B.- 2 a\u00f1os.  ",
@@ -126,34 +126,34 @@
             ]
         },
         {
-            "question": "15.- Seg\u00fan establece el art\u00edculo 19 de la Ley 53/1984 de incompatibilidades del personal de las",
+            "question": "15.- Seg\u00fan establece el art\u00edculo 19 de la Ley 53/1984 de incompatibilidades del personal de las Administraciones Públicas, quedarán exceptuadas del régimen de incompatibilidades las actividades siguientes:",
             "options": [
-                "A.- La direcci\u00f3n de seminarios en Centros oficiales destinados a la formaci\u00f3n de funcionarios ",
+                "A.- La direcci\u00f3n de seminarios en Centros oficiales destinados a la formaci\u00f3n de funcionarios o profesorado, cuando no tengan carácter permanente o habitual ni supongan más de setenta y cinco horas al año.",
                 "B.- El ejercicio retribuido del cargo de Presidente, Vocal o miembro de Juntas rectoras de Mutua lidades o Patronatos de Funcionarios.  ",
-                "C.- La producci\u00f3n y creaci\u00f3n literaria, art\u00edstica, cient\u00edfica y t\u00e9cnica, as\u00ed como las publicaciones derivadas de aqu\u00e9llas, siempre que se originen como consecuencia de una ",
-                "C.- La participaci\u00f3n habitual en coloq uios y programas en cualquier medio de comunicaci\u00f3n "
+                "C.- La producci\u00f3n y creaci\u00f3n literaria, art\u00edstica, cient\u00edfica y t\u00e9cnica, as\u00ed como las publicaciones derivadas de aqu\u00e9llas, siempre que se originen como consecuencia de una relación de empleo o de prestación de servicios.",
+                "C.- La participaci\u00f3n habitual en coloq uios y programas en cualquier medio de comunicaci\u00f3n social. "
             ]
         },
         {
             "question": "16.- De conformidad con el art\u00edculo 2 de la Ley Org\u00e1nica 6/2001, de 21 de diciembre, de Universidades, la autonom\u00eda de las Universidades comprende:",
             "options": [
-                "A.- La elaboraci\u00f3n de sus Estatutos y, en el caso de las Universidades privadas, de sus propias ",
-                "B.- La creaci\u00f3n de estructuras espec\u00edficas que act\u00faen como soporte de la investigaci\u00f3n y de ",
-                "C.- La regulaci\u00f3n de la expedici\u00f3n de los t\u00edtulos de car\u00e1cter oficial y validez en todo el ",
+                "A.- La elaboraci\u00f3n de sus Estatutos y, en el caso de las Universidades privadas, de sus propias normas de reconocimiento. ",
+                "B.- La creaci\u00f3n de estructuras espec\u00edficas que act\u00faen como soporte de la investigaci\u00f3n y de la docencia.",
+                "C.- La regulaci\u00f3n de la expedici\u00f3n de los t\u00edtulos de car\u00e1cter oficial y validez en todo el territorio nacional y de sus diplomas y títulos propios.",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "17.- Seg\u00fan el art\u00edculo 83 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo",
+            "question": "17.- Seg\u00fan el art\u00edculo 83 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administ raciones Públicas, el plazo para formular alegaciones en un periodo de información pública en ningún caso podrá ser inferior a:",
             "options": [
-                "A.- Diez d\u00edas, ampliables a quince d\u00edas, salvo que se trate de procedimientos de concurrencia ",
+                "A.- Diez d\u00edas, ampliables a quince d\u00edas, salvo que se trate de procedimientos de concurrencia competitiva. ",
                 "B.- Diez d\u00edas, ampliables a veinte d\u00edas, salvo que se trate de procedimientos de concurrencia competitiva.  ",
                 "C.- Diez d\u00edas.  ",
                 "D.- Veinte d\u00edas.   "
             ]
         },
         {
-            "question": "18.- De acuerdo con lo establecido en el art\u00edculo 22 del Real Decreto 822/2021, para que un",
+            "question": "18.- De acuerdo con lo establecido en el art\u00edculo 22 del Real Decreto 822/2021, para que un título de grado obtenga la Mención Dual se deben desarrollar e n la entidad colaboradora un porcentaje mínimo de créditos de:",
             "options": [
                 "A.- Un 20%   ",
                 "B.- Un 25%  ",
@@ -162,7 +162,7 @@
             ]
         },
         {
-            "question": "19.- De acuerdo con el art\u00edculo 18 de LAU, la comisi\u00f3n de las infracciones que se contemplan en la misma dar\u00e1 lugar a la imposici\u00f3n de las correspondientes sancio nes, m\u00e1s, en su caso,:",
+            "question": "19.- De acuerdo con el art\u00edculo 18 de LAU, la comisi\u00f3n de las infracciones que se contemplan en la misma dar\u00e1 lugar a la imposici\u00f3n de las correspondientes sancio nes, m\u00e1s, en su caso:",
             "options": [
                 "A.- El comiso del beneficio obtenido con la infracci\u00f3n.  ",
                 "B.- Amonestaci\u00f3n publicadas a costa del infractor en el Bolet\u00edn Oficial de la Junta de Andaluc\u00eda.  ",
@@ -171,7 +171,7 @@
             ]
         },
         {
-            "question": "20.- De acuerdo con lo establecido en el Real Decreto 1086/1989, de 28 de agosto, sobre retribuciones del profesorado universitario , Los acuerdos que adopte la Comisi\u00f3n Nacional",
+            "question": "20.- De acuerdo con lo establecido en el Real Decreto 1086/1989, de 28 de agosto, sobre retribuciones del profesorado universitario , Los acuerdos que adopte la Comisi\u00f3n Nacional Evaluadora de la Actividad Investigadora podrán ser recurridos en alzada ante:",
             "options": [
                 "A.- El Ministro de Educaci\u00f3n y Ciencia.  ",
                 "B.- La Presidencia del Consejo de Universidades.  ",
@@ -182,14 +182,14 @@
         {
             "question": "21.- Las Comisiones de Selecci\u00f3n que resuelvan los concursos de acceso a Cuerpos Docentes Universitarios de la Universidad de M\u00e1laga,:",
             "options": [
-                "A.- Contar\u00e1 con al menos un miembro perteneciente a una universidad distinta a la de ",
-                "B.- Contar\u00e1 con al menos dos mie mbros pertenecientes a una universidad distinta a la de ",
+                "A.- Contar\u00e1 con al menos un miembro perteneciente a una universidad distinta a la de Málaga.",
+                "B.- Contar\u00e1 con al menos dos mie mbros pertenecientes a una universidad distinta a la de Málaga.",
                 "C.- Su Presidente siempre ser\u00e1 de la Universidad de M\u00e1laga.  ",
                 "B.- La Secretar\u00eda de la Comisi\u00f3n siempre ser\u00e1 ejercida por un Catedr\u00e1tico de Universidad.  "
             ]
         },
         {
-            "question": "24.- De acuerdo con la exposici\u00f3n de motivos del Real Decreto 1125/2003 por el que se",
+            "question": "24.- De acuerdo con la exposici\u00f3n de motivos del Real Decreto 1125/2003 por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional, su implantación fue recomendada en la:",
             "options": [
                 "A.- Declaraci\u00f3n de Niza.  ",
                 "B.- Declaraci\u00f3n de Lisboa.  ",
@@ -198,7 +198,7 @@
             ]
         },
         {
-            "question": "25.- De acuerdo con el art\u00edculo 26 del Real Decreto 822/2021, la agencia de calidad",
+            "question": "25.- De acuerdo con el art\u00edculo 26 del Real Decreto 822/2021, la agencia de calidad correspondiente propondrá un informe provisional de verificación de la calidad de la memoria del plan de es tudios. El informe provisional, que deberá ser motivado, podrá ser favorable, favorable con condiciones o desfavorable. En el caso de ser favorable con condiciones, la agencia indicará aquellas cuestiones que deberán ser modificadas con el  bjetivo de alca nzar una propuesta definitiva de informe favorable. El informe provisional será remitido a la universidad solicitante del título para que, desde su recepción, pueda realizar las subsanaciones en el plazo de:",
             "options": [
                 "A.- En el plazo de 20 d\u00edas naturales.  ",
                 "B.- En el plazo de 15  d\u00edas h\u00e1biles.    ",
