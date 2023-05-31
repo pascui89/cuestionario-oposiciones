@@ -19,19 +19,21 @@ function App() {
   const [ fetching, setFetching ] = useState(false);
   const [ loading, setLoading ] = useState(true);
   const [ jsonData, setJsonData ] = useState({} as IQuestions);
+  const [ questionaryName, setQuestionaryName ] = useState('');
 
   useEffect(() => {
     if (fetching) return;
     const randomNumber = getRandomNumber();
     setFetching(true);
+    const currentQuestionaryName = `Miscelanea ${randomNumber}`;
     const fetchJsonData = async () => {
       try {
-        const response = await fetch(`data/Miscelanea ${randomNumber}.json`);
+        const response = await fetch(`data/${currentQuestionaryName}.json`);
         const data = await response.json();
         const file = Solutions.questions.find(f => f.file === `M-${randomNumber}`);
         const newFormData = {
-            ...data,
-            questions: data.questions.map((el: any, index: number) => ({ ...el, id: index, selected: '', valid: file?.solutions[index] }))
+          ...data,
+          questions: data.questions.map((el: any, index: number) => ({ ...el, id: index, selected: '', valid: file?.solutions[index] }))
         };
         setJsonData(newFormData);
       } catch (error) {
@@ -40,7 +42,8 @@ function App() {
         setTimeout(() => setLoading(false), 3500);
       }
     };
-
+    
+    setQuestionaryName(`Miscelanea ${randomNumber}`);
     setFetching(false);
     fetchJsonData();
     return () => {
@@ -64,7 +67,7 @@ function App() {
             />
             <p>Estamos cargando las preguntas aleatoriamente</p>
           </Fragment>}
-        {!loading && <Questionaries data={jsonData}/>}
+        {!loading && <Questionaries data={jsonData} questionaryName={questionaryName}/>}
       </div>
     </main>
   )
