@@ -2,7 +2,12 @@
     "questions": [
         {
             "question": "1.- El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey, con arreglo a las siguientes propuestas:",
-            "options": []
+            "options": [
+                "A.-Cuatro a propuesta del Congreso por mayoría de tres quintos de los miembros; cuatro a propuesta del Senado, con idéntica mayoría; cuatro a propuesta del Gobierno. ",
+                "B.-Cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría y cuatro a propuesta del Consejo General del Poder Judicial.  ",
+                "C.-Cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría, dos a propuesta del Gobierno, y dos a  propuesta del Consejo General del Poder Judicial.  ",
+                "D.-Cuatro a propuesta del Congreso; cuatro a p ropuesta del Gobierno y cuatro a propuesta del Consejo General del Poder Judicial."
+            ]
         },
         {
             "question": "2.- En los proyectos de ley declarados urgentes, se\u00f1ale de que plazo dispone el Senado para vetar el mismo, seg\u00fan establece el art. 90.3 de la Constituci\u00f3n Espa\u00f1ola:",
