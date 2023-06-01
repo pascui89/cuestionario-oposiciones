@@ -5,7 +5,7 @@ export const generateUniqueKey = (): string => {
 }
 
 export const getRandomNumber = (): number => {
-    return Math.floor(Math.random() * 69) + 1;
+    return Math.floor(Math.random() * 68) + 1;
 }
 
 export const sendMessageByEmail = (message: string): Promise<EmailJSResponseStatus> => {
