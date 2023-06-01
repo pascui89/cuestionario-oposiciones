@@ -1,11 +1,11 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 27 del Real Decreto 889/ 2022 y a efectos de",
+            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 27 del Real Decreto 889/ 2022 y a efectos de resoluci\u00f3n d el procedimiento para determinar la correspondencia de t\u00edtulos universitarios oficiales espa\u00f1oles a los niveles del Marco Espa\u00f1ol de Cualificaciones para la Educaci\u00f3n Superior , la Secretar\u00eda General de Universidades solicitar\u00e1 un informe vinculante a la ANECA , dicho informe tendr\u00e1  en consideraci\u00f3n:",
             "options": [
                 "A.- La formaci\u00f3n adquirida por el alumno.   ",
                 "B.- Los contenidos formativos supe rados para la obtenci\u00f3n del t\u00edtulo extranjero.  ",
-                "C.- Que se han obtenido las competencias profesionales que permiten el ejercicio de la ",
+                "C.- Que se han obtenido las competencias profesionales que permiten el ejercicio de la correspondiente profesi\u00f3n.  ",
                 "D.- A y C son respuestas correctas.  "
             ]
         },
@@ -19,16 +19,16 @@
             ]
         },
         {
-            "question": "3.- Seg\u00fan lo establecido en el art\u00edculo 10 de la Ley 53/1984, q uienes accedan por cualquier t\u00edtulo",
+            "question": "3.- Seg\u00fan lo establecido en el art\u00edculo 10 de la Ley 53/1984, q uienes accedan por cualquier t\u00edtulo a un nuevo puesto del sector p\u00fablico que con arreglo a la Ley de Incompatibilidades , resulte compatible, p revia autorizaci\u00f3n, con el que vinieran desempe\u00f1ando:",
             "options": [
                 "A.- Deber\u00e1n comunicar dicha circunstancia al correspondiente departamento de personal.  ",
                 "B.- Habr\u00e1n de optar por uno de ellos dentro del plazo de toma de posesi\u00f3n.  ",
-                "C.- Deber\u00e1n instar la autorizaci\u00f3n en los diez primeros d\u00edas del plazo de toma de posesi\u00f3n, ",
-                "D.- Tomar\u00e1n posesi\u00f3n y acto seguido instar\u00e1n dicha autorizaci\u00f3n, en los diez d\u00edas siguientes "
+                "C.- Deber\u00e1n instar la autorizaci\u00f3n en los diez primeros d\u00edas del plazo de toma de posesi\u00f3n, entendi\u00e9ndose \u00e9ste prorrogado en tanto recae resoluci\u00f3n.  ",
+                "D.- Tomar\u00e1n posesi\u00f3n y acto seguido instar\u00e1n dicha autorizaci\u00f3n, en los diez d\u00edas siguientes al acto de toma de posesi\u00f3n.  "
             ]
         },
         {
-            "question": "4.- Seg\u00fan el texto refundido de la Ley del Estatuto B\u00e1sico del Empleado P\u00fablico, es un derecho",
+            "question": "4.- Seg\u00fan el texto refundido de la Ley del Estatuto B\u00e1sico del Empleado P\u00fablico, es un derecho individual de los empleados p\u00fablicos que se ejerce de forma colectiva:",
             "options": [
                 "A.- La libre asociaci\u00f3n profesional.  ",
                 "B.- La libertad sindical.  ",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- De acuerdo con el art\u00edculo 87 del Texto R efundido de la Ley del Estatuto B\u00e1sico del Empleado",
+            "question": "5.- De acuerdo con el art\u00edculo 87 del Texto R efundido de la Ley del Estatuto B\u00e1sico del Empleado P\u00fablico, en qu\u00e9 situaci\u00f3n admini strativa se encuentran los funcionarios de carrera cuando son nombrados para desempe\u00f1ar puestos o cargos en organismos p\u00fablicos o entidades, dependientes o vinculados a las Administraciones P\u00fablicas que, de conformidad con lo que establezca la respectiva A dministraci\u00f3n P\u00fablica, est\u00e9n asimilados en su rango administrativo a altos cargos:",
             "options": [
                 "A.- Servicio activo.  ",
                 "B.- Servicio especiales.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- De acuerdo con el art\u00edculo 17 del Real Decreto 822/2021 , las ense\u00f1anzas universitarias",
+            "question": "6.- De acuerdo con el art\u00edculo 17 del Real Decreto 822/2021 , las ense\u00f1anzas universitarias oficiales de Master concluir\u00e1n con la elaboraci\u00f3n y defensa p\u00fablica de un trabajo de fin de M\u00e1ster que tendr\u00e1:",
             "options": [
                 "A.- Entre 5  y 30 cr\u00e9ditos.  ",
                 "B.- Entre 6 y 30 cr\u00e9ditos.   ",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "question": "7.- De acuerdo con lo establecido en el art\u00edculo 15 de la Ley Org\u00e1nica 2/2023 \u00bfa qui\u00e9n",
+            "question": "7.- De acuerdo con lo establecido en el art\u00edculo 15 de la Ley Org\u00e1nica 2/2023 \u00bfa qui\u00e9n corresponde aprobar la oferta general de ense\u00f1anzas y plazas  de las titulaciones oficiales del sistema universitario ?",
             "options": [
                 "A.- A cada una de las Comunidades Aut\u00f3nomas.  ",
                 "B.- A cada una de las Universidades.  ",
@@ -66,14 +66,14 @@
         {
             "question": "8.- El incumplimiento de lo previsto en el art\u00edculo 96 de la Ley Org\u00e1nica 2/2023 en materia de actos y negocios jur\u00eddicos que modifiquen la personalidad jur\u00eddica o la estructura de una Universidad privada supondr\u00e1:",
             "options": [
-                "A.- Una advertencia de suspensi\u00f3n de la actividad por parte de la Administraci\u00f3n ",
+                "A.- Una advertencia de suspensi\u00f3n de la actividad por parte de la Administraci\u00f3n correspondiente.  ",
                 "B.- Una modificaci\u00f3n de las condiciones esenciales del reconocimiento de la misma.  ",
                 "C.- La denegaci\u00f3n del reconocimiento de la Universidad.  ",
                 "D.- La prohibici\u00f3n de contrataci\u00f3n con la Administraci\u00f3n P\u00fablica.  "
             ]
         },
         {
-            "question": "9.- El art\u00edculo 6 de los Estatutos de la Universidad de M\u00e1laga establece que el r\u00e9gimen jur\u00eddico",
+            "question": "9.- El art\u00edculo 6 de los Estatutos de la Universidad de M\u00e1laga establece que el r\u00e9gimen jur\u00eddico del escudo, as\u00ed como su uso y concesi\u00f3n ser\u00e1 determinado por:",
             "options": [
                 "A.- El Claustro Universitario.  ",
                 "B.- El Consejo de Gobierno.  ",
@@ -82,7 +82,7 @@
             ]
         },
         {
-            "question": "10.- En la Universidad de M\u00e1laga y seg\u00fan los recogido en el art\u00edculo 123 de sus, la e scala de",
+            "question": "10.- En la Universidad de M\u00e1laga y seg\u00fan los recogido en el art\u00edculo 123 de sus, la e scala de t\u00e9cnicos/as de gesti\u00f3n se adscribe:",
             "options": [
                 "A.- Al grupo A.  ",
                 "B.- Al grupo A, subgrupo A1.  ",
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "question": "11.- De acuerdo con lo establecido en la LAU \u00bfD\u00f3nde se cont emplar\u00e1n ayudas a programas",
+            "question": "11.- De acuerdo con lo establecido en la LAU \u00bfD\u00f3nde se cont emplar\u00e1n ayudas a programas universitarios que est\u00e9n orientados a favorecer la consecuci\u00f3n de la formaci\u00f3n integral de los estudiantes, la continua transferencia de conocimientos desde la instituci\u00f3n universi-taria, la creaci\u00f3n de conocimiento y el desarrollo del esp\u00edritu cr\u00edtico y emprendedor en todos los \u00e1mbitos de la actividad social?",
             "options": [
                 "A.- En los programas de financiaci\u00f3n universitaria condicionada.  ",
                 "B.- En la Financiaci\u00f3n b\u00e1sica de las Universidades.  ",
@@ -100,7 +100,7 @@
             ]
         },
         {
-            "question": "12.- Seg\u00fan el art\u00edculo 58 de la LAU, corresponde al Consejo de Gobierno de la Junta de Andaluc\u00eda acordar la implantaci\u00f3n, suspensi\u00f3n y supresi\u00f3n de ense\u00f1anzas universitarias conducentes",
+            "question": "12.- Seg\u00fan el art\u00edculo 58 de la LAU, corresponde al Consejo de Gobierno de la Junta de Andaluc\u00eda acordar la implantaci\u00f3n, suspensi\u00f3n y supresi\u00f3n de ense\u00f1anzas universitarias conducentes a la obtenci\u00f3n de t\u00ed tulos de car\u00e1cter oficial y validez en todo el territorio nacional que se impartir\u00e1n en las Universidades andaluzas. El plazo m\u00e1ximo para dictar y notificar las resoluciones correspondientes ser\u00e1 de:",
             "options": [
                 "A.- Seis meses.  ",
                 "B.- Tres meses.  ",
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- De acuerdo con el art\u00edculo 41 de la Ley 39/2015 , \u00bfCu\u00e1ndo se podr\u00e1n realizar por medios",
+            "question": "15.- De acuerdo con el art\u00edculo 41 de la Ley 39/2015 , \u00bfCu\u00e1ndo se podr\u00e1n realizar por medios electr\u00f3nicos las notificaciones que contengan medios de pago a favor de los obligados, tales como cheques?",
             "options": [
                 "A.- En todo caso.  ",
                 "B.- En ning\u00fan caso.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- De acue rdo con lo establecido en el art\u00edculo 19 de la Ley 40/2015, los miembros del \u00f3rgano",
+            "question": "16.- De acue rdo con lo establecido en el art\u00edculo 19 de la Ley 40/2015, los miembros del \u00f3rgano colegiado deber\u00e1n recibir la convocatoria conteniendo el orden del d\u00eda de las reuniones con una antelaci\u00f3n m\u00ednima de:",
             "options": [
                 "A.- 2 d\u00edas.   ",
                 "B.- 3 d\u00edas.  ",
@@ -147,14 +147,14 @@
         {
             "question": "17.- Seg\u00fan lo recogido en el art\u00edculo 14 de la Ley 40/2015 el \u00f3rgano administrativo que se considere incompetente para la resoluci\u00f3n de un recurso deber\u00e1:",
             "options": [
-                "A.- Remitir directamente las actuaciones al \u00f3rgano que considere competente, debiendo ",
+                "A.- Remitir directamente las actuaciones al \u00f3rgano que considere competente, debiendo este \u00faltimo debiendo notificar esta circunstancia a los interesados.  ",
                 "B.- Declararse incompetente y dejar el asunto sin resolver.  ",
                 "C.- Resolver el asunto, a pesar de todo.  ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "18.- \u00bfQu\u00e9 se incluir\u00e1 dentro de la cuenta de  inmovilizado inmaterial \u201c2.0.6. Aplicaciones",
+            "question": "18.- \u00bfQu\u00e9 se incluir\u00e1 dentro de la cuenta de  inmovilizado inmaterial \u201c2.0.6. Aplicaciones inform\u00e1ticas\u201d, seg\u00fan lo recogido en el art\u00edculo 186 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de M\u00e1laga ?",
             "options": [
                 "A.- El importe satisfecho por la propiedad. ",
                 "B.- El importe satisfecho por el derecho al uso de programas inform\u00e1ticos. ",
@@ -163,16 +163,16 @@
             ]
         },
         {
-            "question": "19.- Seg\u00fan lo recogido en el art\u00edculo 165  del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de",
+            "question": "19.- Seg\u00fan lo recogido en el art\u00edculo 165  del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de M\u00e1laga, l a afectaci\u00f3n,:",
             "options": [
-                "A.- Es el acto por el cual un bien o derecho perteneciente a la Universidad de M\u00e1laga ",
-                "B.- Hace referencia a que lo ingresado por la Universidad de M\u00e1laga se destina a un gasto ",
+                "A.- Es el acto por el cual un bien o derecho perteneciente a la Universidad de M\u00e1laga es destinado a u n uso o servicio p\u00fablico determinado.   ",
+                "B.- Hace referencia a que lo ingresado por la Universidad de M\u00e1laga se destina a un gasto p\u00fablico concreto.  ",
                 "C.- Implica que determinados bienes se destinan a una finalidad concreta que no es otra que el ejercicio de la actividad econ\u00f3mica de la propia Universidad.  ",
                 "D.- Es un procedimiento t\u00e9cnico de utilizaci\u00f3n de los bienes.  "
             ]
         },
         {
-            "question": "20.- El cap\u00edtulo VII del estado de ingresos y del estado de gastos del Presupuesto de la",
+            "question": "20.- El cap\u00edtulo VII del estado de ingresos y del estado de gastos del Presupuesto de la Universidad de M\u00e1laga se denomina:",
             "options": [
                 "A.- Gastos de capital.  ",
                 "B.- Transferencias de capital.  ",
@@ -190,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- Si un miembro de una Comisi\u00f3n de Selecci\u00f3n de un concurso de acceso para ocupar plazas",
+            "question": "22.- Si un miembro de una Comisi\u00f3n de Selecci\u00f3n de un concurso de acceso para ocupar plazas de los cuerpos de Profesores Titulares de Universidad o Catedr\u00e1ticos de Universidad en la Universidad de M\u00e1laga, alega una causa de ren uncia como miembro de la misma \u00bfA qui\u00e9n compete su apreciaci\u00f3n  seg\u00fan el art\u00edculo 7 del Reglamento por el que se regula el procedimiento de los concursos de acceso a Cuerpos Docentes Universitarios de la Universidad de M\u00e1laga?",
             "options": [
                 "A.- Al Rector.  ",
                 "B.- Al Vicerrector que asuma las competencias de profesorado.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- La finalizaci\u00f3n del procedimiento de matriculaci\u00f3n en la Universidad de M\u00e1laga no se",
+            "question": "23.- La finalizaci\u00f3n del procedimiento de matriculaci\u00f3n en la Universidad de M\u00e1laga no se producir\u00e1 por:",
             "options": [
                 "A.- La resoluci\u00f3n expresa de aceptaci\u00f3n de la solicitud de matriculaci\u00f3n.  ",
                 "B.- La resoluci\u00f3n expresa de archivo por desistimiento de la solicitud de matriculaci\u00f3n.  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- \u00bfA qui\u00e9n corresponde hacer p\u00fablico el n\u00famero m\u00e1ximo de plazas que para cada titulaci\u00f3n",
+            "question": "24.- \u00bfA qui\u00e9n corresponde hacer p\u00fablico el n\u00famero m\u00e1ximo de plazas que para cada titulaci\u00f3n y centro ofrecen cada una de las Universidades p\u00fablicas para el siguiente curso acad\u00e9mico ?",
             "options": [
                 "A.- Al Gobierno.  ",
                 "B.- A Consejo de Universidades.  ",
@@ -217,7 +217,7 @@
             ]
         },
         {
-            "question": "25.- De acuerdo con lo regulado en el art\u00edculo 27 del Real Decreto 412/2014 \u00bfC\u00f3mo norma",
+            "question": "25.- De acuerdo con lo regulado en el art\u00edculo 27 del Real Decreto 412/2014 \u00bfC\u00f3mo norma general, q u\u00e9 porcentaje de plazas para el acceso a los estudios de grado se reservar\u00e1n, en Andaluc\u00eda, a estudiantes con discapacidad o necesidades educativas especiales asociadas a una discapacidad?",
             "options": [
                 "A.- 8%. ",
                 "B.- 7%. ",

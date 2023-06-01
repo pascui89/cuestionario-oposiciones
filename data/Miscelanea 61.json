@@ -1,16 +1,16 @@
 {
     "questions": [
         {
-            "question": "1.- Si el Presupue sto de la Universidad de M\u00e1laga n o fuera aprobado por el Consejo Social",
+            "question": "1.- Si el Presupue sto de la Universidad de M\u00e1laga n o fuera aprobado por el Consejo Social antes del primer d\u00eda del ejercicio econ\u00f3mico que haya de regir y si adem\u00e1s no existiera proyecto de Presupuesto la estructura org\u00e1nica del presupue sto prorrogado se adaptar\u00e1:",
             "options": [
                 "A.- A la cuant\u00eda total presupuestada en el ejercicio que se prorroga.  ",
-                "B.- A la estructura administrativa e n vigor en el ejercicio en que el presupuesto deba ",
-                "C.- A los cr\u00e9ditos correspondientes a servicios o programas que no deban terminar en el ",
-                "D.- A lo que determine la Ley Ge neral Presupuestaria para la pr\u00f3 rroga de presupuestos "
+                "B.- A la estructura administrativa e n vigor en el ejercicio en que el presupuesto deba ejecutarse.  ",
+                "C.- A los cr\u00e9ditos correspondientes a servicios o programas que no deban terminar en el ejercicio cuyo presupuesto se prorroga. ",
+                "D.- A lo que determine la Ley Ge neral Presupuestaria para la pr\u00f3rroga de presupuestos p\u00fablicos.  "
             ]
         },
         {
-            "question": "2.- Los pago s de las cuotas de la Segur idad Social, de las retenciones e ingresos a cuenta del",
+            "question": "2.- Los pago s de las cuotas de la Segur idad Social, de las retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas F\u00edsicas y de los dem\u00e1s descuentos practicados en n\u00f3mina en los que as\u00ed proceda, ser\u00e1n realizados por:",
             "options": [
                 "A.- El Servicio de Contabilidad.  ",
                 "B.- El Servicios de Habilitaci\u00f3n y Seguridad Social.  ",
@@ -19,16 +19,16 @@
             ]
         },
         {
-            "question": "3.- Seg\u00fan lo establecido en el art\u00edculo 13 del Reglamento de Provisi\u00f3n de Puestos de Trabajo del",
+            "question": "3.- Seg\u00fan lo establecido en el art\u00edculo 13 del Reglamento de Provisi\u00f3n de Puestos de Trabajo del PAS funcionario de  la Universidad de M\u00e1laga,  el plazo de toma de posesi \u00f3n, tras un concurso, empezar\u00e1 a contarse, si la resoluci\u00f3n comporta el reingreso al servicio activo :",
             "options": [
                 "A.- Tras tres d\u00edas h\u00e1biles si no implica cambio de residencia del funcionario.  ",
                 "B.- A partir del d\u00eda siguiente al del cese . ",
                 "C.- A los tres d\u00edas h\u00e1biles siguientes a la publicaci\u00f3n de la resoluci\u00f3n del concurso en el BOJA . ",
-                "D.- Dentro de los tres d\u00edas h\u00e1biles desde la publicaci\u00f3n de la resoluci\u00f3n del concurso en el "
+                "D.- Dentro de los tres d\u00edas h\u00e1biles desde la publicaci\u00f3n de la resoluci\u00f3n del concurso en el BOJA.  "
             ]
         },
         {
-            "question": "4.- De acuerdo con lo establecido en el Real Decreto 1086/19 89 los acuerdos que adopte la",
+            "question": "4.- De acuerdo con lo establecido en el Real Decreto 1086/19 89 los acuerdos que adopte la Comisi\u00f3n Nacional Evaluadora de la Actividad Investigadora podr\u00e1n ser recurridos ante:",
             "options": [
                 "A.- El Ministerio de Educaci\u00f3n.  ",
                 "B.- La Secretar\u00eda de Estado de Universidades.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- De acuerdo con lo establecido en el art\u00edculo 162 de los Estatutos de la UMA para ser",
+            "question": "6.- De acuerdo con lo establecido en el art\u00edculo 162 de los Estatutos de la UMA para ser designado por un centro como miembro de la  Comisi\u00f3n de Investigaci\u00f3n y Transferencia",
             "options": [
                 "A.- Un sexenio.  ",
                 "B.- Dos sexenios.  ",
@@ -76,9 +76,9 @@
             "question": "9.- De acuerdo con lo previsto en el C\u00f3digo Civil, las normas jur\u00eddicas contenidas en los tratados internacionales:",
             "options": [
                 "A.- En ning\u00fan cas o puede llegar a tener aplicaci\u00f3n directa en Espa\u00f1a.  ",
-                "B.- Aunque no pueden llegar a tener aplicaci\u00f3n directa en Espa\u00f1a, tendr\u00e1n car\u00e1cter ",
-                "C.- Ser\u00e1n de aplicaci\u00f3n directa en Espa\u00f1a desde la firma del tratado internacional ",
-                "D.- Ser\u00e1n de aplicaci\u00f3n directa en Espa\u00f1a cuando hayan pasado a formar parte del "
+                "B.- Aunque no pueden llegar a tener aplicaci\u00f3n directa en Espa\u00f1a, tendr\u00e1n car\u00e1cter informador del ordenamiento jur\u00eddico interno.  ",
+                "C.- Ser\u00e1n de aplicaci\u00f3n directa en Espa\u00f1a desde la firma del tratado internacional correspondiente.  ",
+                "D.- Ser\u00e1n de aplicaci\u00f3n directa en Espa\u00f1a cuando hayan pasado a formar parte del ordenamiento interno.   "
             ]
         },
         {
@@ -91,7 +91,7 @@
             ]
         },
         {
-            "question": "11.- Seg\u00fan lo recogido en el art\u00edculo 7 del Real Decreto 640/2021, de 27 de julio, de creaci\u00f3n,",
+            "question": "11.- Seg\u00fan lo recogido en el art\u00edculo 7 del Real Decreto 640/2021, de 27 de julio, de creaci\u00f3n, reconocimiento y autorizaci\u00f3n de universidades y centros universitarios, y acreditaci\u00f3n institucional de centros universitarios, la ratio estudiante profesor podr\u00e1 m odularse cuando la universidad imparta ense\u00f1anzas en la modalidad virtual, en funci\u00f3n del nivel de experimentalidad de las titulaciones y de la mayor o menor presencialidad, pudiendo oscilar entre:",
             "options": [
                 "A.- 1/25 y 1/50.   ",
                 "B.- 1/25 y 1/75 . ",
@@ -100,16 +100,16 @@
             ]
         },
         {
-            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 44 de la Ley 40/2015, s er\u00e1n considerados v\u00e1lidos",
+            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 44 de la Ley 40/2015, s er\u00e1n considerados v\u00e1lidos a efectos de autenticaci\u00f3n e identificaci\u00f3n de los emisores y receptores en las condiciones establecidas en esta Ley:",
             "options": [
-                "A.- Los documentos elec tr\u00f3nicos transmitidos en entornos abiertos de comunicaciones ",
-                "B.- Los documentos electr\u00f3nicos transmitidos en entornos cerrados de comunicac iones ",
-                "C.- Los documentos electr\u00f3nicos transmitidos en entornos abiertos de comunicaciones ",
-                "D.- Los documentos electr\u00f3nicos transmitidos en entornos cerrados de comunicaciones "
+                "A.- Los documentos elec tr\u00f3nicos transmitidos en entornos abiertos de comunicaciones establecidos entre Administraciones P\u00fablicas, \u00f3rganos, organismos p\u00fablicos y entidades ",
+                "B.- Los documentos electr\u00f3nicos transmitidos en entornos cerrados de comunicaciones establecidos entre Administraciones P\u00fablicas, \u00f3rganos, organismos p\u00fablicos y entidades de derecho p\u00fablico.  ",
+                "C.- Los documentos electr\u00f3nicos transmitidos en entornos abiertos de comunicaciones establecidos entre Administraciones P\u00fablicas, \u00f3rganos, org anismos p\u00fablicos y entidades ",
+                "D.- Los documentos electr\u00f3nicos transmitidos en entornos cerrados de comunicaciones establecidos entre Administraciones P\u00fablicas, \u00f3rganos, organismos p\u00fablicos y entidades de derecho p\u00fablico o privado  "
             ]
         },
         {
-            "question": "13.- Los documentos utilizados en las actuaciones administrativas se almacenar\u00e1n , seg\u00fan lo",
+            "question": "13.- Los documentos utilizados en las actuaciones administrativas se almacenar\u00e1n, seg\u00fan lo establecido en el art\u00edculo 46 de la Ley 40/2015 :",
             "options": [
                 "A.- Por medios no electr\u00f3nicos, salvo cuando no sea lo m\u00e1s adecuado para su conservaci\u00f3n.  ",
                 "B.- Por medios electr\u00f3ni cos, salvo cuando no sea posible.  ",
@@ -136,16 +136,16 @@
             ]
         },
         {
-            "question": "16.- De acuerdo con lo recogido en el art\u00edculo 2 de la Ley 53/1984, de Incompatibilidades del",
+            "question": "16.- De acuerdo con lo recogido en el art\u00edculo 2 de la Ley 53/1984, de Incompatibilidades del Personal al Servicio de las Administraciones P\u00fablica, est\u00e1 se aplicar\u00e1:",
             "options": [
                 "A.- Solo a los funcionarios de carrera.  ",
                 "B.- \u00danicamente a los funcionarios.  ",
-                "C.- A todo el perso nal al servicio de las Administraciones P\u00fablicas, cualquiera que sea la ",
+                "C.- A todo el perso nal al servicio de las Administraciones P\u00fablicas, cualquiera que sea la naturaleza jur\u00eddica de la relaci\u00f3n de empleo.  ",
                 "D.- A los funcionarios y a los laborales fijos, con contrato indefinido.  "
             ]
         },
         {
-            "question": "17.- De acuerdo con lo establecido en el art\u00edculo 3 de la L ey Org\u00e1nica 2/2023 del Sistema",
+            "question": "17.- De acuerdo con lo establecido en el art\u00edculo 3 de la L ey Org\u00e1nica 2/2023 del Sistema Universitario, las Universidades est\u00e1n dotadas de:",
             "options": [
                 "A.- Personalidad jur\u00eddica.  ",
                 "B.- Personalidad jur\u00eddica propia.  ",
@@ -154,7 +154,7 @@
             ]
         },
         {
-            "question": "18.- De acuerdo con lo establecido en el art\u00edculo 33 de la Ley Org\u00e1nica 2/2023 del Sistema",
+            "question": "18.- De acuerdo con lo establecido en el art\u00edculo 33 de la Ley Org\u00e1nica 2/2023 del Sistema Universitario, tendr\u00e1n derecho al paro acad\u00e9mico:",
             "options": [
                 "A.- El Estudiantado de la Universidad.  ",
                 "B.- El PDI de la Universidad . ",
@@ -174,14 +174,14 @@
         {
             "question": "20.- De acuerdo con el art\u00edculo 4 del Real Decreto 822/2021 la comprensibilidad social es :",
             "options": [
-                "A.- Un principio general que deber\u00e1n inspirar el dise\u00f1o de los planes de estudios de los ",
+                "A.- Un principio general que deber\u00e1n inspirar el dise\u00f1o de los planes de estudios de los t\u00edtulos universitarios oficiales .  ",
                 "B.- Un referente de los principios y valores democr\u00e1ticos y los Objetivos de Desarrollo Sostenible . ",
                 "C.- Un objetivo que deber\u00e1n incorporarse como contenidos o competencias de car\u00e1cter transversal.  ",
                 "D.- Todas las respuestas anteriores son correctas  "
             ]
         },
         {
-            "question": "21.- De acuerdo con lo establecido en el art\u00edculo 4 d el Real Decreto 889/2021 los t\u00edtulos",
+            "question": "21.- De acuerdo con lo establecido en el art\u00edculo 4 d el Real Decreto 889/2021 los t\u00edtulos espa\u00f1oles cuyos planes de estudios se hayan extinguido o que a\u00fan no est\u00e9n implantados en al menos una universidad espa\u00f1ola podr\u00e1n ser objeto de:",
             "options": [
                 "A.- Homologaci\u00f3n.  ",
                 "B.- Equivalencia a titulaci\u00f3n  univ ersitaria oficial.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- Los alumnos que hayan obtenido simult\u00e1neamente el t\u00edtulo de Bachiller en uno de los",
+            "question": "23.- Los alumnos que hayan obtenido simult\u00e1neamente el t\u00edtulo de Bachiller en uno de los centros pertenecientes a los programas educativos del Ministerio de Educaci\u00f3n y Formaci\u00f3n Profesional en el exterior y el t\u00edtulo equivalente de su propio sistema educativo que deseen acceder a la universidad espa\u00f1ola podr\u00e1n hacerlo solicitando la acreditaci\u00f3n correspondiente a:",
             "options": [
                 "A.- Cualquier Universidad p\u00fablica espa\u00f1ola.  ",
                 "B.- En cualquier Universidad p\u00fablica o privada espa\u00f1ola.  ",
@@ -212,12 +212,12 @@
             "options": [
                 "A.- En el momento de admisi\u00f3n en el programa de doctorado.  ",
                 "B.- En el momento de superaci\u00f3n del programa de doctorado.  ",
-                "C.- En el momento de aprobaci\u00f3n, por parte  de la Comisi\u00f3n Acad\u00e9mica del Programa de ",
+                "C.- En el momento de aprobaci\u00f3n, por parte  de la Comisi\u00f3n Acad\u00e9mica del Programa de Doctorado del Proyecto de tesis doctoral.  ",
                 "D.- En el momento de preinscripci\u00f3n en el programa de doctorado.  "
             ]
         },
         {
-            "question": "25.- En la Universidad de M\u00e1laga, el procedimiento administrativo para el reconocimiento de",
+            "question": "25.- En la Universidad de M\u00e1laga, el procedimiento administrativo para el reconocimiento de estudios y act ividades se iniciar\u00e1:",
             "options": [
                 "A.- A solicitud de quien posea la condici\u00f3n de estudiante.  ",
                 "B.- De oficio, por parte de la Secretar\u00eda General.  ",
