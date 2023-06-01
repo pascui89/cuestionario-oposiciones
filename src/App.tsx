@@ -64,7 +64,7 @@ function App() {
   return (
     <main>
       <h1>Cuestionario Oposiciones</h1>   
-      {message.showMessage && <Alert variant="outlined" severity={message.severity} 
+      {message.showMessage && <Alert variant="filled" severity={message.severity} 
         onClose={() => setMessage({
           ...message,
           showMessage: false

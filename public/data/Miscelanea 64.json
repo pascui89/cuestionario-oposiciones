@@ -1,7 +1,7 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 38 del EBEP, s alvo acuerdo en contrario, los",
+            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 38 del EBEP, s alvo acuerdo en contrario, los pactos y acuerdos se prorrogar\u00e1n:",
             "options": [
                 "A.- Cada seis meses, si no media denuncia expresa de una de las partes.  ",
                 "B.- Cada a\u00f1o, si no media denuncia expresa de una de las partes.  ",
@@ -19,35 +19,35 @@
             ]
         },
         {
-            "question": "3.- A efectos de la aplicaci\u00f3n de l art\u00edculo primero de  la Ley 53/1984, de Incompatibilidades del",
+            "question": "3.- A efectos de la aplicaci\u00f3n de l art\u00edculo primero de  la Ley 53/1984, de Incompatibilidades del Personal al Servicio de las Administraciones P\u00fablicas, no se considera actividad en el sector p\u00fablico:",
             "options": [
-                "C.- La   desarrollada   por   los   miembros   electivos   de   las   Asambleas   Legislativas   de   "
+                "C.- La   desarrollada   por   los   miembros   electivos   de   las   Asambleas   Legislativas   de   las Corporaciones Locales.  "
             ]
         },
         {
-            "question": "4.- De acuerdo con lo recogido en el art\u00edculo 11 del Real Decreto 889/2022, para la resoluci\u00f3n de los procedimientos de hom ologaci\u00f3n y de declaraci\u00f3n de equivalencia, la equiparaci\u00f3n",
+            "question": "4.- De acuerdo con lo recogido en el art\u00edculo 11 del Real Decreto 889/2022, para la resoluci\u00f3n de los procedimientos de hom ologaci\u00f3n y de declaraci\u00f3n de equivalencia, la equiparaci\u00f3n entre los niveles acad\u00e9micos requeridos para el acceso a las ense\u00f1anzas conducentes a la obtenci\u00f3n del t\u00edtulo extranjero, con respecto al acceso al t\u00edtulo universitario espa\u00f1ol, ser\u00e1 un criterio:",
             "options": []
         },
         {
-            "question": "5.- De acuerdo con lo establecido en el art\u00edculo 17 de la Ley 39/2015, se \u00f1ale la res puesta",
+            "question": "5.- De acuerdo con lo establecido en el art\u00edculo 17 de la Ley 39/2015, se \u00f1ale la res puesta incorrecta en relaci\u00f3n al formato de conservaci\u00f3n de los documentos electr\u00f3nico :",
             "options": [
-                "A.- Se debe  garantizar la integridad, autenticidad y conservaci\u00f3n de los documentos ",
+                "A.- Se debe  garantizar la integridad, autenticidad y conservaci\u00f3n de los documentos almacenados. ",
                 "B.- Se debe asegurar en todo caso la posibilidad de trasladar los datos a otros formatos.  ",
                 "C.- La eliminaci\u00f3n de dichos documentos deber\u00e1 ser autorizada.  ",
                 "D.- Deben garanti zar el acceso libre a los documentos almacenados.  "
             ]
         },
         {
-            "question": "6.- De acuerdo con lo establecido en el art\u00edculo 17 de la Ley 39/2015, los medios o soportes en",
+            "question": "6.- De acuerdo con lo establecido en el art\u00edculo 17 de la Ley 39/2015, los medios o soportes en que se almacenen documentos no asegurar\u00e1n:",
             "options": [
                 "A.- La identificaci\u00f3n de los usuarios y el control de accesos  ",
                 "B.- El cumplimiento de las garant\u00edas previstas en la legislaci\u00f3n de protecci\u00f3n de datos  ",
-                "C.- La recuperaci\u00f3n y conservaci\u00f3n a corto plazo de los documentos electr\u00f3nicos producidos ",
+                "C.- La recuperaci\u00f3n y conservaci\u00f3n a corto plazo de los documentos electr\u00f3nicos producidos por las Administraciones P\u00fablicas que as\u00ed lo requieran.  ",
                 "D.- Todas la s respuestas son correctas.  "
             ]
         },
         {
-            "question": "7.- Seg\u00fan el art\u00edculo 13 de la Constituci\u00f3n Espa\u00f1ola, la extradici\u00f3n s\u00f3lo se conceder\u00e1 en",
+            "question": "7.- Seg\u00fan el art\u00edculo 13 de la Constituci\u00f3n Espa\u00f1ola, la extradici\u00f3n s\u00f3lo se conceder\u00e1 en cumplimiento de:",
             "options": [
                 "A.- De un tratado.  ",
                 "B.- De la ley.  ",
@@ -56,7 +56,7 @@
             ]
         },
         {
-            "question": "8.- Seg\u00fan el art\u00edculo 82 de la Constituci\u00f3n Espa\u00f1ola, s i se dicta una ley de bases \u00bfqu\u00e9 estructura",
+            "question": "8.- Seg\u00fan el art\u00edculo 82 de la Constituci\u00f3n Espa\u00f1ola, s i se dicta una ley de bases \u00bfqu\u00e9 estructura tendr\u00e1 el contenido del decreto legislativo de desarrollo?",
             "options": [
                 "A.- Texto articulado.   ",
                 "B.- Texto compendiado.  ",
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "question": "9.- La Ley del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, al tratar",
+            "question": "9.- La Ley del Procedimiento Administrativo Com\u00fan de las Administraciones P\u00fablicas, al tratar los recursos administrativos, dispone que:",
             "options": [
                 "A.- El recurso de alzada s\u00f3lo podr\u00e1 interponerse ante el \u00f3rgano competente para resolverlo.  ",
                 "B.- El plazo para la interposici\u00f3n del recurso de reposici\u00f3n ser\u00e1 de un mes, si el acto fuera expreso.  ",
@@ -74,16 +74,16 @@
             ]
         },
         {
-            "question": "10.- De conformidad con la Ley del Procedimiento Administrativo Com\u00fan, las Administraciones",
+            "question": "10.- De conformidad con la Ley del Procedimiento Administrativo Com\u00fan, las Administraciones P\u00fablicas podr\u00e1n celebrar acuerdos, pactos, convenios  con personas tanto de Derecho P\u00fablico como privado, siempre que:",
             "options": [
-                "A.- No sean contrarios al ordenamiento jur\u00eddico, ni versen sobre materias no susceptibles ",
-                "B.- No sean contrarios al ordenamiento jur\u00eddico, versen sobre materias no susceptibles de ",
+                "A.- No sean contrarios al ordenamiento jur\u00eddico, ni versen sobre materias no susceptibles de transacci\u00f3n y tengan por objeto satisfacer el inter\u00e9s p\u00fablico que tienen ",
+                "B.- No sean contrarios al ordenamiento jur\u00eddico, versen sobre materias no susceptibles de transacci\u00f3n y no tengan por objeto el inter\u00e9s p\u00fablico.  ",
                 "C.- No sean contrarios al ordenamiento jur\u00eddico y versen sobre materias susceptibles de transacci\u00f3n, no pudiendo tales  actos tener la consideraci\u00f3n de finalizadores de los ",
-                "D.- Los acuerdos que se suscriban supongan alteraci\u00f3n de las competencias atribuidas a los \u00f3rganos administrativos.  Miscel\u00e1nea 64  "
+                "D.- Los acuerdos que se suscriban supongan alteraci\u00f3n de las competencias atribuidas a los \u00f3rganos administrativos.  "
             ]
         },
         {
-            "question": "11.- El art\u00edculo 34 del Real Decreto 822/2021, dispon e que deber\u00e1n renovar su acreditaci\u00f3n en",
+            "question": "11.- El art\u00edculo 34 del Real Decreto 822/2021, dispon e que deber\u00e1n renovar su acreditaci\u00f3n en el plazo m\u00e1ximo de seis a\u00f1os:",
             "options": [
                 "A.- Los t\u00edtulos univers itarios oficiales de Grado de 36 0 cr\u00e9ditos.  ",
                 "B.- Los t\u00edtulos univers itarios oficiales de Grado de 30 0 cr\u00e9ditos.  ",
@@ -92,7 +92,7 @@
             ]
         },
         {
-            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 16 de la Ley Org\u00e1nica 2/2023 \u00bfen qu\u00e9 \u00e1mbito no",
+            "question": "12.- De acuerdo con lo recogido en el art\u00edculo 16 de la Ley Org\u00e1nica 2/2023 \u00bfen qu\u00e9 \u00e1mbito no tendr\u00e1n poder de decisi\u00f3n, en el Consejo de Universidades, los Rectore s de las",
             "options": [
                 "A.- En los asuntos que afecten en exclusiva al sistema universitario.  ",
                 "B.- En temas sobre pol\u00edtica universitaria.  ",
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "question": "25.- De acuerdo con lo recogido en el art\u00edculo 47 de la Ley Org\u00e1nica 2/2023 \u00bfa qui\u00e9n corresponde contribuir a la incorporaci\u00f3n de las previsiones del plan trienal de actuaciones",
+            "question": "13.- De acuerdo con lo recogido en el art\u00edculo 47 de la Ley Org\u00e1nica 2/2023 \u00bfa qui\u00e9n corresponde contribuir a la incorporaci\u00f3n de las previsiones del plan trienal de actuaciones en los presupuestos ?",
             "options": [
                 "A.- El Tribunal de Cuentas.  ",
                 "B.- La C\u00e1mara de Cuentas de Andaluc\u00eda.  ",
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "question": "14.- Seg\u00fan el art \u00edculo 169 del R eglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad",
+            "question": "14.- Seg\u00fan el art \u00edculo 169 del R eglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de M\u00e1laga,  las certificaciones que sea necesario expedir en materia patrimonial ser\u00e1n visadas por:",
             "options": [
                 "A.- El Rector.  ",
                 "B.- La Gerente.  ",
@@ -137,7 +137,7 @@
             ]
         },
         {
-            "question": "17.- De acuerdo con lo recogido en el art\u00edculo 20 de los Estatut os de la Universidad de M\u00e1laga",
+            "question": "17.- De acuerdo con lo recogido en el art\u00edculo 20 de los Estatut os de la Universidad de M\u00e1laga \u00bfcu\u00e1ntos miembros electos forman parte, como m\u00e1ximo, del Claustro de la Universidad de M\u00e1laga?",
             "options": [
                 "A.- 303.  ",
                 "B.- 302.  ",
@@ -146,7 +146,7 @@
             ]
         },
         {
-            "question": "18.- Seg\u00fan lo establecido en el art\u00edculo 90 de la LAU \u00bfqui\u00e9n informar\u00e1 en relaci\u00f3n a fijar un l\u00edmite",
+            "question": "18.- Seg\u00fan lo establecido en el art\u00edculo 90 de la LAU \u00bfqui\u00e9n informar\u00e1 en relaci\u00f3n a fijar un l\u00edmite de endeudamiento anual para el conjunto de las Universidades p\u00fablicas andaluzas?",
             "options": [
                 "A.- La Consejer\u00eda competente en materia de Hacienda.  ",
                 "B.- La Consejer\u00eda compete nte en materia de Universidades.  ",
@@ -155,7 +155,7 @@
             ]
         },
         {
-            "question": "19.- De acuerdo con lo recogido en el art\u00edculo 90 de la LAU, c ada una de las operaciones de",
+            "question": "19.- De acuerdo con lo recogido en el art\u00edculo 90 de la LAU, c ada una de las operaciones de endeudamiento de las U niversidades p\u00fablicas andaluzas y las entidades depen dientes de ellas requerir\u00e1n la autorizaci\u00f3n de:",
             "options": [
                 "A.- La Consejer\u00eda competente en materia de Hacienda.  ",
                 "B.- La Consejer\u00eda competente en materia de Universidades.  ",
@@ -164,7 +164,7 @@
             ]
         },
         {
-            "question": "20.- Seg\u00fan el art\u00edculo 3 de la Orden PCM/63/2023 , las pruebas de evaluaci\u00f3n del Bachillerato",
+            "question": "20.- Seg\u00fan el art\u00edculo 3 de la Orden PCM/63/2023 , las pruebas de evaluaci\u00f3n del Bachillerato para el acceso a la Universidad, versar\u00e1n sobre las materias generales del bloque de asignaturas troncales de segundo curso de Bachillerato de la modalidad elegida para la prueba y, en su caso, de la materia Lengua Cooficial y:",
             "options": [
                 "A.- Lengua castellana y literatura II.  ",
                 "B.- Literatura.  ",
@@ -173,25 +173,25 @@
             ]
         },
         {
-            "question": "21.- Seg\u00fan lo dispuesto en el art\u00edculo 9 del Real decreto 412/2014, l os estudiantes procedentes",
+            "question": "21.- Seg\u00fan lo dispuesto en el art\u00edculo 9 del Real decreto 412/2014, l os estudiantes procedentes de los sistemas educativos de la Uni\u00f3n Europea y de otros pa\u00edses con los que se hayan suscrito acuerdos internacionales aplicables a este respecto, en r\u00e9gimen de reciprocidad:",
             "options": [
-                "A.- Podr\u00e1n acceder a la Universidad espa\u00f1ola siempre que cumplan los requisitos ",
-                "B.- Podr\u00e1n acceder a la Universidad espa\u00f1ola siempre q ue superen las pruebas de ",
+                "A.- Podr\u00e1n acceder a la Universidad espa\u00f1ola siempre que cumplan los requisitos acad\u00e9micos exigidos en sus sistemas educativos para acceder a sus Universidades.  ",
+                "B.- Podr\u00e1n acceder a la Universidad espa\u00f1ola siempre q ue superen las pruebas de evaluaci\u00f3n del Bachillerato para el acceso a la Universidad.  ",
                 "C.- Podr\u00e1n acceder a la Universidad espa\u00f1ola siempre que se examinen de materias de la evaluaci\u00f3n de Bachillerato atendiendo a la regulaci\u00f3n espec\u00edfica de las universidades para la admisi\u00f3n de este tipo de alumnado.  ",
                 "D.- No podr\u00e1n acceder a la Universidad espa\u00f1ola.  "
             ]
         },
         {
-            "question": "22.- Seg\u00fan lo recogido en el art\u00edculo 2 del A cuerd o de 1 de marzo de 2023, de la Comisi\u00f3n del",
+            "question": "22.- Seg\u00fan lo recogido en el art\u00edculo 2 del A cuerd o de 1 de marzo de 2023, de la Comisi\u00f3n del Distrito \u00danico universitario de A ndaluc\u00eda, por el que se estable ce el procedimiento de admisi\u00f3n para el curso 2023 -2024, en los estudios universitarios de grado  \u00bfqui\u00e9n de los siguientes no podr\u00e1 solicitar preinscripci\u00f3n iniciar estudios universitarios en cualquiera de las titulaciones de Grado que se imparten en alguna universidad p\u00fablica de Andaluc\u00eda ?",
             "options": [
-                "A.- Los que est\u00e9n en posesi\u00f3n del t\u00edtulo de T\u00e9cnico Superior de Formaci\u00f3n Profesional, ",
-                "B.- Los que est\u00e9n en posesi\u00f3n de documentaci\u00f3n expedida p or una universidad andaluza ",
-                "C.- Quienes hayan superado el Curso de Orientaci\u00f3n Universitaria (COU) con posterioridad ",
+                "A.- Los que est\u00e9n en posesi\u00f3n del t\u00edtulo de T\u00e9cnico Superior de Formaci\u00f3n Profesional, T\u00e9cnico Superior de Artes Pl\u00e1sticas y Dise\u00f1o, o T\u00e9cnico Deportivo Superior.  ",
+                "B.- Los que est\u00e9n en posesi\u00f3n de documentaci\u00f3n expedida p or una universidad andaluza que acredite el acceso a la Universidad para mayores de 40 a\u00f1os con experiencia laboral.  ",
+                "C.- Quienes hayan superado el Curso de Orientaci\u00f3n Universitaria (COU) con posterioridad al curso acad\u00e9mico 1974/75.  ",
                 "D.- Los estudiantes q ue est\u00e9n en posesi\u00f3n del t\u00edtulo de Bachillerato Europeo.  "
             ]
         },
         {
-            "question": "23.- De acuerdo con lo recogido en el apartado 7 de la Gu\u00eda de Matriculaci\u00f3n en los Estudios de Grado de la Universidad de M\u00e1laga, s i al formalizar la matr\u00edcula en la Universidad de M\u00e1laga",
+            "question": "23.- De acuerdo con lo recogido en el apartado 7 de la Gu\u00eda de Matriculaci\u00f3n en los Estudios de Grado de la Universidad de M\u00e1laga, s i al formalizar la matr\u00edcula en la Universidad de M\u00e1laga no se aporta en su plazo reglamentario el documento correspondiente a la aplicaci\u00f3n de la exenci\u00f3n o bonificaci\u00f3n de precios p\u00fablicos alegada, se proceder\u00e1 a efectuar una nueva liquidaci\u00f3n de precios p\u00fablicos sin la aplicaci\u00f3n de la respectiva exenci\u00f3n o bonific aci\u00f3n, en la modalidad de:",
             "options": [
                 "A.- Pago \u00fanico.  ",
                 "B.- Pago aplazado en dos plazos.  ",
@@ -209,7 +209,7 @@
             ]
         },
         {
-            "question": "25.- Seg\u00fan el art\u00edculo 2 del Real Decreto 99/2011, e l responsable de la adecuaci\u00f3n de la",
+            "question": "25.- Seg\u00fan el art\u00edculo 2 del Real Decreto 99/2011, e l responsable de la adecuaci\u00f3n de la formaci\u00f3n y de la actividad investigadora del doctorando a los principios de los programas y, en su caso, de las Escuelas de Doctorado, es:",
             "options": [
                 "A.- El Director de la tesis.  ",
                 "B.- El Tutor del doctorando.  ",
