@@ -15,6 +15,7 @@
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@fontsource/roboto": "^5.0.0",
+    "@magne4000/vite-plugin-vercel-ssr": "^0.2.0",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.13.1",
     "debounce": "^1.2.1",
@@ -23,7 +24,9 @@
     "react-confetti-explosion": "^2.1.2",
     "react-dom": "^18.2.0",
     "react-dom-confetti": "^0.2.0",
-    "react-spinners": "^0.13.8"
+    "react-spinners": "^0.13.8",
+    "vite-plugin-ssr": "^0.4.131",
+    "vite-plugin-vercel": "^0.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
