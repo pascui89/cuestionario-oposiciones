@@ -50,7 +50,8 @@
             "options": [
                 "A.- En todo caso, al ejercicio vigente.   ",
                 "B.- Al ejercicio vigente siempre y cuando hubiera cr\u00e9dito disponible en el ejercicio de procedencia.  ",
-                "C.- Al ejercicio de procedencia.  "
+                "C.- Al ejercicio de procedencia.  ",
+                "D.- Ninguna de las anteriores respuestas es correcta."
             ]
         },
         {
@@ -186,6 +187,24 @@
                 "B.- Contar\u00e1 con al menos dos mie mbros pertenecientes a una universidad distinta a la de Málaga.",
                 "C.- Su Presidente siempre ser\u00e1 de la Universidad de M\u00e1laga.  ",
                 "B.- La Secretar\u00eda de la Comisi\u00f3n siempre ser\u00e1 ejercida por un Catedr\u00e1tico de Universidad.  "
+            ]
+        },
+        {
+            "question": "22.-¿Cuál es el tiempo máximo de duración de la detención preventiva?",
+            "options": [
+                "A.- 24 horas.  ",
+                "B.- 36 horas.  ",
+                "C.- 48 horas.  ",
+                "D.- 72 horas. "
+            ]
+        },
+        {
+            "question": "23.-Según el Código Civil, los principios generales del Derecho se aplicarán:",
+            "options": [
+                "A.- Solo en defecto de Ley.  ",
+                "B.- En defecto de ley y jurisprudencia.  ",
+                "C.- En defecto de ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico.   ",
+                "D.- Sólo tendrán carácter informador del ordenamiento jurídico ."
             ]
         },
         {

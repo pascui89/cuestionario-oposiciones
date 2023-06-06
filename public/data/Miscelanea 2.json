@@ -87,13 +87,13 @@
                 "A.- Senado.  ",
                 "B.- Asamblea Legislativa de las Comunidades Autónomas.  ",
                 "C.- El Presidente del Gobierno.  ",
-                "D.- El Congreso.  ",
-                "E.-  Todos los anteriores tiene iniciativa legislativa.  "
+                "D.- El Congreso.  "
             ]
         },
         {
             "question": "11.- ¿Quién ejerce la potestad legislativa del Estado?",
             "options": [
+                "A.-El Gobierno. ",
                 "B.- El Congreso. ",
                 "C.- El Senado. ",
                 "D.- Ninguna de las respuestas anteriores  es correcta .  "
@@ -111,6 +111,7 @@
         {
             "question": "13.- ¿Quién ejerce la potestad reglamentaria del Estado? ",
             "options": [
+                "A.- El Gobierno.",
                 "B.- El Congreso. ",
                 "C.- El Senado. ",
                 "D.- Ninguna de las anteriores.  "

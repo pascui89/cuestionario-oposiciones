@@ -4,7 +4,7 @@
             "question": "1.- \u00bfDe cu\u00e1ntos ejercicios de las materias troncales generales cursadas en el Bachillerato consta la prueba de acceso a la Universidad?",
             "options": [
                 "A.- 5. ",
-                "B.- 4.  ",
+                "B.- 4. ",
                 "C.- 3. ",
                 "D.- 2. "
             ]
@@ -32,6 +32,7 @@
             "options": [
                 "A.- Devengo.  ",
                 "B.- Correlaci\u00f3n de ingresos y gastos.  ",
+                "C-  Empresa en funcionamiento. ",
                 "D.- No compensaci\u00f3n.  "
             ]
         },
@@ -148,7 +149,8 @@
             "options": [
                 "A.- O a instancia de parte.  ",
                 "B.- En todos los tr\u00e1mites de instrucci\u00f3n.  ",
-                "C.- En todos sus tr\u00e1mites.  "
+                "C.- En todos sus tr\u00e1mites.  ",
+                "D.- En su terminación."
             ]
         },
         {

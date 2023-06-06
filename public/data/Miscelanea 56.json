@@ -1,16 +1,16 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 41 de la Ley 40/2015, se entiende por actuaci\u00f3n",
+            "question": "1.- De acuerdo con lo establecido en el art\u00edculo 41 de la Ley 40/2015, se entiende por actuaci\u00f3n administrativa automatizada:",
             "options": [
-                "A.- Cualquier acto o actuaci\u00f3n realizada \u00edntegramente a trav\u00e9s de medios electr\u00f3nicos por ",
-                "B.- Cualquier acto o actuaci\u00f3n realizada parcial o \u00edntegramente a trav\u00e9s de medios ",
-                "C.- Cualquier acto o actuaci\u00f3n realizada \u00edntegramente a trav\u00e9s de medios electr\u00f3nicos por ",
-                "D.- Cualquier acto o actuaci\u00f3n realizada parcial o \u00edntegramente a trav\u00e9s de medios "
+                "A.- Cualquier acto o actuaci\u00f3n realizada \u00edntegramente a trav\u00e9s de medios electr\u00f3nicos por una Administración Pública en el marco  de un procedimiento administrativo y en la que haya intervenido de forma directa un empleado público.",
+                "B.- Cualquier acto o actuaci\u00f3n realizada parcial o \u00edntegramente a trav\u00e9s de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que haya intervenido de forma directa un empleado público.",
+                "C.- Cualquier acto o actuaci\u00f3n realizada \u00edntegramente a trav\u00e9s de medios electr\u00f3nicos por una Administración Pública en el marco de un procedimiento administrativo y en  la que no haya intervenido de forma directa un empleado público.",
+                "D.- Cualquier acto o actuaci\u00f3n realizada parcial o \u00edntegramente a trav\u00e9s de medios electrónicos por una Administración Pública en el marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público."
             ]
         },
         {
-            "question": "2.- Sin perjuicio de lo previsto en los art\u00edculos 38, 41 y 42, de la Ley 40/2015, la actuaci\u00f3n de una",
+            "question": "2.- Sin perjuicio de lo previsto en los art\u00edculos 38, 41 y 42, de la Ley 40/2015, la actuaci\u00f3n de una Administración Pública, órgano, organismo público o entidad de derecho público, cuando utilice med ios electrónicos se realizará mediante:",
             "options": [
                 "A.- Sello electr\u00f3nico del titular del \u00f3rgano o empleado p\u00fablico.  ",
                 "B.- Firma electr\u00f3nica del titular del \u00f3rgano o empleado p\u00fablico.  ",
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "question": "3.- Seg\u00fan el art\u00edculo 17 del Real Decreto 822/2021, l os planes de estudios conducentes a la",
+            "question": "3.- Seg\u00fan el art\u00edculo 17 del Real Decreto 822/2021, l os planes de estudios conducentes a la obtención de los títulos de Máster Universitario tendrán entre:",
             "options": [
                 "A.- 90 y 12 0 cr\u00e9ditos.  ",
                 "B.- 60 y 120 cr\u00e9ditos.  ",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "question": "4.- El n\u00famero m\u00ednimo de los cr\u00e9ditos de los planes de estudio de grado ser\u00e1 conforme el art. 1 4",
+            "question": "4.- El n\u00famero m\u00ednimo de los cr\u00e9ditos de los planes de estudio de grado ser\u00e1 conforme el art. 1 4 del Real Decreto 822/2021 , por el que se establece la ordenación de las enseñanzas univers itarias oficiales:",
             "options": [
                 "A.- De 24 0.  ",
                 "B.- De 30 0.  ",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "question": "5.- En virtud del R.D. 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo",
+            "question": "5.- En virtud del R.D. 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional, y según su artículo 5, apartado 4, los resultados obtenidos por el alumno en cada una de las materias del plan de estudios se calificarán en función de una escala numérica del 0 al 10, con expresión de un decimal, a la que podrá añadirse su correspondiente calificación cualitativa, que podrá ser:",
             "options": [
                 "A.- Suspenso, aprobado, notable y sobresaliente.  ",
                 "B.- Suspenso, suficiente, sobresaliente y matr\u00edcula de Honor.  ",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- El procedimiento de adjudicaci\u00f3n de un contrato administrativo ordinariamente  puede ser,",
+            "question": "6.- El procedimiento de adjudicaci\u00f3n de un contrato administrativo ordinariamente  puede ser, según determina el artículo 82  del Reglamento de Régimen Económico y Financiero de la Universidad de Málaga:",
             "options": [
                 "A.- Abierto, restringido o negociado.  ",
                 "B.- De urgencia, de inter\u00e9s p\u00fablico, abierto y ordinario.  ",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "question": "7.- Seg\u00fan el art\u00edculo 82 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la UMA, p ara",
+            "question": "7.- Seg\u00fan el art\u00edculo 82 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la UMA, para solicitar el inicio de un expediente de contratación, el responsable de la Unidad de Gastos interesada no necesitará remitir al Servicio de Contratación:",
             "options": [
                 "A.- La ficha propuesta de inicio del expediente cumplimentada .  ",
                 "B.- El pliego de Prescripciones T\u00e9cnicas .  ",
@@ -64,7 +64,7 @@
             ]
         },
         {
-            "question": "8.- El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto de ley en",
+            "question": "8.- El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto de ley en los proyectos declarados urgentes se reducirá a:",
             "options": [
                 "A.- 20 d\u00edas naturales .  ",
                 "B.- 10 d\u00edas h\u00e1biles . ",
@@ -76,17 +76,22 @@
             "question": "9.- La prestaci\u00f3n del consentimiento del Estado para obligarse por medio de tratados o convenios requerir\u00e1 la previa autorizaci\u00f3n de las Cortes Generales, en los siguientes casos:",
             "options": [
                 "A.- Tratados de car\u00e1cter pol\u00edtico.  ",
-                "B.- Tratados o convenios de car\u00e1cter militar.  "
+                "B.- Tratados o convenios de car\u00e1cter militar.  ",
+                "C.-Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y deberes fundamentales establecidos en el Título I de la Constitución.",
+                "D.-Todas las respuestas anteriores son correctas."
             ]
         },
         {
-            "question": "10.- El acto administrativo en virtu d del cual la autoridad competente acepta formalmente y con",
+            "question": "10.- El acto administrativo en virtu d del cual la autoridad competente acepta formalmente y con cargo al presupuesto, la existencia de una deuda legítima ante una empresa o particular que ha realizado un trabajo para la Administración, se conoce como:",
             "options": [
-                "B.- Reconocimi ento de la obligaci\u00f3n.  "
+                "A.-Compromiso del gasto.  ",
+                "B.- Reconocimi ento de la obligación.  ",
+                "C.-Disposición del gasto. ",
+                "D.-Ordenación del pago. "
             ]
         },
         {
-            "question": "11.- Seg\u00fan el art\u00edculo 55 del EBEP, las Administraciones p\u00fablicas seleccionar\u00e1n a su personal",
+            "question": "11.- Seg\u00fan el art\u00edculo 55 del EBEP, las Administraciones p\u00fablicas seleccionar\u00e1n a su personal funcionario y laboral mediante procedimientos en los que se garanticen l os principios constitucionales de igualdad, mérito y capacidad y, entre otros:",
             "options": [
                 "A.- Transparencia.  ",
                 "B.- Discrecionalidad y dep endencia t\u00e9cnica en la actuaci\u00f3n de los \u00f3rganos de selecci\u00f3n.  ",
@@ -99,7 +104,8 @@
             "options": [
                 "A.- La renuncia.  ",
                 "B.- La sanci\u00f3n disciplinaria de separaci\u00f3n de servicio.  ",
-                "C.- La suspenci\u00f3n firme de funciones.  "
+                "C.- La suspenci\u00f3n firme de funciones.  ",
+                "D.- La jubilación."
             ]
         },
         {
@@ -112,7 +118,7 @@
             ]
         },
         {
-            "question": "14.- De acuerdo con la Ley 39/2015, aquellos cuyos intereses leg\u00edtimos, individuales o colectivos,",
+            "question": "14.- De acuerdo con la Ley 39/2015, aquellos cuyos intereses leg\u00edtimos, individuales o colectivos, puedan resultar aefectados por la resolución y se personen en el proedimiento en tanto no haya recaido resolución definitva, tendrán la consideración de:",
             "options": [
                 "A.- Afectados.  ",
                 "B.- Interesados.  ",
@@ -121,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- De acuerdo con los Estatutos de la Universidad de M\u00e1laga, e laborar las propuestas, de",
+            "question": "15.- De acuerdo con los Estatutos de la Universidad de M\u00e1laga, e laborar las propuestas, de acuerdo con la capacidad y medios de un centro, para la admisión de estudiantes y criterios para su selección , es competencia :",
             "options": [
                 "A.- Del Consejo de Gobierno.  ",
                 "B.- De la Junta de Centro.  ",
@@ -142,17 +148,17 @@
             "question": "17.- El profesorado visitante ordinario ser\u00e1 contratado, exclusivamente, de entre:",
             "options": [
                 "A.- Personas vinculadas a la universidad de singular prestigio.  ",
-                "B.- Profesionales con destacado reconocimiento en el mundo acad\u00e9mico, cultural o ",
+                "B.- Profesionales con destacado reconocimiento en el mundo acad\u00e9mico, cultural o empresarial.",
                 "C.- Personal investigador de reconocido prestigio de otras universidades.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
         },
         {
-            "question": "18.- En relaci\u00f3 n con las fuentes del Derecho y conforme al art\u00edculo 1 del C\u00f3digo Civil, se\u00f1ale cu\u00e1l",
+            "question": "18.- En relaci\u00f3 n con las fuentes del Derecho y conforme al art\u00edculo 1 del C\u00f3digo Civil, se\u00f1ale cu\u00e1l de las siguientes afirmaciones es correcta:",
             "options": [
                 "A.- Los principios generales del Derecho se aplicar\u00e1n \u00fanicamente en defecto de ley, costumbre o jurisprudencia del Tribunal Supremo.  ",
-                "B.- Las normas jur\u00eddicas contenidas en los tratados internacionales, una vez ratificados ",
-                "C.- Los usos jur\u00eddicos que no sean meramente interpretativos de una declaraci\u00f3n de ",
+                "B.- Las normas jur\u00eddicas contenidas en los tratados internacionales, una vez ratificados éstos, son de aplicación directa en España.",
+                "C.- Los usos jur\u00eddicos que no sean meramente interpretativos de una declaraci\u00f3n de voluntad tendrán la consideración de costumbre.",
                 "D.- En defecto de Ley, siempre regir\u00e1 la costumbre, con la \u00fanica condici\u00f3n de que resulte aprobada.   "
             ]
         },
@@ -162,11 +168,11 @@
                 "A.- Aprobar\u00e1 un plan bianual de actuaciones destinado a promover las relaciones entre la Universidad y su entorno cultural, profesional, econ\u00f3mico y social.  ",
                 "B.- Es el m\u00e1ximo \u00f3rgano de control  de la Universidad . ",
                 "C.- Establece las l\u00edneas estrat\u00e9gicas y program\u00e1ticas de la Universidad, as\u00ed como las directrices y procedimientos para su aplicaci\u00f3n.  ",
-                "D.- Supervisa las actividades de car\u00e1cter econ\u00f3mico de la universidad y del rendimiento de "
+                "D.- Supervisa las actividades de car\u00e1cter econ\u00f3mico de la universidad y del rendimiento de sus servicios y promueve la colaboración de la sociedad en la financiación de la universidad."
             ]
         },
         {
-            "question": "20.- Seg\u00fan la Ley Org\u00e1nica de Universidades, la supresi\u00f3n de departamentos en las",
+            "question": "20.- Seg\u00fan la Ley Org\u00e1nica de Universidades, la supresi\u00f3n de departamentos en las Universidades públicas corresponde al:",
             "options": [
                 "A.- Al Claustro.  ",
                 "B.- Al Consejo de Gobierno.  ",
@@ -175,7 +181,7 @@
             ]
         },
         {
-            "question": "21.- De acuerdo con lo establecido en el Real Decreto 412/2014 los estudiantes que, habiendo",
+            "question": "21.- De acuerdo con lo establecido en el Real Decreto 412/2014 los estudiantes que, habiendo comenzado sus estudios universitarios en un determinado centro y los hayan abandonado temporalmente, podrán continuarlos en el mismo centro sin necesidad de volver a participar en proceso de admisión alguno, sin perjuicio de las normas de permanencia que la universidad pueda tener establecidas, cuando tengan superados, al menos:",
             "options": [
                 "A.- Tres cr\u00e9ditos ECTS.  ",
                 "B.- Cinco Cr\u00e9ditos ECTS.  ",
@@ -184,7 +190,7 @@
             ]
         },
         {
-            "question": "22.- En relaci\u00f3n con las pruebas de evaluaci\u00f3n del bachillerato, en el caso de que un estudiante",
+            "question": "22.- En relaci\u00f3n con las pruebas de evaluaci\u00f3n del bachillerato, en el caso de que un estudiante se matricule de materias en las que haya incompatibilidad horaria se examinará en la hora que figura en el c uadro, de la materia que aparece en primer lugar (en el horario previsto), mientras que de la/s otra/s se examinará en el horario que:",
             "options": [
                 "A.- El Tribunal determine.  ",
                 "B.- La Comisi\u00f3n Coordinadora Interuniversitaria de Andaluc\u00eda determine.  ",
@@ -193,24 +199,25 @@
             ]
         },
         {
-            "question": "23.- En el proceso de preinscripci\u00f3n en cualquier titulaci\u00f3n y Centro de las universidades",
+            "question": "23.- En el proceso de preinscripci\u00f3n en cualquier titulaci\u00f3n y Centro de las universidades públicas de Andalucía . ¿Cuál de las siguientes entidad es no podrá certificar que un solicitante sufre una discapacidad o necesidades educativas especiales asociadas a una discapacidad?",
             "options": [
-                "A.- Certificado acreditativo expedido por la Delegaci\u00f3n Territorial de Igualdad y Pol\u00edticas Sociales de la Junta de Andaluc\u00ed a u organismo competente en otras comunidades ",
+                "A.- Certificado acreditativo expedido por la Delegaci\u00f3n Territorial de Igualdad y Pol\u00edticas Sociales de la Junta de Andaluc\u00ed a u organismo competente en otras comunidades autónomas.",
                 "B.- Certificado de la Tesorer\u00eda General de la Seguridad en el que se indique el reconocimiento de incapacidad permanente en grado total, absoluta o gran invalidez.  ",
-                "C.- Certificado del Ministerio de Hacienda y Administraci\u00f3n P\u00fablica o del Ministerio de ",
-                "D.- Certificado de haber obtenido el reconocimien to en sus estudios previos de necesidades "
+                "C.- Certificado del Ministerio de Hacienda y Administraci\u00f3n P\u00fablica o del Ministerio de Defensa de pertenecer a clases pasivas con reconocimiento de pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.",
+                "D.- Certificado de haber obtenido el reconocimien to en sus estudios previos de necesidades educativas permanentes asociadas a su discapacidad por parte del órgano con competencia en el correspondiente nivel educativo. "
             ]
         },
         {
-            "question": "24.- A efectos del rendimiento m\u00ednimo de los estudiantes de nuevo ingreso  matriculados en",
+            "question": "24.- A efectos del rendimiento m\u00ednimo de los estudiantes de nuevo ingreso  matriculados en estudios de Grado en la Universidad de Málaga, para poder continuar estudios iniciados, deberán superar al menos una asignatura durante el curso académico, correspondientes a  actividades formativas del correspondiente plan de estudios de la  respectiva titulación. No serán consideradas dentro de este cómputo aquellas actividades formativas que sean:",
             "options": [
+                "A.- Reconocidas.",
                 "B.- Convalidadas.  ",
                 "C.- Adaptadas.  ",
                 "D.- Ay B son respuestas correctas.  "
             ]
         },
         {
-            "question": "25.- \u00bfCu\u00e1ntas modalidades de TFG pueden plantearse en un C entro de la Universidad de",
+            "question": "25.- \u00bfCu\u00e1ntas modalidades de TFG pueden plantearse en un C entro de la Universidad de Málaga? ",
             "options": [
                 "A.- Uno.  ",
                 "B.- Dos.  ",

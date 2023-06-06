@@ -36,7 +36,7 @@ function App() {
         const file = Solutions.questions.find(f => f.file === `M-${randomNumber}`);
         const newFormData = {
           ...data,
-          questions: data.questions.map((el: any, index: number) => ({ ...el, id: index + 1, selected: '', valid: file?.solutions[index + 1] }))
+          questions: data.questions.map((el: any, index: number) => ({ ...el, id: index, selected: '', valid: file?.solutions[index] }))
         };
         if (newFormData.length < 24) {
           throw new Error();

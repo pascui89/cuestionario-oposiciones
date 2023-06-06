@@ -2,13 +2,14 @@
   "name": "cuestionario-oposiciones",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "test-json-data": "cd src tsc jsonFolderTest.ts"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
