@@ -65,7 +65,12 @@
         },
         {
             "question": "8.- Los procedimientos ordinarios de adjudicaci\u00f3n de los contratos de la Administraci\u00f3n P\u00fablica , seg\u00fan el art\u00edculo 82 del RREF de la Universidad de M\u00e1laga,  son:",
-            "options": []
+            "options": [
+                "A .- Procedimiento abierto y restringido . ",
+                "B .- Procedimiento abie rto, restringido y negociado.  ",
+                "C .- Procedimiento abierto, negociado, subasta y concurso.  ",
+                "D .- Procedimiento negociado, subasta y concurso."
+            ]
         },
         {
             "question": "9.- \u00bfQu\u00e9 cap\u00edtulo del estado de gastos se ha activado por primera vez, para el ejercicio 2022, en la Universidad de M\u00e1laga?",
@@ -191,6 +196,14 @@
                 "B.- 4 materias.  ",
                 "C.- 3 materias.  ",
                 "D.- No hay l\u00edmite en cuanto a las materias.  "
+            ]
+        },{
+            "question": "23.- ¿A quién corresponde definir líneas de trabajo generales dentro de la oferta de temas de TFG, de las que se deriven temas específicos a asignar a cada estudiante?",
+            "options": [
+                "A.- A los Centros.  ",
+                "B.- A los coordinadores de TFG. ",
+                "C.- A los Departamentos. ",
+                "D.- Al profesorado."
             ]
         },
         {

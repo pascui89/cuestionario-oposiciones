@@ -12,6 +12,7 @@
         {
             "question": "2.- Los interesados podr\u00e1n identificarse electr\u00f3nicamente ante las Administraciones P\u00fablicas a trav\u00e9s de:",
             "options": [
+                "A.-Sistemas basados en certificados electrónicos reconocidos o cualificados de sello electrónico expedidos por prestadores incluidos en la «Lista de confianza de prestadores de servicios de certificación».",
                 "B.- Sistemas cifrados de sello electr\u00f3nico expedidos por proveedores de servicio incluidos en la \u00abLista oficial de proveedores de servicio\u00bb.  ",
                 "C.- Sistemas basados en certificados digitales de sello electr\u00f3nico expedidos por prestadores incluidos en la \u00abLista oficial de firmas digitales\u00bb.  ",
                 "D.- Ninguna de las contestaciones anteriores es correcta.  "
@@ -213,6 +214,15 @@
                 "B.- Al Vicerrector que asuma las funciones sobr e el doctorado.  ",
                 "C.- A la Direcci\u00f3n de la Escuela de Doctorado.  ",
                 "D.- A la Comisi\u00f3n Acad\u00e9mica y de calidad de cada Programa de Doctorado.  "
+            ]
+        },
+        {
+            "question": "25.-De acuerdo con lo establecido en el artículo 4 de las Normas de admisión de estudiantes universitarios , en el caso de una persona que accedió a la Universidad a través del  cupo de plazas reservadas para quienes hayan realizado las pruebas de acceso para mayores de 25 años y haya solicitado traslado de expediente, la calificación con la que ac cedió en el correspondiente proceso de admisión a los estudios universitarios españoles parciales que alega, deberá ser trasladada a base:",
+            "options": [
+                "A.- 14. ", 
+                "B.- 10. ",
+                "C.- 6. ",
+                "D.- 4. "
             ]
         }
     ]

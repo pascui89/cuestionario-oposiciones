@@ -21,12 +21,20 @@
         {
             "question": "3.- A efectos de la aplicaci\u00f3n de l art\u00edculo primero de  la Ley 53/1984, de Incompatibilidades del Personal al Servicio de las Administraciones P\u00fablicas, no se considera actividad en el sector p\u00fablico:",
             "options": [
-                "C.- La   desarrollada   por   los   miembros   electivos   de   las   Asambleas   Legislativas   de   las Corporaciones Locales.  "
+                "A.- La desarrollada por los altos cargos de Administraciones Públicas.  ",
+                "B.- La desarrollada por los miembros electivos de las Asambleas Legislativas de las CC.AA.  ",
+                "C.- La desarrollada por los miembros electivos de las Asambleas Legislativas de las Corporaciones Locales.  ",
+                "D.- Todas las actividades citadas en las respuestas anteriores se consideran actividad en el Sector Público . "
             ]
         },
         {
             "question": "4.- De acuerdo con lo recogido en el art\u00edculo 11 del Real Decreto 889/2022, para la resoluci\u00f3n de los procedimientos de hom ologaci\u00f3n y de declaraci\u00f3n de equivalencia, la equiparaci\u00f3n entre los niveles acad\u00e9micos requeridos para el acceso a las ense\u00f1anzas conducentes a la obtenci\u00f3n del t\u00edtulo extranjero, con respecto al acceso al t\u00edtulo universitario espa\u00f1ol, ser\u00e1 un criterio:",
-            "options": []
+            "options": [
+                "A.-Básico .  ",
+                "B.-Específico . ",
+                "C.-Especial.  ",
+                "D.-Esencial."
+            ]
         },
         {
             "question": "5.- De acuerdo con lo establecido en el art\u00edculo 17 de la Ley 39/2015, se \u00f1ale la res puesta incorrecta en relaci\u00f3n al formato de conservaci\u00f3n de los documentos electr\u00f3nico :",

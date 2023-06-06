@@ -2,7 +2,12 @@
     "questions": [
         {
             "question": "1.- De acuerdo con lo esta blecido en el art\u00edculo 27 del Real Decreto  203/2021, los sistemas basados en certificados cualificados de firma electr\u00f3nica admitidos por las Administraciones P\u00fablicas para la identificaci\u00f3n electr\u00f3nica de persona f\u00edsica, no ser\u00e1 obligatorio que contengan como atributo:",
-            "options": []
+            "options": [
+                "A.- El número de identifica ción fiscal. ",
+                "B.- Nombre y apellidos . ",
+                "C.- NIE. ",
+                "D.- El periodo de validez del certificado."
+            ]
         },
         {
             "question": "2.- De acuerdo con el art\u00edculo 19 de l Real Decreto  203/2021, l a relaci\u00f3n de sellos electr\u00f3nicos utilizados por cada Administraci\u00f3n P\u00fablica\u2026",

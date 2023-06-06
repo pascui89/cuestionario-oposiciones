@@ -154,6 +154,15 @@
             ]
         },
         {
+            "question": "18.-Según lo recogido en el artículo 7 del Real Decreto 412/2014, la Conferencia General de Política Universitaria velará por garantizar el derecho de los estudiantes a concurrir a distintas Universidades, se excluye de esta norma a:",
+            "options": [
+                "A.- Las Universidades Privadas.  ",
+                "B.- Los centros universitarios de la defensa.  ",
+                "C.- Los Cen tros Adscritos.  ",
+                "D.- En esta norma no hay ninguna excepción."
+            ]
+        },
+        {
             "question": "19.- La calificaci\u00f3n de la evaluaci\u00f3n de Bachillerato para el acceso a la Universidad ser\u00e1 la media aritm\u00e9tica de las calificaciones num\u00e9ricas obtenidas de cada una de las pruebas realizadas de las materias generales del bloque de asignaturas troncales, expresada en una escala de 0 a 10 con:",
             "options": [
                 "A.- Tres cifras decimales y redondeada a la cent\u00e9sima.  ",
@@ -177,7 +186,12 @@
                 "A.- Por el Rector de la Universidad de M\u00e1laga.  ",
                 "B.- Por el Vicerrector que asuma las funciones correspondientes a los estudiantes.  ",
                 "C.- Por el Vicerrector que asuma las funciones correspondientes a los estudios.  ",
-                "D.- Por el Decano o Director del respectivo Centro.  ",
+                "D.- Por el Decano o Director del respectivo Centro. "
+            ]
+        },
+        {
+            "question": "22. Según el artículo 20 del Real Decreto 898/1985, ¿dónde se establecerán las renovaciones de las contrataciones de los profesores asociados y el número máximo de éstas?",
+            "options": [
                 "A.- En la LOU.  ",
                 "B.- En los Estatutos de cada Universidad.   ",
                 "C.- En las normas que puedan aprobar, en relaci\u00f3n a dicha materia, los Consejos de Gobierno de cada Universidad.  ",
