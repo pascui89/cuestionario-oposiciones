@@ -1,9 +1,9 @@
-import { useState, useRef, useEffect, Fragment } from 'react';
+import { useState, useEffect, Fragment } from 'react';
 import { useTheme } from '@mui/material/styles';
 import { green } from '@mui/material/colors';
 import { SxProps } from '@mui/system';
 
-import { generateUniqueKey, sendMessageByEmail } from '../helpers';
+import { generateUniqueKey } from '../helpers';
 import Question from './Question';
 import { Button, Container, Fab, Zoom } from '@mui/material';
 import UpIcon from '@mui/icons-material/KeyboardArrowUp';
@@ -16,7 +16,7 @@ import { IQuestions } from '../interfaces/IQuestions';
 import { IQuestion } from '../interfaces/IQuestion';
 
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
-import { IMessage } from '../interfaces/IMesagge';
+import FormDialog from './FormDialog';
 
 interface IProps {
   data: IQuestions;
@@ -55,14 +55,16 @@ const config = {
 const Questionaries = (props: IProps) => {
   const theme = useTheme();
   const { data } = props;
-  const [isExploding, setIsExploding] = useState(false);
+  const [ isExploding, setIsExploding ] = useState(false);
   const [ result, setResult ] = useState(0);
   const [ formData, setFormData ] = useState(data);
   const [ showUpIcon, setShowUpIcon ] = useState(false);
   const [ showValidate, setShowValidate ] = useState(false);
   const [ showResult, setShowResult ] = useState(false);
   const [ reportDisabled, setReportDisabled ] = useState(false);
-  const elementRef = useRef<HTMLDivElement | null>(null);
+  const [ open, setOpen ] = useState(false);
+  
+  const handleClickPopup = (isOpen: boolean) => setOpen(isOpen);
 
   const transitionDuration = {
     enter: theme.transitions.duration.enteringScreen,
@@ -94,29 +96,7 @@ const Questionaries = (props: IProps) => {
     const result = ((correctAnswers - (incorrectAnswers * 0.25)) / formData.questions.length) * 100;
     setIsExploding(result > 70);
     setResult(result);
-  };
-
-  const sendEmail = (e: any) => { 
-    e.preventDefault(); 
-    setReportDisabled(true);
-    sendMessageByEmail(props.questionaryName) 
-    .then((result) => { 
-     console.log(result.text); 
-     props.setMessage({
-      severity: 'info',
-      message: 'Se ha enviado el email de aviso a su administrador. En breve lo arreglamos.',
-      showMessage: true
-     } as IMessage);
-    }, 
-    (error) => { 
-     console.log(error.text); 
-     props.setMessage({
-      severity: 'error',
-      message: 'Se ha producido un error al enviar el email, contacte con su administrador.',
-      showMessage: true
-     } as IMessage);
-    }); 
-   }; 
+  };  
 
   useEffect(() => {
     const toggleVisible = () => {
@@ -184,11 +164,18 @@ const Questionaries = (props: IProps) => {
   return (
     <Container>
       {showResult && renderShowResult()}
-      <main ref={elementRef}>
-      <Fab variant="extended" color="error" aria-label="report" onClick={sendEmail} disabled={reportDisabled}>
-        <MailOutlineIcon sx={{ mr: 1 }} />
-        Reportar
-      </Fab>
+      <main>
+        <FormDialog 
+          open={open} 
+          setMessage={props.setMessage} 
+          handleClose={handleClickPopup} 
+          setReportDisabled={setReportDisabled} 
+          questionaryName={props.questionaryName}
+        />
+        <Fab variant="extended" color="error" aria-label="report" onClick={() => handleClickPopup(true)} disabled={reportDisabled}>
+          <MailOutlineIcon sx={{ mr: 1 }} />
+          Reportar
+        </Fab>
         {formData &&
           formData.questions.map((val: any, index: number) => (
             <Question
