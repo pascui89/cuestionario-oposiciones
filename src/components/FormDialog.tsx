@@ -39,7 +39,8 @@ export default function FormDialog(props: IProps) {
 
    const handleOnClick = (e: any) => {
     sendEmail(e);
-    props.handleClose(true);
+    setText('');
+    props.handleClose(false);
    }
 
   return (
