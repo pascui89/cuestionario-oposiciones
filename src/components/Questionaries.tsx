@@ -52,6 +52,7 @@ const config = {
   colors: ["#a864fd", "#29cdff", "#78ff44", "#ff718d", "#fdff6a"]
 };
 
+
 const Questionaries = (props: IProps) => {
   const theme = useTheme();
   const { data } = props;
@@ -63,7 +64,7 @@ const Questionaries = (props: IProps) => {
   const [ showResult, setShowResult ] = useState(false);
   const [ reportDisabled, setReportDisabled ] = useState(false);
   const [ open, setOpen ] = useState(false);
-  
+
   const handleClickPopup = (isOpen: boolean) => setOpen(isOpen);
 
   const transitionDuration = {
