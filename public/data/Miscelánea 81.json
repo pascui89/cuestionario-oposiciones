@@ -1,227 +1,228 @@
 {
     "questions": [
         {
-            "question": "1.- Seg\u00c3\u00ban el art\u00c3\u00adculo 16 del Real Decreto 822/2021, l os t\u00c3\u00adtulos oficiales de Master Universitario se obtienen tras la superaci\u00c3\u00b3n de las correspondientes ense\u00c3\u00b1anzas que tienen como finalidad:",
+            "question": "1.- De acuerdo con el artículo 38 del Estatuto del Estudiante Universitario, y en relación con el Registro de Asociaciones Estudiantiles Propias, las Universidades:",
             "options": [
-                "A.- La obtenci\u00c3\u00b3n de una formaci\u00c3\u00b3n general orientada al ejercicio profesional de acuerdo con la normativa vigente.  ",
-                "B.- La adquisici\u00c3\u00b3n por el estudiante de una formaci\u00c3\u00b3n avanzada de car\u00c3\u00a1cter especializado o multidisciplinar.  ",
-                "C.- La adquisici\u00c3\u00b3n de las competencias y habilidades relacionadas con la investigaci\u00c3\u00b3n cient\u00c3\u00adfica de calidad.  ",
+                "A.- Tendrán la obligación de disponer del mismo .  ",
+                "B.- Podrán disponer del mismo .   ",
+                "C.- No podrán disponer del mismo.  ",
+                "D.- Tendrá que ser autorizado previamente por la Administración correspondiente.  "
+            ]
+        },
+        {
+            "question": "2.- De acuerdo con el artículo 148 del Estatuto de la Universidad de Málaga, ¿Para quién de los siguientes no se podrá acordar la concesión de un premio extraordinario?",
+            "options": [
+                "A.- Para un estudiante de un máster propio de la Universidad de Málaga.  ",
+                "B.- Para un estudiante de un grado de la Universidad de Málaga.  ",
+                "C.- Para un estudiante de doctorado de la Universidad de Málaga.  ",
+                "D.- A todos los anteriores se les podrá conceder un premio extraordinario.  "
+            ]
+        },
+        {
+            "question": "3.- Según el artículo 190 de los Estatutos de la Universidad de Málaga, los proyectos de reforma total o parcial de los Estatutos de la Universidad de Málaga, podrán ser elaborados por:",
+            "options": [
+                "A.- El Rector.  ",
+                "B.- La Comunidad Universitaria.  ",
+                "C.- El Consejo de Gobierno.  ",
+                "D.- Un quinto de los componentes del Claustro. "
+            ]
+        },
+        {
+            "question": "4.- Según lo recogido en el artículo 56 del Reglamento de Régimen Económico y Financiero de la Universidad de Málaga ¿qué procedimiento tiene establecido, la misma, como un",
+            "options": [
+                "A.- Adelanto de cajero.  ",
+                "B.- Anticipo de caja fija.  ",
+                "C.- Operaciones anticipadas.  ",
+                "D.- Operaciones para cubrir necesidades transitorias de tesorería. "
+            ]
+        },
+        {
+            "question": "5.- ¿Cuál de los siguientes, según el artículo 154 del Reglamento de Régimen Económico y Financiero de la Universidad de Málaga, no es un principio al que atiende la Contabilidad pública?",
+            "options": [
+                "A.- Planificación Contable. ",
+                "B.- Desconcentración del Sistema de información contable en las Unidades de Gastos. ",
+                "C.- Agilización de los procedimientos administrativos. ",
+                "D.- Registro de la ejecución del Presupuesto de la Universidad de Málaga.  "
+            ]
+        },
+        {
+            "question": "6.- Según establece el artículo 10 del Real Decreto  412/2014, la ponderación de la calificación final obtenida en el Bachillerato o estudios equivalentes deberá tener un valor en el resultado final del proceso de admisión de:",
+            "options": [
+                "A.-  Como máximo del 60%.  ",
+                "B.-  Como mínimo del 60%.   ",
+                "C.-  Como máximo del 40%.  ",
+                "D.-  Como mínimo del 40%.  Miscelánea 80 "
+            ]
+        },
+        {
+            "question": "7.- Según recoge el artículo 12 del Real Decreto 412/2014, ¿qué afirmación es falsa en relación a la calificación de las pruebas para mayores de 25 años?",
+            "options": [
+                "A.- La calificación de la prueba de acceso, y de cada uno de sus ejercicios, se realizará por la Universidad.  ",
+                "B.- La calificación final vendrá determinada por la media aritmética de las calificaciones obtenidas en la fase general y la fase específica.  ",
+                "C.- Se calificará de 0 a 10 y expresada con dos cifras decimales, redondeada a la centésima más próxima.  ",
+                "D.- Todas las respuestas anteriores son verdaderas.  "
+            ]
+        },
+        {
+            "question": "8.- Según establece el artículo 6 de la Resolución de 15 de marzo de 2023, de la Dirección General de Coordinación Universitaria, por la que se hace público el Acuerdo de 1 de marzo de 2023, de la Comisión del Distrito Único Universitario de Andalucía, por el que se establece el procedimiento de admisión para el curso 2023 -2024, en los estudios universitarios de Grado, indique cuál de las siguientes fases no existe en dicho procedimiento:",
+            "options": [
+                "A.-  Fase Especial.   ",
+                "B.-  Fase Extraordinaria.  ",
+                "C.-  Fase Ordinaria.  ",
+                "D.-  Fase Extranjeros.  "
+            ]
+        },
+        {
+            "question": "9.- De acuerdo con lo dispuesto en el Real decreto 99/2011 si un doctorando solicita una baja temporal en el programa de doctorado, ¿cuál puede ser la duración de esta?",
+            "options": [
+                "A.-  Un máximo de un año, ampliable hasta un año más.   ",
+                "B.-  Un máximo de un año.  ",
+                "C.-  Un máximo de un año, ampliable hasta 2 años más.  ",
+                "D.-  Igual que las bajas de enfermedad o embarazo.  "
+            ]
+        },
+        {
+            "question": "10.- Según lo dispuesto en el artículo 8 del Real Decreto 1312/2007 ¿cuál de los siguientes compromisos de actuación no estará contenido en el Código Ético por el que se regirán las comisiones de acreditación?",
+            "options": [
+                "A.- El compromiso de actuar con objetividad, independencia y rigor profesional.  ",
+                "B.- El compromiso de guardar secreto de las deliberaciones de la Comisión.  ",
+                "C.- El compromiso de garantizar la dedicación necesaria para el desempeño adecuado de las tareas que les son propias.  ",
+                "D.- El compromiso de respetar la igualdad de oportunidades de los candidatos.  "
+            ]
+        },
+        {
+            "question": "11.- El derecho de fundación reconocido en el artículo  34 de la CE, se refiere a su aplicación para:",
+            "options": [
+                "A.- Fines de interés general.  ",
+                "B.- Fines de interés universal.  ",
+                "C.- Fines de interés particular.  ",
+                "D.- Fines de interés común.  "
+            ]
+        },
+        {
+            "question": "12.- Según lo dispuesto en el Código Civil, las disposiciones que contradigan otra de rango superior:",
+            "options": [
+                "A.- No podrán ser sancionadas.  ",
+                "B.- Carecerán de validez.   ",
+                "C.- Solo se aplicarán en el caso de ser más beneficiosas.  ",
+                "D.- Podrán ser convalidadas de acuerdo con lo dispuesto en la Ley 39/2015. "
+            ]
+        },
+        {
+            "question": "13.- De acuerdo con lo dispuesto en el artículo 112 de la Ley 39/2015, contra las disposiciones administrativas de carácter general:",
+            "options": [
+                "A.- No cabrá recurso en vía alguna.  ",
+                "B.- Cabrá recurso de alzada o de reposición en función del órgano que la dictó. ",
+                "C.- No cabrá recurso en vía administrativa.  ",
+                "D.- Cabrá recurso extraordinario de revisión.  "
+            ]
+        },
+        {
+            "question": "14.- Según el artículo 100 de la Ley 39/3015, la ejecución forzosa de las Administraciones Públicas se efectuará respetando siempre el principio de:",
+            "options": [
+                "A.- Subsidiariedad.  ",
+                "B.- Tipicidad.  ",
+                "C.- Legalidad.  ",
+                "D.- Proporcionalidad.  "
+            ]
+        },
+        {
+            "question": "15.- Según la Ley 7/2002, de 12 de abril, del Estatuto Básico del Empleado Público, el permiso por paternidad se podrá ejercer:",
+            "options": [
+                "A.- Solo por nacimiento de hijos.  ",
+                "B.- Por nacimiento de hijos o preadopción.  ",
+                "C.- Por nacimiento de hijos, adopción y acogida.  ",
+                "D.- Por nacimiento de hijos, afiliación, apadrinamiento y adopción, así como por acogida.  "
+            ]
+        },
+        {
+            "question": "16.- ¿Cómo se podrán practicar las notificaciones por medios electrónicos, según el artículo 42 del Real Decreto 203/2021?",
+            "options": [
+                "A.- Mediante la Dirección Electrónica Habilitada Única.  ",
+                "B.- Mediante comparecencia en sede electrónica.  ",
+                "C.- Mediante correo electrónico habilitado.  ",
+                "D.- A y B son respuestas correctas.  "
+            ]
+        },
+        {
+            "question": "17.- El artículo 10 de la Ley Orgánica 2/2023 encomienda al Gobierno la regulación de las condiciones a validar a efectos académicos, la experiencia laboral o profesional, previo informe:",
+            "options": [
+                "A.- De la ANECA.  ",
+                "B.- Del Consejo de Universidades.  ",
+                "C.- De la Conferencia General de Política Universitaria.  ",
+                "D.- De la CRUE.  "
+            ]
+        },
+        {
+            "question": "18.- Según el artículo 22 de las Normas de aplicación del PORHUMA, el régimen horario del personal del Servicio de Atención Psicológica de la Universidad de Málaga, será en:",
+            "options": [
+                "A.- Turno de mañana.  ",
+                "B.- Turno de tarde.  ",
+                "C.- Turno rotatorio de mañana y tarde.  ",
+                "D.- Preferentemente en turno de mañana. "
+            ]
+        },
+        {
+            "question": "19.- De acuerdo con el Real Decreto 822/2021, ¿cuál de los siguientes no es un efecto de los títulos regulados en el dicho Real Decreto?",
+            "options": [
+                "A.- Tendrán carácter oficial y validez en todo el territorio nacional.  ",
+                "B.- Surtirán efectos académicos plenos.  ",
+                "C.- Habilitarán para la realización de actividades de carácter profesional.  ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "2.- Seg\u00c3\u00ban lo establecido en el art\u00c3\u00adculo 99 de la Ley 39/2015, para proceder a la ejecuci\u00c3\u00b3n forzosa \u00c2\u00bfser\u00c3\u00a1 necesario, previamente, alguna actuaci\u00c3\u00b3n de las Administraciones P\u00c3\u00bablicas ?",
+            "question": "20.- Según el artículo 65 de la LAU, los informes de la Agencia Andaluza del Conocimiento y del Consejo Andaluz de Universidades, necesarios para la creación de los Institutos Universitarios serán preceptivos:",
             "options": [
-                "A.- No, ya que los actos de las Administraciones P\u00c3\u00bablicas ser\u00c3\u00a1n inmediatamente ejecutivos.  ",
-                "B.- Ser\u00c3\u00a1 necesario un apercibimiento.  ",
-                "C.- Las Administraciones P\u00c3\u00bablicas no iniciar\u00c3\u00a1n ninguna actuaci\u00c3\u00b3n material de ejecuci\u00c3\u00b3n de resoluciones.  ",
-                "D.- En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralizaci\u00c3\u00b3n por causa imputable al mismo, la Administraci\u00c3\u00b3n le advertir\u00c3\u00a1 que, transcurridos tres meses, se producir\u00c3\u00a1 la caducidad del mismo.  "
+                "A.- Los informes favorables.  ",
+                "B.- Los informes desfavorables.  ",
+                "C.- Los informes negativos  ",
+                "D.- Todos los informes. "
             ]
         },
         {
-            "question": "3.- Seg\u00c3\u00ban lo recogido en el art\u00c3\u00adculo 1 76 del Reglamento de R\u00c3\u00a9gimen Econ\u00c3\u00b3mico y Financiero de la Universidad de M\u00c3\u00a1laga, los arrendamientos de bienes inmuebles se efectuar\u00c3\u00a1 n por el Rector previa informaci\u00c3\u00b3n:",
+            "question": "21.- El sistema de información económico-financiera y presupuestaria que tiene por objeto mostrar la imagen fiel del patrimonio, de la situación financiera, de los resultados y de la ejecución de presupuesto de cada una de las entidades integrantes del mismo se denomina:",
             "options": [
-                "A.- Al Consejo de Gobierno.  ",
-                "B.- Al Consejo Social.  ",
-                "C.- Al Claustro.  ",
-                "D.- A la Gerente.  "
+                "A.- Contabilidad pública.   ",
+                "B.- Resultado de patrimonio. ",
+                "C.- Análisis presupuestario.  ",
+                "D.- Contabilidad Analítica.  "
             ]
         },
         {
-            "question": "4.- Seg\u00c3\u00ban lo dispuesto en el art\u00c3\u00adculo 89 de la LAU, \u00c2\u00bf antes de que fecha,  la consejer\u00c3\u00ada competente en materia de u niversidades, deber\u00c3\u00a1 remitir a la c onsejer\u00c3\u00ada competente en materia de hacienda y a la C\u00c3\u00a1mara de Cuentas de Andaluc\u00c3\u00ada, las cuentas anuales de las Universidades P\u00c3\u00bablicas?",
+            "question": "22.- Según el apartado 18 de las Normas de aplicación del PORHUMA, el régimen horario del personal del Servicio de Atención Psicológica de la Universidad de Málaga, será en:",
             "options": [
-                "A.- 30 de junio.  ",
-                "B.- 31 de julio.  ",
-                "C.- 30 de septiembre.  ",
-                "D.- 31 de diciembre.  "
+                "A.- Turno de mañana.  ",
+                "B.- Turno de tarde.  ",
+                "C.- Turno rotatorio de mañana y tarde.  ",
+                "D.- Preferentemente en turno de mañana. "
             ]
         },
         {
-            "question": "5.- Seg\u00c3\u00ban lo recogido en el art\u00c3\u00adculo 33 de la Ley 39/2015, en los procedimientos declarados urgentes, no pueden reducirse los plazos relativos a:",
+            "question": "23.- De acuerdo con el art. 33 del Real Decreto  822/2021, en el procedimiento para la modificación sustancial de planes de estudios impartidos en centros universitarios acreditados institucionalmente, el informe motivado sobre la adecuación académica y normativa de dicha modificación será realizado por :",
             "options": [
-                "A.- El per\u00c3\u00adodo de prueba.  ",
-                "B.- La emisi\u00c3\u00b3n de informes. ",
-                "C.- La presentaci\u00c3\u00b3n de recursos.  ",
-                "D.- Se pueden reducir todos los plazos a la mitad.  "
+                "A.- La Agencia de Calidad competente.  ",
+                "B.- El Consejo de Universidades.  ",
+                "C.- La Comunidad autónoma correspondiente.  ",
+                "D.- El Sistema interno de Garantía de la Calidad del centro o de la universidad.  "
             ]
         },
         {
-            "question": "6.- De acuerdo con el art\u00c3\u00adculo 10 de las Normas de matriculaci\u00c3\u00b3n de la Universidad de M\u00c3\u00a1laga, el impago de cualqui era de los precios p\u00c3\u00bablicos por la prestaci\u00c3\u00b3n de servicios universitarios supondr\u00c3\u00a1:",
+            "question": "24.- Según el artículo 30 del Real decreto 889/2022, el plazo máximo para resolver y publicar la resolución del procedimiento de correspondencia de títulos universitarios oficiales españoles a los niveles del Marco Español de Cualificaciones para la Educación Superior será de: seis meses",
             "options": [
-                "A.- La caducidad de la matr\u00c3\u00adcula efectuada. ",
-                "B.- El desistimiento de la matr\u00c3\u00adcula efectuada.  ",
-                "C.- El archivo de la matr\u00c3\u00adcula efectuada.  ",
-                "D.- La caducidad de la matr\u00c3\u00adcula efectuada. "
+                "A.- Seis meses.  ",
+                "B.- Tres meses .  ",
+                "C.- Un mes.  ",
+                "D.- Quince días  "
             ]
         },
         {
-            "question": "7.- De acuerdo con el art\u00c3\u00adculo 84 del EBEP \u00c2\u00bfpreferentemente mediante que herramienta se establecer\u00c3\u00a1n entre la Administraci\u00c3\u00b3n General del Estado y las Comunidades Aut\u00c3\u00b3nomas y las Entidades Locales medidas de movilidad interadministrativa?",
+            "question": "25.- ¿A qué niveles educativos corresponde un título español de grado  de 300 créditos en el Marco Español de Cualificaciones para la Educación Superior (MECES) y en el Marco Europeo de Cualificaciones (EQF -EHEA)?",
             "options": [
-                "A.- Convenio de colaboraci\u00c3\u00b3n.  ",
-                "B.- Convenio de Conferencia Sectorial.  ",
-                "D.- Planes conjuntos. "
-            ]
-        },
-        {
-            "question": "8.- \u00c2\u00bfA qui\u00c3\u00a9n le corresponde establecer los criterios de valoraci\u00c3\u00b3n, las reglas que vayan a aplicar para establecer el orden de pr elaci\u00c3\u00b3n en la adjudicaci\u00c3\u00b3n de plazas y, en su caso, los procedimientos de admisi\u00c3\u00b3n, seg\u00c3\u00ban establece el art\u00c3\u00adculo 7 del R eal Decreto  412/2014?",
-            "options": [
-                "A.-  Al Gobierno.  ",
-                "B.-  A las Universidades p\u00c3\u00bablicas.  ",
-                "C.-  Al Consejo de Gobierno de la CC.AA.   ",
-                "D.-  Al Consejo de Universidades.  "
-            ]
-        },
-        {
-            "question": "9.- En relaci\u00c3\u00b3n con los/las solicitantes v\u00c3\u00adctimas de la Violencia de G\u00c3\u00a9nero, el art\u00c3\u00adculo 5.3 de la Resoluci\u00c3\u00b3n de 15 de marzo de 2023, de la Direcci\u00c3\u00b3n General de Coordinaci\u00c3\u00b3n Universitaria, por la que se hace p\u00c3\u00bablico el Acuerdo de 1 de marzo de 2023, de la Comisi\u00c3\u00b3n del Distrito \u00c3\u0161nico Universitario de Andaluc\u00c3\u00ada, por el que se establece el procedimiento de admisi\u00c3\u00b3n para el curso 2023-2024, en los estudios universitarios de Grado, establece que quienes acrediten la condici\u00c3\u00b3n de violencia de g\u00c3\u00a9nero y hayan obtenido la plaza en un Centro en el que, por dicha medida, no debiera realizar la matr\u00c3\u00adcula, \u00c2\u00bfa qu\u00c3\u00a9 \u00c3\u00b3rgano le corresponder\u00c3\u00ada determinar las condiciones de admisi\u00c3\u00b3n, que respetando los derechos del resto del alumnado, permita atender la medida?",
-            "options": [
-                "A.-  Servicio de Alumnos de la Universidad.  ",
-                "B.-  Vicerrector de Estudiantes.  ",
-                "C.-  La Rectora.  ",
-                "D.-  La Comisi\u00c3\u00b3n de Distrito \u00c3\u0161nico Universitario de Andaluc\u00c3\u00ada.  "
-            ]
-        },
-        {
-            "question": "10.- Seg\u00c3\u00ban el art\u00c3\u00adculo 4 del Real Decreto 99/2011 \u00c2\u00bfc\u00c3\u00b3mo se estructurar\u00c3\u00a1n los programas de doctorado?",
-            "options": [
-                "A.-  Se estructurar\u00c3\u00a1n igual que los estudios de M\u00c3\u00a1ster.  ",
-                "B.-  Tendr\u00c3\u00a1n un m\u00c3\u00adnimo de 60 y un m\u00c3\u00a1ximo de 120 cr\u00c3\u00a9ditos.  ",
-                "C.-  No se requerir\u00c3\u00a1 su estructuraci\u00c3\u00b3n en cr\u00c3\u00a9ditos.   ",
-                "D.-  Ninguna de las respuestas anteriores es correcta.  "
-            ]
-        },
-        {
-            "question": "11.-  De acuerdo con lo recogido en el art\u00c3\u00adculo 13 del Real Decreto 1312/2007, para quedar eximido del requisito de pertenecer al Cuerpo de Profesores Titulares de Universidad, en el caso de acreditaci\u00c3\u00b3n para el acceso al Cuerpo de Catedr\u00c3\u00a1ticos de Universidad, se tiene que obtener, con car\u00c3\u00a1cter previo a la solicitud de la acreditaci\u00c3\u00b3n, el informe positivo de la actividad docente e investigadora del Consejo de Universidades. Dicho inform e se entender\u00c3\u00a1 positivo en el caso de:",
-            "options": [
-                "A.- Quienes acrediten tener la condici\u00c3\u00b3n de doctor con, al menos, ocho a\u00c3\u00b1os de antig\u00c3\u00bcedad.  ",
-                "B.- Quienes obtengan evaluaci\u00c3\u00b3n favorable de su actividad docente e investigadora por parte de la ANECA o de la correspondiente agencia auton\u00c3\u00b3mica.  ",
-                "C.- Los funcionarios pertenecientes a cuerpos o escalas de personal investigador para cuyo ingreso se exija estar en posesi\u00c3\u00b3n del t\u00c3\u00adtulo de Doctor.  ",
-                "D.- Quienes est\u00c3\u00a9n en posesi\u00c3\u00b3n de un t\u00c3\u00adtulo extranjero de doctor.  "
-            ]
-        },
-        {
-            "question": "12.-  Seg\u00c3\u00ban el art\u00c3\u00adculo 166 de los Estatu tos de la Universidad de M\u00c3\u00a1laga, no podr\u00c3\u00a1n firmar contratos de investigaci\u00c3\u00b3n:",
-            "options": [
-                "A.- Los Directores de Departamentos.  ",
-                "B.- El Personal de Administraci\u00c3\u00b3n y Servicios en su propio nombre.  ",
-                "C.- El personal investigador responsable de grupos de investigaci\u00c3\u00b3n.  ",
-                "D.- El Rector  "
-            ]
-        },
-        {
-            "question": "13.- De acuerdo con lo recogido en el art\u00c3\u00adculo 123 de los Estatutos de la Universidad de M\u00c3\u00a1laga \u00c2\u00bfCu\u00c3\u00a1l de las siguientes escalas se encuentra clasificada en el subgrupo A1?",
-            "options": [
-                "A.- Escala de ayudantes de archivos, bibliotecas y museos.  ",
-                "B.- Escala d e t\u00c3\u00a9cnicos de gesti\u00c3\u00b3n.  ",
-                "C.- Escala de Gesti\u00c3\u00b3n de sistemas e inform\u00c3\u00a1tica.  ",
-                "D.- Escala Administrativa.  "
-            ]
-        },
-        {
-            "question": "14.-  Seg\u00c3\u00ban el art\u00c3\u00adculo 177 del Reglamento de R\u00c3\u00a9gimen Econ\u00c3\u00b3mico y Financiero de la Universidad de M\u00c3\u00a1laga, el acuerdo de enajenaci\u00c3\u00b3n de un bien inmueble patrimonial conlleva impl\u00c3\u00adcito:",
-            "options": [
-                "A.- La declaraci\u00c3\u00b3n de alienabilidad.  ",
-                "B.- La declaraci\u00c3\u00b3n de desafectaci\u00c3\u00b3n del bien.  ",
-                "C.- La declaraci\u00c3\u00b3n de inembargabilidad del bien.  ",
-                "D.- La declaraci\u00c3\u00b3n de prescriptibilidad del bien.  "
-            ]
-        },
-        {
-            "question": "15.-  De acuerdo con lo recogi do en el Plan General de Contabilidad P\u00c3\u00bablica, en los casos de conflicto entre los principios contable deber\u00c3\u00a1 prevalecer:",
-            "options": [
-                "A.-  El que mejor conduzca a que las cuentas anuales reflejen la imagen fiel del patrimonio, de la situaci\u00c3\u00b3n financiera y del resulta do econ\u00c3\u00b3mico -patrimonial de la entidad.  ",
-                "B.-  El principio de registro.  ",
-                "C.-  El principio de devengo.  ",
-                "D.-  B y C son respuestas correctas.  "
-            ]
-        },
-        {
-            "question": "16.- De acuerdo con lo recogido en ela Ley Org\u00c3\u00a1nica 2/2023, el Consejo de Gobierno de una Universidad P\u00c3\u00bablica:",
-            "options": [
-                "A.- Es el \u00c3\u00b3rgano de representaci\u00c3\u00b3n de la Universidad.  ",
-                "B.- Lo pueden conformar miembros del Consejo Social, de acuerdo a la limitaci\u00c3\u00b3n establecido por la norma auton\u00c3\u00b3mica correspondiente. ",
-                "C.- Est\u00c3\u00a1 constituido por el Rector, que lo presidir\u00c3\u00a1, el Se cretario General y por un m\u00c3\u00a1ximo de 50 miembros.  ",
-                "D.- Todas las respuestas anteriores son falsas.  "
-            ]
-        },
-        {
-            "question": "17.- Se define como un certificado de firma electr\u00c3\u00b3nica que ha sido expedido por un prestador cualificado de servicios de confianza y que cumple los requisit os establecidos en el anexo I del Reglamento UE 910/2014 del Parlamento Europeo y del Consejo de 23 de julio de 2014 relativo a la identificaci\u00c3\u00b3n electr\u00c3\u00b3nica y los servicios de confianza para las transacciones, electr\u00c3\u00b3nicas en el mercado interior y por la que se deroga la Directiva 1999/93/CE al:",
-            "options": [
-                "A.- Certificado cualificado de sello electr\u00c3\u00b3nico.  ",
-                "B.- Certificado cualificado.  ",
-                "C.- Certificado electr\u00c3\u00b3nico.  ",
-                "D.- C\u00c3\u00b3digo seguro de verificaci\u00c3\u00b3n  "
-            ]
-        },
-        {
-            "question": "18.- Se\u00c3\u00b1ala la afirmaci\u00c3\u00b3n correcta seg\u00c3\u00ban el tenor literal del art\u00c3\u00adcul o 17 de la Constituci\u00c3\u00b3n Espa\u00c3\u00b1ola de 1978:",
-            "options": [
-                "A.- Un individuo que haya sido objeto de detenci\u00c3\u00b3n preventiva deber\u00c3\u00a1 ser puesto a disposici\u00c3\u00b3n de la autoridad judicial en un plazo m\u00c3\u00a1ximo de setenta y dos horas, tras ",
-                "B.-  Un individuo que hay a sido objeto de detenci\u00c3\u00b3n preventiva deber\u00c3\u00a1 ser puesto en libertad o a disposici\u00c3\u00b3n judicial en un plazo m\u00c3\u00a1ximo de setenta y dos horas, sin prestar ",
-                "C.-  Un individuo que haya sido objeto de detenci\u00c3\u00b3n preventiva deber\u00c3\u00a1 ser puesto en libertad o a disposici\u00c3\u00b3n judicial en un plazo m\u00c3\u00a1ximo de setenta y dos horas, no pudiendo ",
-                "D.-  Ninguna de las respuestas anteriores es correcta.  "
-            ]
-        },
-        {
-            "question": "19.- De acuerdo con lo recogido en el art\u00c3\u00adculo 59 de la Ley Org\u00c3\u00a1nica 2/2023, las universidades desarrollar\u00c3\u00a1n un r\u00c3\u00a9gimen de control interno, que contar\u00c3\u00a1, en todo caso, con un sistema de auditor\u00c3\u00ada interna. El \u00c3\u00b3rgano responsable de este control:",
-            "options": [
-                "A.- Tendr\u00c3\u00a1 autonom\u00c3\u00ada org\u00c3\u00a1nica en su labor y podr\u00c3\u00a1 depender de los \u00c3\u00b3rganos de gobierno unipersonales de la universidad.  ",
-                "B.- Tendr\u00c3\u00a1 autonom\u00c3\u00ada funcional en su labor y no podr\u00c3\u00a1 depender de los \u00c3\u00b3rganos de gobierno unipersonales de la universidad.  ",
-                "C.- Tendr\u00c3\u00a1 autonom\u00c3\u00ada fun cional en su labor y podr\u00c3\u00a1 depender de los \u00c3\u00b3rganos de gobierno unipersonales de la universidad.  ",
-                "D.- No tendr\u00c3\u00a1 autonom\u00c3\u00ada funcional en su labor y no podr\u00c3\u00a1 depender de los \u00c3\u00b3rganos de gobierno unipersonales de la universidad.  "
-            ]
-        },
-        {
-            "question": "20.- Seg\u00c3\u00ban el art\u00c3\u00adculo 5 de la  Ley 40/2015, de 1 de octubre, \u00c2\u00bfcu\u00c3\u00a1l de los siguientes no es un requisito que deba cumplirse para crear un \u00c3\u00b3rgano administrativo?",
-            "options": [
-                "A.- Determinaci\u00c3\u00b3n de su forma de integraci\u00c3\u00b3n en la Administraci\u00c3\u00b3n P\u00c3\u00bablica de que se trate y su dependencia jer\u00c3\u00a1rquica.  ",
-                "B.- Delimitaci\u00c3\u00b3n de sus funciones y competencias.  ",
-                "C.- Dotaci\u00c3\u00b3n de los cr\u00c3\u00a9ditos necesarios para su puesta en marcha y funcionamiento.  ",
-                "D.- Duplicidad del \u00c3\u00b3rgano existente cuya competencia se asume.  "
-            ]
-        },
-        {
-            "question": "21.- Seg\u00c3\u00ban lo establecido en el apartado 10 de las Normas de aplicaci\u00c3\u00b3n del PORHUMA, el r\u00c3\u00a9gimen de disponibilidad horaria podr\u00c3\u00a1 determinar la:",
-            "options": [
-                "A.- Realizaci\u00c3\u00b3n de turnos alternativos de ma\u00c3\u00b1ana y tarde.  ",
-                "B.- Exigencia de realizar prestaciones laborales m\u00c3\u00a1s all\u00c3\u00a1 de la duraci\u00c3\u00b3n de la jornada de trabajo habitual.  ",
-                "C.- Adecuaci\u00c3\u00b3n de los horarios de trabajo.  ",
-                "D.- Realizaci\u00c3\u00b3n del horario de trabajo en jornada partida.  "
-            ]
-        },
-        {
-            "question": "22.- De acuerdo con el art\u00c3\u00adculo 18 de la Normativa reguladora de los procesos de evaluaci\u00c3\u00b3n de los aprendizajes e n todas las convocatorias el plazo m\u00c3\u00a1ximo para publicar las calificaciones en cada asignatura es, desde la fecha de la \u00c3\u00baltima prueba evaluadora de la correspondiente materia, de:",
-            "options": [
-                "A.- 10 d\u00c3\u00adas h\u00c3\u00a1biles.  ",
-                "B.- 12 d\u00c3\u00adas h\u00c3\u00a1biles.  ",
-                "C.- 15 d\u00c3\u00adas h\u00c3\u00a1biles.  ",
-                "D.- 20 d\u00c3\u00adas naturales.  "
-            ]
-        },
-        {
-            "question": "23.- Seg\u00c3\u00ban el art\u00c3\u00adculo 64 del Texto Refundido de la Ley del Estatuto B\u00c3\u00a1sico del Empleado P\u00c3\u00bablico, indique la respuesta correcta en relaci\u00c3\u00b3n con la renuncia voluntaria a la condici\u00c3\u00b3n de funcionario:",
-            "options": [
-                "A.- Inhabilita para ingresar de nuevo en la Administraci\u00c3\u00b3n P\u00c3\u00bablica a tr av\u00c3\u00a9s del procedimiento de selecci\u00c3\u00b3n establecido.  ",
-                "B.- Ser\u00c3\u00a1 aceptada, t\u00c3\u00a1cita o expresamente, por la Administraci\u00c3\u00b3n.  ",
-                "C.- Desaparecida la causa objetiva que la motiv\u00c3\u00b3, el funcionario podr\u00c3\u00a1 solicitar la rehabilitaci\u00c3\u00b3n de la condici\u00c3\u00b3n de funcionario.  ",
-                "D.- No pod r\u00c3\u00a1 ser aceptada cuando el funcionario est\u00c3\u00a9 sujeto a expediente disciplinario.  "
-            ]
-        },
-        {
-            "question": "24.- El sistema de fuentes del derecho p\u00c3\u00bablico, se inspira en:",
-            "options": [
-                "A.- El principio de competencia.  ",
-                "B.- El principio de organizaci\u00c3\u00b3n.  ",
-                "C.- El principio de jerarqu\u00c3\u00ada y competencia.  ",
-                "D.- Los principios de organizaci\u00c3\u00b3n, de competencia y de territorio.  "
-            ]
-        },
-        {
-            "question": "25.- De acuerdo a lo recogido en el art\u00c3\u00adculo 14 del Real Decreto  822/2021, si un plan de estudios conduce a la obtenci\u00c3\u00b3n de un Grado que habilita para el desarrollo de actividades profesionales reguladas, estos deber\u00c3\u00a1n estructurarse y organizarse atendiendo a lo dispuesto:",
-            "options": [
-                "A.- Por el Consejo de Universidades.  ",
-                "B.- Por el Gobierno.  ",
-                "C.- Por el Ministerio de Universidades.  ",
-                "D.- Por los criterios generales establecidos por las Agencias de Calidad y los Colegios Profesionales.  "
+                "A.- Nivel 3 MECES – Nivel 5 EQF.  ",
+                "B.- Nivel 2 MECES – Nivel  6 EQF.  ",
+                "C.- Nivel 3 MECES – Nivel 7  EQF.  ",
+                "D.- Nivel 1 MECES – Nivel 5 EQF.  "
             ]
         }
     ]
