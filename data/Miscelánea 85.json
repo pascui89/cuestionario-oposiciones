@@ -1,120 +1,124 @@
 {
     "questions": [
         {
-            "question": "1.- De acuerdo con lo establecido en el art\u00c3\u00adculo 1 66 de los Estatutos de la Universidad de M\u00c3\u00a1laga, de forma general, del importe de los recursos que se obtengan de los contratos de investigaci\u00c3\u00b3n, se detraer\u00c3\u00a1 al menos un porcentaje que no podr\u00c3\u00a1 exceder de un :",
+            "question": "1.- De acuerdo con lo establecido en el artículo 166 de los Estatutos de la Universidad de Málaga, de forma general, del importe de los recursos que se obtengan de los contratos de investigación, se detraerá al menos un porcentaje que no podrá exceder de un :",
             "options": [
-                "C.- 20%.  ",
-                "D.- 25%.  "
+                "A.- 10% ",
+                "A.- 15% ",
+                "C.- 20%. ",
+                "D.- 25%. "
             ]
         },
         {
-            "question": "2.- Para cubrir los gastos generales de la Universidad, el art\u00c3\u00adculo 70 del Reglamento de R\u00c3\u00a9gimen Econ\u00c3\u00b3mico -Financiero de la Universidad de M\u00c3\u00a1laga establece que del total de una titulaci\u00c3\u00b3n propia se detraer\u00c3\u00a1 un porcentaje del:",
+            "question": "2.- Para cubrir los gastos generales de la Universidad, el artículo 70 del Reglamento de Régimen Económico -Financiero de la Universidad de Málaga establece que del total de una titulación propia se detraerá un porcentaje del:",
             "options": [
-                "C.- 20%.  ",
-                "D.- 25%.  "
+                "A.- 10% ",
+                "A.- 15% ",
+                "C.- 20%. ",
+                "D.- 25%. "
             ]
         },
         {
-            "question": "3.- Seg\u00c3\u00ban la Ley Andaluza de Universidades, el Consejo Social de cada Universidad P\u00c3\u00bablica:",
+            "question": "3.- Según la Ley Andaluza de Universidades, el Consejo Social de cada Universidad Pública:",
             "options": [
-                "A.- Tiene presupuesto, que ser\u00c3\u00a1 aprobado por la Comunidad Aut\u00c3\u00b3noma. ",
-                "B.- Tiene presupuesto que figurar\u00c3\u00a1 fuera del presupuesto general de la Universidad. ",
-                "C.- Tiene presupuesto, que figurar\u00c3\u00a1 en cap\u00c3\u00adtulo aparte dentro de los presupuestos generales de la Universidad.  ",
-                "D.- No tiene presupuesto para sus gastos, estando \u00c3\u00a9stos integra dos en los gastos de la  Universidad.  "
+                "A.- Tiene presupuesto, que será aprobado por la Comunidad Autónoma. ",
+                "B.- Tiene presupuesto que figurará fuera del presupuesto general de la Universidad. ",
+                "C.- Tiene presupuesto, que figurará en capítulo aparte dentro de los presupuestos generales de la Universidad.  ",
+                "D.- No tiene presupuesto para sus gastos, estando éstos integrados en los gastos de la Universidad.  "
             ]
         },
         {
-            "question": "4.- Se\u00c3\u00b1ale para cu\u00c3\u00a1l de los siguientes tr\u00c3\u00a1mites no es necesario acreditar la representaci\u00c3\u00b3n en las relaciones con las Administraciones p\u00c3\u00bablicas, de conformidad con lo establecido en el art\u00c3\u00adculo 5 de la Ley 39/2015:",
+            "question": "4.- Señale para cuál de los siguientes trámites no es necesario acreditar la representación en las relaciones con las Administraciones Públicas, de conformidad con lo establecido en el artículo 5 de la Ley 39/2015:",
             "options": [
                 "A.- Para interponer un recurso administrativo.  ",
-                "B.- Para desistir de una acci\u00c3\u00b3n. ",
+                "B.- Para desistir de una acción. ",
                 "C.- Para formular una solicitud.  ",
-                "D.- Para actos y gestiones de mero tr\u00c3\u00a1mite.   "
+                "D.- Para actos y gestiones de mero trámite.   "
             ]
         },
         {
-            "question": "5.- Seg\u00c3\u00ban establece el art\u00c3\u00adculo 76 de la Constituci\u00c3\u00b3n Espa\u00c3\u00b1ola, las conclusiones emanadas de las Comisiones de Investigaci\u00c3\u00b3n, nombradas por el Congreso y el Senado, y en su  caso, por ambas C\u00c3\u00a1maras:",
+            "question": "5.- Según establece el artículo 76 de la Constitución Española, las conclusiones emanadas de las Comisiones de Investigación, nombradas por el Congreso y el Senado, y en su  caso, por ambas Cámaras:",
             "options": [
-                "A.- Afectar\u00c3\u00a1n a las resoluciones judiciales, ser\u00c3\u00a1n vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigaci\u00c3\u00b3n sea comunicado al Congreso y al Senado para el ejercicio, cuando proceda, de las acciones oportunas.  ",
-                "B.- Ser\u00c3\u00a1n vinculantes  para los  Tribunales , pero no afectar\u00c3\u00a1n a las resoluciones judiciales, sin perjuicio de que el resultado de la investigaci\u00c3\u00b3n sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.  ",
-                "C.- Ser\u00c3\u00a1n vinculantes para los Tr ibunales, sin perjuicio de que el resultado de la investigaci\u00c3\u00b3n sea comunicado al Congreso y al Senado para el ejercicio, cuando proceda, de las acciones oportunas. ",
-                "D.- No afectar\u00c3\u00a1n a las resoluciones judiciales, no ser\u00c3\u00a1n vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigaci\u00c3\u00b3n sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.   "
+                "A.- Afectarán a las resoluciones judiciales, serán vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigación sea comunicado al Congreso y al Senado para el ejercicio, cuando proceda, de las acciones oportunas.  ",
+                "B.- Serán vinculantes  para los  Tribunales , pero no afectarán a las resoluciones judiciales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.  ",
+                "C.- Serán vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigación sea comunicado al Congreso y al Senado para el ejercicio, cuando proceda, de las acciones oportunas. ",
+                "D.- No afectarán a las resoluciones judiciales, no serán vinculantes para los Tribunales, sin perjuicio de que el resultado de la investigación sea comunicado al Ministerio Fiscal para el ejercicio, cuando proceda, de las acciones oportunas.   "
             ]
         },
         {
-            "question": "6.- De acuerdo con el art\u00c3\u00adculo 30 del Real Decreto 412/2014, \u00c2\u00bfpuede el Rector resolver las solicitudes de admisi\u00c3\u00b3n de estudiantes con estudios universitarios extranjeros parciales, de acuerdo con criterios establecidos por el Consejo de Gobierno?",
+            "question": "6.- De acuerdo con el artículo 30 del Real Decreto 412/2014, ¿puede el Rector resolver las solicitudes de admisión de estudiantes con estudios universitarios extranjeros parciales, de acuerdo con criterios establecidos por el Consejo de Gobierno?",
             "options": [
-                "A.- S\u00c3\u00ad, siempre que acrediten haber superado un m\u00c3\u00adnimo de 30 cr\u00c3\u00a9ditos ECTS.  ",
-                "B.- S\u00c3\u00ad, siempre que acrediten haber  superado un m\u00c3\u00adnimo de 60 cr\u00c3\u00a9ditos ECTS.  ",
-                "C.- S\u00c3\u00ad, siempre que obtengan el reconocimiento de un m\u00c3\u00adnimo de 30 cr\u00c3\u00a9ditos ECTS.  ",
-                "D.- No, en ning\u00c3\u00ban caso.  "
+                "A.- Sí, siempre que acrediten haber superado un mínimo de 30 créditos ECTS.  ",
+                "B.- Sí, siempre que acrediten haber superado un mínimo de 60 créditos ECTS.  ",
+                "C.- Sí, siempre que obtengan el reconocimiento de un mínimo de 30 créditos ECTS.  ",
+                "D.- No, en ningún caso.  "
             ]
         },
         {
-            "question": "7.- \u00c2\u00bfSeg\u00c3\u00ban establece el art\u00c3\u00adculo 87 de la Ley 39/2015, las actuaciones complementarias deber\u00c3\u00a1n practicarse en un plazo de:",
+            "question": "7.- ¿Según establece el artículo 87 de la Ley 39/2015, las actuaciones complementarias deberán practicarse en un plazo de:",
             "options": [
-                "A.- No inferior a diez d\u00c3\u00adas ni superior a quince d\u00c3\u00adas.  ",
-                "B.- No superior a quince d\u00c3\u00adas .  ",
-                "C.- No superior a quince d\u00c3\u00adas naturales . ",
-                "D.- No inferior a diez d\u00c3\u00adas naturales ni superior a quince d\u00c3\u00adas naturales.  "
+                "A.- No inferior a diez días ni superior a quince días.  ",
+                "B.- No superior a quince días .  ",
+                "C.- No superior a quince días naturales . ",
+                "D.- No inferior a diez días naturales ni superior a quince días naturales.  "
             ]
         },
         {
-            "question": "8.- De acuerdo con el art\u00c3\u00adculo 8 del Real Decreto 99/2011, \u00c2\u00bfqu\u00c3\u00a9 requisitos son necesarios para poder ser coordinador de un programa de doctorado?",
+            "question": "8.- De acuerdo con el artículo 8 del Real Decreto 99/2011, ¿qué requisitos son necesarios para poder ser coordinador de un programa de doctorado?",
             "options": [
-                "A.- Debe ser un investigador relevante, haber dirigido al menos dos tesis doctorales y justificar la posesi\u00c3\u00b3n de al menos un per\u00c3\u00adodo de actividad investigadora reconocido de acuerdo con las previsiones del Real Decreto   1086/1989, de 28 de agosto, de retribuciones del profesorado universitario.  ",
-                "B.- Debe ser un investigador relevante, haber dirigido a l menos dos tesi s doctorales y justificar la posesi\u00c3\u00b3n de al menos dos per\u00c3\u00adodos de actividad investigadora reconocidos de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto,  de retribuciones del profesorado universitario.   ",
-                "C.- Debe ser un investigador relevante, haber dirigido al menos una tesis doctoral y justificar la posesi\u00c3\u00b3n de al menos un per\u00c3\u00adodo de actividad investigadora reconocido de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto, de retribuciones del profesorado univers itario.  ",
-                "D.- Debe ser un investigador relevante, haber dirigido al menos una tesis doctoral y justificar la posesi\u00c3\u00b3n de al menos dos per\u00c3\u00adodos de actividad investigadora reconocidos de acuerdo con las previsiones del Real   Decreto   1086/1989, de 28 de agos to, de retribuciones del profesorado universitario.  "
+                "A.- Debe ser un investigador relevante, haber dirigido al menos dos tesis doctorales y justificar la posesión de al menos un período de actividad investigadora reconocido de acuerdo con las previsiones del Real Decreto   1086/1989, de 28 de agosto, de retribuciones del profesorado universitario.  ",
+                "B.- Debe ser un investigador relevante, haber dirigido al menos dos tesis doctorales y justificar la posesión de al menos dos períodos de actividad investigadora reconocidos de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto,  de retribuciones del profesorado universitario.   ",
+                "C.- Debe ser un investigador relevante, haber dirigido al menos una tesis doctoral y justificar la posesión de al menos un período de actividad investigadora reconocido de acuerdo con las previsiones del Real Decreto 1086/1989, de 28 de agosto, de retribuciones del profesorado universitario.  ",
+                "D.- Debe ser un investigador relevante, haber dirigido al menos una tesis doctoral y justificar la posesión de al menos dos períodos de actividad investigadora reconocidos de acuerdo con las previsiones del Real   Decreto   1086/1989, de 28 de agosto, de retribuciones del profesorado universitario.  "
             ]
         },
         {
-            "question": "9.- De acuerdo con el art\u00c3\u00adculo 15 del Reglamento 2/2023 de la Universidad de M\u00c3\u00a1laga \u00c2\u00bfa qui\u00c3\u00a9n corresponde pronunciarse, de forma gen\u00c3\u00a9rica, sobre las cuestiones que se susciten en",
+            "question": "9.- De acuerdo con el artículo 10.1 del Real Decreto 99/2011, el acceso a las enseñanzas oficiales de doctorado requerirá estar en posesión del título oficial español de:",
             "options": [
-                "A.- Al Consejo de Gobierno . ",
-                "B.- Al Comit\u00c3\u00a9 de Garant\u00c3\u00adas del C\u00c3\u00b3digo \u00c3\u2030tico .  ",
-                "C.- A la persona que asuma las competencias en investigaci\u00c3\u00b3n .  ",
-                "D.- Al Comit\u00c3\u00a9 de Evaluaci\u00c3\u00b3n de Conflictos.  "
+                "A.- Máster Universitario.  ",
+                "B.- Diploma de Estudios Avanzados. ",
+                "C.- Grado. ",
+                "D.- Licenciado. "
             ]
         },
         {
-            "question": "10.- La clasificaci\u00c3\u00b3n econ\u00c3\u00b3mica seguida en el presupuesto de la Universidad de M\u00c3\u00a1laga est\u00c3\u00a1 establecida por:",
+            "question": "10.- El artículo 5 de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, establece que las actividades de fomento y promoción de la investigación, así como las de fomento y promoción de la innovación, podrán ser realizadas:",
             "options": [
-                "A.- El Estado, a trav\u00c3\u00a9s de la Ley de presupuestos de cada a\u00c3\u00b1o.  ",
-                "B.- La Comunidad Aut\u00c3\u00b3noma, a trav\u00c3\u00a9s de una orden de la Consejer\u00c3\u00ada competente en materia de econom\u00c3\u00ada y hacienda.   ",
-                "C.- El Estado, a trav\u00c3\u00a9s de la Ley Reguladora de las Haciendas Locales.  ",
-                "D.- Exclusivamente las instrucciones dictadas por la Universidad, en funci\u00c3\u00b3n del  principio de autonom\u00c3\u00ada universitaria.  "
+                "A.- Por los poderes públicos competentes.  ",
+                "B.- Por los poderes públicos competentes, por los agentes del Sistema Español de Ciencia, Tecnología e Innovación y por las universidades, respectivamente, en sus respectivos ámbitos de actuación. ",
+                "C.- Exclusivamente por los poderes públicos competentes. ",
+                "D.- Por los agentes del Sistema Español de Ciencia, Tecnología e Innovación y por las universidades, respectivamente, en sus respectivos ámbitos de actuación.  "
             ]
         },
         {
-            "question": "11.- Producida una recusaci\u00c3\u00b3n, y si el recusado niega la causa, de acuerdo con lo establecido en",
+            "question": "11.- Producida una recusación, y si el recusado niega la causa, de acuerdo con lo establecido en",
             "options": [
-                "A.- El superior resolver\u00c3\u00a1 en el plazo de tres d\u00c3\u00adas.   ",
-                "B.- El superior resolver\u00c3\u00a1 en el d\u00c3\u00ada siguiente.  ",
-                "C.- El superior resolver\u00c3\u00a1 en 48 horas.  ",
-                "D.- El superior resolver\u00c3\u00a1 en el plazo de diez d\u00c3\u00adas.  "
+                "A.- El superior resolverá en el plazo de tres días.   ",
+                "B.- El superior resolverá en el día siguiente.  ",
+                "C.- El superior resolverá en 48 horas.  ",
+                "D.- El superior resolverá en el plazo de diez días.  "
             ]
         },
         {
-            "question": "12.- Seg\u00c3\u00ban el art\u00c3\u00adculo 166 de Jos Estatutos de la Universidad de M\u00c3\u00a1laga l os contratos de investigaci\u00c3\u00b3n no podr\u00c3\u00a1n ser suscritos  por:",
+            "question": "12.- Según el artículo 166 de los Estatutos de la Universidad de Málaga los contratos de investigación no podrán ser suscritos  por:",
             "options": [
-                "A.- El Rector en nombre la Universidad.  ",
+                "A.- El Rector en nombre de la Universidad.  ",
                 "B.- El Director del Departamento.  ",
-                "C.- El Director del Instituto Universitario de Investigaci\u00c3\u00b3n.  ",
+                "C.- El Director del Instituto Universitario de Investigación.  ",
                 "D.- Los profesores en nombre de la Universidad.  "
             ]
         },
         {
-            "question": "13.- El \u00c3\u00b3rgano de cooperaci\u00c3\u00b3n y coordinaci\u00c3\u00b3n entre las universidades y las Administraciones P\u00c3\u00bablicas con competencias en pol\u00c3\u00adtica universitaria, para el adecuado funcionamiento del sistema universitario , seg\u00c3\u00ban el art\u00c3\u00adculo 14 de la Ley Org\u00c3\u00a1nica 2/2023 es :",
+            "question": "13.- El órgano de cooperación y coordinación entre las universidades y las Administraciones Públicas con competencias en política universitaria, para el adecuado funcionamiento del sistema universitario, según el artículo 14 de la Ley Orgánica 2/2023 es :",
             "options": [
                 "A.- El Consejo de Universidades.  ",
-                "B.- El Consejo de Rectores de Universidades Espa\u00c3\u00b1olas.  ",
-                "C.- La Conferencia General de Pol\u00c3\u00adtica Universitaria.   ",
+                "B.- El Consejo de Rectores de Universidades Españolas.  ",
+                "C.- La Conferencia General de Política Universitaria.   ",
                 "D.- A y C son respuestas correctas.   "
             ]
         },
         {
-            "question": "14.- Seg\u00c3\u00ban el art\u00c3\u00adculo 21 de  la Ley Andaluza de Universidades, el n\u00c3\u00bamero de vocales designados por el Consejo de Gobierno de la Junta de Andaluc\u00c3\u00ada para formar parte del Consejo Social de la Universidad es:",
+            "question": "14.- Según el artículo 21 de la Ley Andaluza de Universidades, el número de vocales designados por el Consejo de Gobierno de la Junta de Andalucía para formar parte del Consejo Social de la Universidad es:",
             "options": [
                 "A.- 5 vocales.  ",
                 "B.- 4 vocales.  ",
@@ -123,47 +127,52 @@
             ]
         },
         {
-            "question": "15.- Se\u00c3\u00b1ale cu\u00c3\u00a1l es la duraci\u00c3\u00b3n del permiso al que tienen derecho los funcionarios p\u00c3\u00bablicos, de conformidad con lo establecido en el art\u00c3\u00adculo 48 del Estatuto B\u00c3\u00a1sico del Empleado P\u00c3\u00bablico,",
+            "question": "15.- Señala cuál es la duración del permiso al que tienen derecho los funcionarios públicos, de conformidad con lo establecido en el artículo 48 del Estatuto Básico del Empleado Público,",
             "options": [
-                "A.- Tres d\u00c3\u00adas h\u00c3\u00a1biles.  ",
-                "B.- Cinco d\u00c3\u00adas h\u00c3\u00a1biles.  ",
-                "C.- Dos d\u00c3\u00adas h\u00c3\u00a1biles.  ",
+                "A.- Tres días hábiles.  ",
+                "B.- Cinco días hábiles.  ",
+                "C.- Dos días hábiles.  ",
                 "D.- No existe permiso en este supuesto.  "
             ]
         },
         {
-            "question": "16.- \u00c2\u00bfCu\u00c3\u00a1ntos tipos   de   estudiantes   de   car\u00c3\u00a1cter   extraoficial se distinguen en el art\u00c3\u00adculo 3 Reglamento 3/2022, de 17 de junio , de la Universidad de M\u00c3\u00a1laga, sobre matriculaci\u00c3\u00b3n de",
+            "question": "16.- ¿Cuántos tipos de estudiantes de carácter extraoficial se distinguen en el artículo 3 Reglamento 3/2022, de 17 de junio, de la Universidad de Málaga, sobre matriculación de",
             "options": [
-                "A.- Distingue   3 tipos:   Estudiante extraoficial por   ampliaci\u00c3\u00b3n   de   expediente acad\u00c3\u00a9mico, estudiante extraoficial en r\u00c3\u00a9gimen de movilidad saliente y estudiante extraoficial por ampliaci\u00c3\u00b3n de conocimientos.  ",
-                "B.- Distingue 2 tipos:   Estudiante extraoficia l por   ampliaci\u00c3\u00b3n de expediente acad\u00c3\u00a9mico y estudiante extraoficial por ampliaci\u00c3\u00b3n de conocimientos.  ",
-                "C.- Distingue 3 tipos: Estudiante extraoficial por ampliaci\u00c3\u00b3n de expediente acad\u00c3\u00a9mico, estudiante extraoficial en r\u00c3\u00a9gimen de movilidad entrante y estudiante extraoficial por ampliaci\u00c3\u00b3n de conocimientos.   ",
-                "D.- Distingue 4 tipos:  Estudiante extraoficial por ampliaci\u00c3\u00b3n de expediente acad\u00c3\u00a9mico, estudiante   extraoficial en r\u00c3\u00a9gimen de movilidad entrante, estudiante extraoficial por ampliaci\u00c3\u00b3n de conocimientos y estudiante extraoficial en r\u00c3\u00a9gimen de movilidad saliente.  "
+                "A.- Distingue 3 tipos: Estudiante extraoficial por ampliación de expediente académico, estudiante extraoficial en régimen de movilidad saliente y estudiante extraoficial por ampliación de conocimientos.  ",
+                "B.- Distingue 2 tipos: Estudiante extraoficial por ampliación de expediente académico y estudiante extraoficial por ampliación de conocimientos.  ",
+                "C.- Distingue 3 tipos: Estudiante extraoficial por ampliación de expediente académico, estudiante extraoficial en régimen de movilidad entrante y estudiante extraoficial por ampliación de conocimientos.  ",
+                "D.- Distingue 4 tipos: Estudiante extraoficial por ampliación de expediente académico, estudiante extraoficial en régimen de movilidad entrante, estudiante extraoficial por ampliación de conocimientos y estudiante extraoficial en régimen de movilidad saliente.  "
             ]
         },
         {
-            "question": "17.- Para que un funcionario pueda obtener la excedencia voluntaria por inter\u00c3\u00a9s particular, es preciso, de acuerdo con lo establecido en el art\u00c3\u00adculo 89 del Estatuto B\u00c3\u00a1sico del Empleado P\u00c3\u00bablico, y sin perjuicio de lo que puedan establecer las leyes de funci\u00c3\u00b3n p\u00c3\u00bablica que se dicten en desarrollo del citado Estatuto:",
+            "question": "17.- Para que un funcionario pueda obtener la excedencia voluntaria por interés particular, es preciso, de acuerdo con lo establecido en el artículo 89 del Estatuto Básico del Empleado Público, y sin perjuicio de lo que puedan establecer las leyes de función pública que se dicten en desarrollo del citado Estatuto:",
             "options": [
-                "A.- Que el funcionario haya prestado servicios, al menos, los cinco a\u00c3\u00b1os inmediatamente anteriores en la Adminis traci\u00c3\u00b3n p\u00c3\u00babl ica de que se trate.  ",
-                "B.- Que el funcionario haya prestado servicios ininterrumpidos, al menos, cinco a\u00c3\u00b1os en la Administraci\u00c3\u00b3n p\u00c3\u00bablica de que se trate.  ",
-                "C.- Que el funcionario haya prest ado servicios ininterrumpidos, al menos, los cinco a\u00c3\u00b1os inmediatamente anteriores en cualquiera de las Administraciones p\u00c3\u00bablicas.   ",
-                "D.- Que el funcionario haya prestado servicios, al menos, cinco a\u00c3\u00b1os en cualquiera de las Administraciones p\u00c3\u00bablicas. "
+                "A.- Que el funcionario haya prestado servicios, al menos, los cinco años inmediatamente anteriores en la Administración pública de que se trate.  ",
+                "B.- Que el funcionario haya prestado servicios ininterrumpidos, al menos, cinco años en la Administración pública de que se trate.  ",
+                "C.- Que el funcionario haya prestado servicios ininterrumpidos, al menos, los cinco años inmediatamente anteriores en cualquiera de las Administraciones públicas.   ",
+                "D.- Que el funcionario haya prestado servicios, al menos, cinco años en cualquiera de las Administraciones públicas.  "
             ]
         },
         {
-            "question": "18.- De conformidad con lo establecido en el art\u00c3\u00adculo 8 del Reglamento de pro visi\u00c3\u00b3n de puestos de trabajo del personal funcionario de administraci\u00c3\u00b3n y servicios de la Universidad de",
+            "question": "18.- De conformidad con lo establecido en el artículo 8 del Reglamento de provisión de puestos de trabajo del personal funcionario de administración y servicios de la Universidad de",
             "options": [
-                "A.- Un Presidente, un s ecretario y tres vocales, dos de ellos designados por  sorteo.  ",
-                "B.- Un Presidente, un s ecretario y cuatro vocales designados por sorteo.  ",
-                "C.- Un Presidente, un s ecretario y cuatro vocales, nombrados por la Gerencia.  ",
-                "D.- Un Presidente, un s ecretario y cuatro vocales, dos de ellos designados por sorteo.   "
+                "A.- Un Presidente, un secretario y tres vocales, dos de ellos designados por sorteo.  ",
+                "B.- Un Presidente, un secretario y cuatro vocales designados por sorteo.  ",
+                "C.- Un Presidente, un secretario y cuatro vocales, nombrados por la Gerencia.  ",
+                "D.- Un Presidente, un secretario y cuatro vocales, dos de ellos designados por sorteo.   "
             ]
         },
         {
-            "question": "19.- De conformidad con el art\u00c3\u00adculo 15 del Real Decreto 1312/2007, el n\u00c3\u00bamero de ponentes necesarios para informar cada solicitud presentada a evaluaci\u00c3\u00b3n ser\u00c3\u00a1 de:",
-            "options": []
+            "question": "19.- De conformidad con el artículo 15 del Real Decreto 1312/2007, el número de ponentes necesarios para informar cada solicitud presentada a evaluación será de:",
+            "options": [
+				"A.- Al menos 2. ",
+				"B.- Al menos 3. ",
+				"C.- Al menos 4. ",
+				"D.- No es necesario que sea informada la solicitud."
+			]
         },
         {
-            "question": "20.- Seg\u00c3\u00ban establece el art\u00c3\u00adculo 12 de la Resoluci\u00c3\u00b3n de 15 de marzo de 2023, de la Direcci\u00c3\u00b3n General de Coordinaci\u00c3\u00b3n Universitaria, por la que se hace p\u00c3\u00bablico el Acuerdo de 1 de marzo de 2023, de la Comisi\u00c3\u00b3n del Distrito \u00c3\u0161nico Universitario de Andaluc\u00c3\u00ada, por el que se establece el procedimiento de admisi\u00c3\u00b3n para el curso 2023 -2024, en los estudios universitarios de Grado  \u00c2\u00bfcu\u00c3\u00a1l ser\u00c3\u00ada el porcentaje de reserva establecido dentro del proceso de admisi\u00c3\u00b3n a Grados en las Universidades P\u00c3\u00bablicas de Andaluc\u00c3\u00ada?",
+            "question": "20.- Según establece el artículo 12 de la Resolución de 15 de marzo de 2023, de la Dirección General de Coordinación Universitaria, por la que se hace público el Acuerdo de 1 de marzo de 2023, de la Comisión del Distrito Único Universitario de Andalucía, por el que se establece el procedimiento de admisión para el curso 2023 -2024, en los estudios universitarios de Grado  ¿cuál sería el porcentaje de reserva establecido dentro del proceso de admisión a Grados en las Universidades Públicas de Andalucía?",
             "options": [
                 "A.- No hay plazas reservadas.   ",
                 "B.- El 1%.  ",
@@ -174,46 +183,46 @@
         {
             "question": "21.- Los reales decretos son:",
             "options": [
-                "A.- Una manifestaci\u00c3\u00b3n de la potestad reglamentaria del gobierno.  ",
-                "B.- Una norma legal del gobierno que requiere autorizaci\u00c3\u00b3n de las Cortes Generales.  ",
+                "A.- Una manifestación de la potestad reglamentaria del gobierno.  ",
+                "B.- Una norma legal del gobierno que requiere autorización de las Cortes Generales.  ",
                 "C.- Una norma legal del gobierno que se dicta en supuestos de urgente necesidad.  ",
-                "D.- Una disposici\u00c3\u00b3n administrativa de car\u00c3\u00a1cter general de un Ministerio.  "
+                "D.- Una disposición administrativa de carácter general de un Ministerio.  "
             ]
         },
         {
-            "question": "22.- Seg\u00c3\u00ban lo recogido en el art\u00c3\u00adculo 4 del Real Decreto 22/2015, e l suplemento europeo al t\u00c3\u00adtulo debe contener una serie de informaci\u00c3\u00b3n, entre la que no figura:",
+            "question": "22.- Según lo recogido en el artículo 4 del Real Decreto 22/2015, el suplemento europeo al título debe contener una serie de información, entre la que no figura:",
             "options": [
-                "A.- Informac i\u00c3\u00b3n sobre el sistema nacional de educaci\u00c3\u00b3n superior.  ",
-                "B.- Informaci\u00c3\u00b3n sobre el nivel de la titulaci\u00c3\u00b3n.  ",
-                "C.- Informaci\u00c3\u00b3n sobre la funci\u00c3\u00b3n de la titulaci\u00c3\u00b3n.  ",
-                "D.- Informaci\u00c3\u00b3n sobre la verificaci\u00c3\u00b3n del correspondiente plan de estudios.  "
+                "A.- Información sobre el sistema nacional de educación superior.  ",
+                "B.- Información sobre el nivel de la titulación.  ",
+                "C.- Información sobre la función de la titulación.  ",
+                "D.- Información sobre la verificación del correspondiente plan de estudios.  "
             ]
         },
         {
-            "question": "23.- Est\u00c3\u00a1 excluido del \u00c3\u00a1m bito de aplicaci\u00c3\u00b3n del Real Decreto 889/2022, seg\u00c3\u00ban lo recogido en el art\u00c3\u00adculo 4:",
+            "question": "23.- Está excluido del ámbito de aplicación del Real Decreto 889/2022, según lo recogido en el artículo 4:",
             "options": [
-                "A.- El reconocimiento profesional previsto en las normas de Derecho de la Uni\u00c3\u00b3n Europea para los ciudadanos y las ciudadanas de la Uni\u00c3\u00b3n Europea .  ",
-                "B.- La determinaci\u00c3\u00b3n de la correspondencia al nivel del MECES de t\u00c3\u00adtulos universitarios ",
-                "C.- La homologaci\u00c3\u00b3n de un t\u00c3\u00adtulo extranjero.  ",
-                "D.- La declaraci\u00c3\u00b3n de equivalencia de un t\u00c3\u00adtulo extranje ro.  "
+                "A.- El reconocimiento profesional previsto en las normas de Derecho de la Unión Europea para los ciudadanos y las ciudadanas de la Unión Europea.  ",
+                "B.- La determinación de la correspondencia al nivel del MECES de títulos universitarios ",
+                "C.- La homologación de un título extranjero.  ",
+                "D.- La declaración de equivalencia de un título extranjero.  "
             ]
         },
         {
-            "question": "24.- Seg\u00c3\u00ban lo establecido en el art\u00c3\u00adculo 4 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtenci\u00c3\u00b3n de t\u00c3\u00adtulos universitarios oficiales de graduado y m\u00c3\u00a1ster universitario, as\u00c3\u00ad como de la transferencia de cr\u00c3\u00a9ditos , en una solicitud de reconocimiento de estudios la emisi\u00c3\u00b3n de informe sobre la adecuaci\u00c3\u00b3n entre las competencias y conocimientos adquiridos de acuerdo con el plan de estudios del t\u00c3\u00adtulo de or igen, o la experiencia laboral o profesional acreditada, y los previstos en el plan de estudios del t\u00c3\u00adtulo de destino, e indicar\u00c3\u00a1n, en su caso, los m\u00c3\u00b3dulos, materias, asignaturas o actividades formativas concretas del t\u00c3\u00adtulo de destino que son objeto de convalidaci\u00c3\u00b3n, y/o el n\u00c3\u00bamero de cr\u00c3\u00a9ditos que son objeto de c\u00c3\u00b3mputo a efectos de la obtenci\u00c3\u00b3n de dicho t\u00c3\u00adtulo de destino, ser\u00c3\u00a1 emitido por :",
+            "question": "24.- Según lo establecido en el artículo 4 de las Normas reguladoras de los reconocimientos de estudios o actividades, y de la experiencia laboral o profesional, a efectos de la obtención de títulos universitarios oficiales de graduado y máster universitario, así como de la transferencia de créditos , en una solicitud de reconocimiento de estudios la emisión de informe sobre la adecuación entre las competencias y conocimientos adquiridos de acuerdo con el plan de estudios del título de origen, o la experiencia laboral o profesional acreditada, y los previstos en el plan de estudios del título de destino, e indicarán, en su caso, los módulos, materias, asignaturas o actividades formativas concretas del título de destino que son objeto de convalidación, y/o el número de créditos que son objeto de cómputo a efectos de la obtención de dicho título de destino, será emitido por :",
             "options": [
-                "A.- Los diferentes Departamentos implicados en la impartici\u00c3\u00b3n de la docencia correspondiente al reconocimiento solicitado.  ",
-                "B.- La Comisi\u00c3\u00b3n de Reconocimientos de Estudios  del correspondiente Centro.  ",
-                "C.- La Comisi\u00c3\u00b3n de Estudios de Grado.  ",
-                "D.- Por la Secretar\u00c3\u00ada del correspondiente Centro - "
+                "A.- Los diferentes Departamentos implicados en la impartición de la docencia correspondiente al reconocimiento solicitado.  ",
+                "B.- La Comisión de Reconocimientos de Estudios del correspondiente Centro.  ",
+                "C.- La Comisión de Estudios de Grado.  ",
+                "D.- Por la Secretaría del correspondiente Centro - "
             ]
         },
         {
-            "question": "25.- Seg\u00c3\u00ban el art\u00c3\u00adculo 100 del EBEP,  el \u00c3\u00b3rgano t\u00c3\u00a9cnico y de trabajo dependiente de la Conferencia Sectorial de Administraci\u00c3\u00b3n P\u00c3\u00bablica  es:",
+            "question": "25.- Según el artículo 100 del EBEP,  el órgano técnico y de trabajo dependiente de la Conferencia Sectorial de Administración Pública  es:",
             "options": [
                 "A.- El Consejo de Estado.  ",
-                "B.- La Federaci\u00c3\u00b3n Espa\u00c3\u00b1ola de Municipios y Provincias.  ",
-                "C.- El Comit\u00c3\u00a9 de Seguridad y Salud.  ",
-                "D.- La Comisi\u00c3\u00b3n de Coordinaci\u00c3\u00b3n del  Empleo P\u00c3\u00bablico.  "
+                "B.- La Federación Española de Municipios y Provincias.  ",
+                "C.- El Comité de Seguridad y Salud.  ",
+                "D.- La Comisión de Coordinación del  Empleado Público.  "
             ]
         }
     ]
