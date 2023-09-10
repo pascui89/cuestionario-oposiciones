@@ -3,8 +3,8 @@
         {
             "question": "1.- Respecto a los sistemas de identificaci\u00f3n de las Administraciones P\u00fablicas:",
             "options": [
-                "A.- Cada Administraci\u00f3n P\u00fablica adoptar\u00e1 las medidas adecuadas para facilitar la verificaci\u00f3n ",
-                "B.- Se entender\u00e1 identificada la Administraci\u00f3n P\u00fablica respecto de la informaci\u00f3n que se ",
+                "A.- Cada Administraci\u00f3n P\u00fablica adoptar\u00e1 las medidas adecuadas para facilitar la verificaci\u00f3n de sus sellos electrónicos.",
+                "B.- Se entender\u00e1 identificada la Administraci\u00f3n P\u00fablica respecto de la informaci\u00f3n que se publique como propia en su portal de internet.",
                 "C.- La relaci\u00f3n de sellos electr\u00f3nicos ser\u00e1 accesible por medios electr\u00f3nicos.  ",
                 "D.- Todas las respuestas anteriores son correctas.  "
             ]
@@ -14,7 +14,7 @@
             "options": [
                 "A.- En que es una excepci\u00f3n a la obligaci\u00f3n de resolver.  ",
                 "B.- En que contra la resoluci\u00f3n que declare la caducidad no cabr\u00e1 recurso alguno.  ",
-                "C.- En que la caducidad se produ ce por paralizaci\u00f3n del procedimiento por causa imputable ",
+                "C.- En que la caducidad se produ ce por paralizaci\u00f3n del procedimiento por causa imputable a la Administración.",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "question": "6.- La Comisi\u00f3n de Posgrado , tras acordar la autorizaci\u00f3n de la defensa y evaluaci\u00f3n de la tesis,",
+            "question": "6.- La Comisi\u00f3n de Posgrado , tras acordar la autorizaci\u00f3n de la defensa y evaluaci\u00f3n de la tesis, designará a dos de los evaluadores propuestos para que realicen un informe pormenorizado de la tesis en el plazo de: ",
             "options": [
                 "A.- Tres meses.  ",
                 "B.- Dos meses.  ",
@@ -57,14 +57,14 @@
         {
             "question": "7.- En caso de actuaci\u00f3n administrativa automatizada podr\u00e1:",
             "options": [
-                "A.- Establecerse previamente el \u00f3rgano u \u00f3rganos competentes, seg\u00fan los casos, para la ",
-                "B.- Establecerse previamente el \u00f3rgano u \u00f3rganos competentes, en su caso, para auditor\u00eda ",
+                "A.- Establecerse previamente el \u00f3rgano u \u00f3rganos competentes, seg\u00fan los casos, para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad .",
+                "B.- Establecerse previamente el \u00f3rgano u \u00f3rganos competentes, en su caso, para auditor\u00eda del sistema de información y de su código fuente .",
                 "C.- Indicarse el \u00f3rgano que debe ser considerado responsable a efectos de impugnaci\u00f3n  ",
                 "D.- Ninguna de las respuestas anteriores es correcta.  "
             ]
         },
         {
-            "question": "8.- De acuerdo c on el art\u00edculo 37 del Real Decreto 822/2021, \u00bf Sobre  qui\u00e9n recae  la",
+            "question": "8.- De acuerdo c on el art\u00edculo 37 del Real Decreto 822/2021, \u00bf Sobre  qui\u00e9n recae  la responsabilidad de garantizar la calidad y el rigor académico y científico de los títulos de formación permanente?",
             "options": [
                 "A.- Sobre las Agencias de calidad.",
                 "B.- Sobre la ANECA.  ",
@@ -73,7 +73,7 @@
             ]
         },
         {
-            "question": "9.- De acuerdo con lo establecido en el art\u00edculo 19 de la Ley 3/2022, en un expediente",
+            "question": "9.- De acuerdo con lo establecido en el art\u00edculo 19 de la Ley 3/2022, en un expediente disciplinario alumno a un alumno ¿A quién corresponde la práctica de cuantas diligencias sean adecuadas para la determinación y comprobación de los hechos ?",
             "options": [
                 "A.- Al Rector . ",
                 "B.- A la Inspecci\u00f3n de Servicios . ",
@@ -82,16 +82,16 @@
             ]
         },
         {
-            "question": "10.- El R.D. 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de",
+            "question": "10.- El R.D. 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional, dispone en su artículo 4:",
             "options": [
-                "A.- El Consejo de Coordinaci\u00f3n Universitaria fijar\u00e1 el n\u00famero m\u00ednimo de cr\u00e9ditos que deban ",
-                "B.- El Gobierno, previo informe del Titular del Ministerio de Educaci\u00f3n, fijar\u00e1 el n\u00famero ",
-                "C.- El Gobierno, previo informe del Consejo de Coordinaci\u00f3n Universitaria, fijar\u00e1 el n\u00famero ",
-                "D.- Las Universidades, previa verificaci\u00f3n  del Consejo de Coordinaci\u00f3n Universitaria fijar\u00e1 el "
+                "A.- El Consejo de Coordinaci\u00f3n Universitaria fijar\u00e1 el n\u00famero m\u00ednimo de cr\u00e9ditos que deban ser asignados a una determinada materia en planes de estudio de enseñanzas conducentes a la obtención de títulos universitarios oficiales con validez en todo el territorio nacional.",
+                "B.- El Gobierno, previo informe del Titular del Ministerio de Educaci\u00f3n, fijar\u00e1 el n\u00famero mínimo de créditos que deban ser asignados a una determinada materia en planes de estudio de enseñanzas conducentes a la obtención de títulos universitarios oficiales con validez en todo el territorio nacional.",
+                "C.- El Gobierno, previo informe del Consejo de Coordinaci\u00f3n Universitaria, fijar\u00e1 el n\u00famero mínimo de créditos que deban ser asignados a una determinada materia en planes de estudio de enseñanzas conducentes a la  obtención de títulos universitarios oficiales con validez en todo el territorio nacional.",
+                "D.- Las Universidades, previa verificaci\u00f3n  del Consejo de Coordinaci\u00f3n Universitaria fijar\u00e1 el número mínimo de créditos que deban ser asignados a una determinada m ateria en planes de estudio de enseñanzas conducentes a la obtención de títulos universitarios oficiales con validez en todo el territorio nacional."
             ]
         },
         {
-            "question": "11.- Seg\u00fan lo dispuesto en el Art\u00edculo 21 de la L.O. 6/2001, de 21 de diciembre, de Universidades,",
+            "question": "11.- Seg\u00fan lo dispuesto en el Art\u00edculo 21 de la L.O. 6/2001, de 21 de diciembre, de Universidades, los Vicerrectores podrán ser nombrados por el Rector:",
             "options": [
                 "A.- Entre los profesores doctores que presten servicios en la Universidad .  ",
                 "B.- Entre los profesores de los Cuerpos Docentes Universitarios doctores que presten servicios en la Universidad.  ",
@@ -103,18 +103,18 @@
             "question": "12.- Seg\u00fan las normas contenidas en la L.O. 6/2001, de 21 de diciembre, de Universidades, es correcto afirmar que:",
             "options": [
                 "A.- Las universidades podr\u00e1n contratar como profesores ayudantes doctores a quienes hayan sido admitidos o a quienes est\u00e9n en condiciones de ser admitidos en los estudios de doctorado.  ",
-                "B.- La contrataci\u00f3n de Ayudant es requerir\u00e1 la evaluaci\u00f3n positiva por parte de la ANECA o ",
+                "B.- La contrataci\u00f3n de Ayudant es requerir\u00e1 la evaluaci\u00f3n positiva por parte de la ANECA o del órgano de evaluación externo que la ley de la Comunidad Autónoma determine.",
                 "C.- El contrato de profesores visitantes ser\u00e1 de car\u00e1cter temporal y con dedicaci\u00f3n exclusivamente a tiempo completo . ",
-                "D.- Las universidades, de acuerdo con sus estatutos, podr\u00e1n nombrar a Profesores Em\u00e9ritos "
+                "D.- Las universidades, de acuerdo con sus estatutos, podr\u00e1n nombrar a Profesores Em\u00e9ritos entre profesoras y profesores jubilados que hayan prestado servicios destacados a la Universidad."
             ]
         },
         {
             "question": "13.- El domicilio es inviolable:",
             "options": [
                 "A.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l salvo en caso de flagrante delito.  ",
-                "B.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular, salvo en ",
-                "C.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin resoluci\u00f3n judicial, salvo en caso de ",
-                "D.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular o "
+                "B.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular, salvo en caso de flagrante delito.",
+                "C.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin resoluci\u00f3n judicial, salvo en caso de flagrante delito.  ",
+                "D.- Ninguna entrada o registro podr\u00e1 hacerse en \u00e9l sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito."
             ]
         },
         {
@@ -127,7 +127,7 @@
             ]
         },
         {
-            "question": "15.- En la Universidad de M\u00e1laga, el  pago  por la Tesorer\u00eda de las obligaciones derivadas de",
+            "question": "15.- En la Universidad de M\u00e1laga, el  pago  por la Tesorer\u00eda de las obligaciones derivadas de operaciones presupuestarias o extrapresupue starias de la Universidad de Málaga se efectuarán con carácter general:",
             "options": [
                 "A.- Por m edio de transferencias bancarias.  ",
                 "B.- Por medios electr\u00f3nicos.  ",
@@ -136,7 +136,7 @@
             ]
         },
         {
-            "question": "16.- Seg\u00fan el art\u00edculo 146 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad",
+            "question": "16.- Seg\u00fan el art\u00edculo 146 del Reglamento de R\u00e9gimen Econ\u00f3mico y Financiero de la Universidad de Málaga, el control financiero podrá referirse a la total actuación de la misma  durante cada ejercicio económico, las actuaciones realizadas y las conclusiones a las que se lleguen , se plasmarán en:",
             "options": [
                 "A.- La memoria anual.  ",
                 "B.- Informes.  ",
@@ -145,7 +145,7 @@
             ]
         },
         {
-            "question": "17.- Se considera falta grave el incumplimiento injustificado de la jornada de trabajo que",
+            "question": "17.- Se considera falta grave el incumplimiento injustificado de la jornada de trabajo que acumulado suponga un mínimo de:",
             "options": [
                 "A.- Veinte horas al mes.  ",
                 "B.- Quince horas al mes.  ",
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "question": "19.- En un procedimiento disciplinario y de acuerdo con el Real Decreto 33/1986, e l pliego de",
+            "question": "19.- En un procedimiento disciplinario y de acuerdo con el Real Decreto 33/1986, el pliego de cargos deberá redactarse de modo claro y preciso en :",
             "options": [
                 "A.- Par\u00e1grafos separados y numerados.   ",
                 "B.- P\u00e1rrafos separados y numerados.  ",
@@ -172,7 +172,7 @@
             ]
         },
         {
-            "question": "20.- De acuerdo con el R eglamento por el que se regula el procedimiento de los concursos de",
+            "question": "20.- De acuerdo con el R eglamento por el que se regula el procedimiento de los concursos de acceso a Cuerpos Docentes Universitarios de la Universidad de Málaga una vez concluido el procedimiento selectivo, el Secretario o Secretaria de la Comisión de Selección entregará en el Servicio de Personal Docente e Investigador la documentación relativa al concurso, en el plazo máximo de :",
             "options": [
                 "A.- Quince  d\u00edas h\u00e1biles.  ",
                 "B.- Diez d\u00edas h\u00e1biles.  ",
@@ -181,16 +181,16 @@
             ]
         },
         {
-            "question": "21.- En el supuesto de una persona que opte a la acreditaci\u00f3n para el Cuerpo de Profesores",
+            "question": "21.- En el supuesto de una persona que opte a la acreditaci\u00f3n para el Cuerpo de Profesores Titulares de Universidad ¿Podrá presentar para la misma un título extranje ro de doctor sin homologar?",
             "options": [
                 "A.- No, debe estar homologado . ",
                 "B.- Si, quedando la acreditaci\u00f3n condicionada a la homologaci\u00f3n del t\u00edtulo . ",
                 "C.- Si, quedando el t\u00edtulo homologado autom\u00e1ticamente .  ",
-                "D.- Si, de manera que la obtenci\u00f3n de la acreditaci\u00f3n surtir\u00e1 id \u00e9nticos efectos que la "
+                "D.- Si, de manera que la obtenci\u00f3n de la acreditaci\u00f3n surtir\u00e1 id \u00e9nticos efectos que la homologación de dicho título ."
             ]
         },
         {
-            "question": "22.- En relaci\u00f3n al r\u00e9gimen presupuestario, la clasificaci\u00f3n funcional las grandes \u00e1reas de",
+            "question": "22.- En relaci\u00f3n al r\u00e9gimen presupuestario, la clasificaci\u00f3n funcional las grandes \u00e1reas de actuación del sector público para la consecución de sus metas institucionales  se denomina:",
             "options": [
                 "A.- Grupos de funciones.   ",
                 "B.- Programas.  ",
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "question": "23.- \u00bfCu\u00e1ntas Comisiones de Reconocimientos de Estudios hay constituidas en la Universidad",
+            "question": "23.- \u00bfCu\u00e1ntas Comisiones de Reconocimientos de Estudios hay constituidas en la Universidad de Málaga?",
             "options": [
                 "A.- Una.  ",
                 "B.- Una por \u00e1rea de conocimiento.  ",
@@ -208,7 +208,7 @@
             ]
         },
         {
-            "question": "24.- La permanencia en los estudios universitarios oficiales correspondientes a una titulaci\u00f3n de Grado para los estudiantes en r\u00e9gimen de dedicaci\u00f3n al estudio a tiempo completo ser\u00e1 de",
+            "question": "24.- La permanencia en los estudios universitarios oficiales correspondientes a una titulaci\u00f3n de Grado para los estudiantes en r\u00e9gimen de dedicaci\u00f3n al estudio a tiempo completo ser\u00e1 de un máximo de : ",
             "options": [
                 "A.-  7 cursos acad\u00e9micos matriculados . ",
                 "B.-  8 cursos acad\u00e9micos matriculados .  ",
