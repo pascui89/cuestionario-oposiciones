@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { getRandomNumber, sendMessageByEmail } from '../helpers';
 import { IQuestions } from '../interfaces/IQuestions';
-import Solutions from '../assets/miscelaneas/data/Miscelanea Solutions.json';
+import Solutions from '../../public/data/Miscelanea Solutions.json';
 import { IMessage } from '../interfaces/IMesagge';
 
 const useFetchJsonData = () => {
