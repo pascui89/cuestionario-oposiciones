@@ -1,29 +1,29 @@
 Miscelánea 1    Miscelánea 2    Miscelánea 3 
-1  C    1  D    1  B 
-2  A    2  C    2  C 
-3  A    3  D    3  D 
-4  A    4  A    4  C 
-5  B    5  A    5  D 
-6  A    6  A    6  D 
-7  C (negativa)    7   B     7   B  
-8  C    8  D    8  B 
-9  D    9  A    9  A 
-10  D    10  C    10  B 
-11  D    11  D    11  D 
-12  D    12  D    12  D 
-13  C    13  A    13  B 
-14  D    14  A    14  D 
-15  B    15  A    15  D 
-16  A    16  C    16  D 
-17  D    17  D    17  B 
-18  B    18  D    18  C 
-19  D    19  D    19  D 
-20  ANULADA     20  A    20  C 
-21  A    21  D    21  B 
-22  C    22  B    22  D 
-23  C    23  A    23  C 
-24  A    24  D    24  A 
-25  C    25  A    25  A 
+1  C            1  D            1  B 
+2  A            2  C            2  C 
+3  A            3  D            3  D 
+4  A            4  A            4  C 
+5  B            5  A            5  D 
+6  A            6  A            6  D 
+7  C (negativa) 7   B           7   B  
+8  C            8  D            8  B 
+9  D            9  A            9  A 
+10  D           10  C           10  B 
+11  D           11  D           11  D 
+12  D           12  D           12  D 
+13  C           13  A           13  B 
+14  D           14  A           14  D 
+15  B           15  A           15  D 
+16  A           16  C           16  D 
+17  D           17  D           17  B 
+18  B           18  D           18  C 
+19  D           19  D           19  D 
+20  ANULADA     20  A           20  C 
+21  A           21  D           21  B 
+22  C           22  B           22  D 
+23  C           23  A           23  C 
+24  A           24  D           24  A 
+25  C           25  A           25  A 
  
 Miscelánea 4    Miscelánea 5    Miscelánea 6 
 1  C    1  D    1  C 
@@ -50,7 +50,8 @@ Miscelánea 4    Miscelánea 5    Miscelánea 6 
 22  C    22  A    22  D 
 23  D    23  A    23  B 
 24  A    24  C    24  D 
-25  B    25  A    25  C Miscelánea 7    Miscelánea 8    Miscelánea 9 
+25  B    25  A    25  C 
+Miscelánea 7    Miscelánea 8    Miscelánea 9 
 1  C    1  C    1  A 
 2  C    2  B    2  A 
 3  D    3  A    3  C 
@@ -102,7 +103,8 @@ Miscelánea 10    Miscelánea 11    Miscelánea 12 
 22  C    22  B    22  B 
 23  B    23  C    23  C 
 24  B    24  C    24  B 
-25  D    25  C    25  A Miscelánea 13    Miscelánea 14    Miscelánea 15 
+25  D    25  C    25  A 
+Miscelánea 13    Miscelánea 14    Miscelánea 15 
 1  B    1  D    1  A 
 2  B    2  B    2  D 
 3  D    3  B    3  A 
@@ -154,7 +156,8 @@ Miscelánea 16    Miscelánea 17    Miscelánea 18 
 22  C    22  A    22  B 
 23  D    23  A    23  D 
 24  A    24  D    24  D 
-25  C    25  C    25  A Miscelánea 19    Miscelánea 20    Miscelánea 21 
+25  C    25  C    25  A 
+Miscelánea 19    Miscelánea 20    Miscelánea 21 
 1  C    1  C    1  A 
 2  A    2  D    2  C 
 3  D    3  D    3  D 
@@ -206,7 +209,8 @@ Miscelánea 22    Miscelánea 23    Miscelánea 24 
 22  D    22  D    22  C 
 23  A    23  B    23  B 
 24  C    24  B    24  A 
-25  B    25  D    25  B Miscelánea 25    Miscelánea 26    Miscelánea 27 
+25  B    25  D    25  B 
+Miscelánea 25    Miscelánea 26    Miscelánea 27 
 1  B    1  B    1  A 
 2  A    2  D    2  A 
 3  A    3  B    3  C 
@@ -258,7 +262,9 @@ Miscelánea 28    Miscelánea 29    Miscelánea 30 
 22  A    22  A    22  D 
 23  C    23  C    23  A 
 24  C    24  C    24  B 
-25    A      25  B    25  D Miscelánea 30 , pregunta 4, cambiar res puesta B por 20/1 Miscelánea 31    Miscelánea 32    Miscelánea 33 
+25    A      25  B    25  D 
+Miscelánea 30 , pregunta 4, cambiar res puesta B por 20/1 
+Miscelánea 31    Miscelánea 32    Miscelánea 33 
 1  B    1  C    1  B 
 2  C    2  D    2  B 
 3  B    3  C    3  C 
@@ -284,7 +290,8 @@ Miscelánea 28    Miscelánea 29    Miscelánea 30 
 23  B    23  A    23  C 
 24  C    24  B    24  A 
 25  B    25  A    25  C 
-          Miscelánea 35/22: Cambiar evaluación extraordinaria p or evaluación compensatoria 
+          
+Miscelánea 35/22: Cambiar evaluación extraordinaria por evaluación compensatoria 
 Miscelánea 34    Miscelánea 35    Miscelánea 36 
 1  C    1  A    1  C 
 2  C    2  D    2  A 
@@ -310,7 +317,9 @@ Miscelánea 34    Miscelánea 35    Miscelánea 36 
 22  D    22  C    22  A 
 23  C    23  A    23  A 
 24  B    24  D    24  B 
-25  C    25  A    25  C Miscelánea 37    Miscelánea 38    Miscelánea 39 
+25  C    25  A    25  C 
+
+Miscelánea 37    Miscelánea 38    Miscelánea 39 
 1  A    1  B    1  A 
 2  B    2  B    2  B 
 3  B    3  C    3  B 
@@ -336,6 +345,7 @@ Miscelánea 34    Miscelánea 35    Miscelánea 36 
 23  B    23  D    23  B 
 24  A    24  D    24  B 
 25  D    25  D    25  D 
+
 Pregunta 37/3: Profesores visitantes extraordinarios 
 Miscelánea 40    Miscelánea 41    Miscelánea 42 
 1  B    1  C    1  D 
@@ -362,7 +372,8 @@ Miscelánea 40    Miscelánea 41    Miscelánea 42 
 22  B    22  B    22  D 
 23  B    23  D    23  D 
 24  C    24  B    24  D 
-25  B    25  D    25  B Miscelánea 43    Miscelánea 44    Miscelánea 45 
+25  B    25  D    25  B 
+Miscelánea 43    Miscelánea 44    Miscelánea 45 
 1  C    1  B    1  C 
 2  D    2  D    2  B 
 3  D    3  B    3  A 
@@ -388,7 +399,8 @@ Miscelánea 40    Miscelánea 41    Miscelánea 42 
 23  B    23  A    23  B 
 24  D    24  D    24  C 
 25  B    25  A    25  C 
-                                            Miscelánea 44/18: R espuesta B: Al Vicerrectorado competente 
+
+Miscelánea 44/18: R espuesta B: Al Vicerrectorado competente 
 Miscelánea 46    Miscelánea 47    Miscelánea 48 
 1  C    1  D    1  D 
 2  A    2  C    2  A 
@@ -414,7 +426,9 @@ Miscelánea 46    Miscelánea 47    Miscelánea 48 
 22  C    22  D    22  B 
 23  B    23  A    23  D 
 24  D    24  B    24  C 
-25  B    25  D    25  A Miscelánea 49    Miscelánea 50    Miscelánea 51 
+25  B    25  D    25  A 
+
+Miscelánea 49    Miscelánea 50    Miscelánea 51 
 1  C    1  C    1  A 
 2  D   2   B    2   C  
 3  C    3  C    3  D 
@@ -466,7 +480,8 @@ Miscelánea 52    Miscelánea 53    Miscelánea 54 
 22  A    22  B    22  A 
 23  D    23  D    23  D 
 24  B    24  D    24  A 
-25  A    25  B    25  B Miscelánea 55    Miscelánea 56    Miscelánea 57 
+25  A    25  B    25  B 
+Miscelánea 55    Miscelánea 56    Miscelánea 57 
 1  D    1  C    1  B 
 2  D    2  B    2  A 
 3  C    3  B    3  C 
@@ -518,7 +533,9 @@ Miscelánea 58    Miscelánea 59    Miscelánea 60 
 22  B    22  A    22  D 
 23  A    23  C    23  A 
 24  D    24  D    24  A 
-25  C    25  B    25  C Miscelánea 61    Miscelánea 62    Miscelánea 63 
+25  C    25  B    25  C 
+
+Miscelánea 61    Miscelánea 62    Miscelánea 63 
 1  B    1  D    1  A 
 2  A    2  C    2  B 
 3  D    3  D    3  C 
@@ -570,16 +587,18 @@ Miscelánea 64    Miscelánea 65    Miscelánea 66 
 22  C    22  C    22  B 
 23  A    23  C    23  C 
 24  D    24  D    24  D 
-25  B    25  C    25  A Miscelánea 67    Miscelánea 68    Miscelánea 69 
-1  B    1  C    1  C 
-2  C    2  B    2  B 
-3  A    3  A    3  A 
-4  C    4  C    4  B 
-5  A    5  B    5  A 
-6  D    6  C    6  C 
-7  C    7  B    7  B 
-8  A    8  A    8  D 
-9  B    9  B    9  A 
+25  B    25  C    25  A 
+
+Miscelánea 67    Miscelánea 68    Miscelánea 69 
+1   B    1   C    1   C 
+2   C    2   B    2   B 
+3   A    3   A    3   A 
+4   C    4   C    4   B 
+5   A    5   B    5   A 
+6   D    6   C    6   C 
+7   C    7   B    7   B 
+8   A    8   A    8   D 
+9   B    9   B    9   A 
 10  A    10  C    10  D 
 11  C    11  A    11  C 
 12  B    12  C    12  C 
@@ -598,15 +617,15 @@ Miscelánea 64    Miscelánea 65    Miscelánea 66 
 25  B    25  A    25  D 
  
 Miscelánea 70    Miscelánea 71    Miscelánea 72 
-1  B    1  A    1  C 
-2  A    2  A    2  B 
-3  D    3  C    3  D 
-4  C    4  B    4  A 
-5  C    5  C    5  D 
-6  C    6  B    6  C 
-7  A    7  A    7  C 
-8  C    8  D    8  A 
-9  D    9  C    9  C 
+1   B    1   A    1   C 
+2   A    2   A    2   B 
+3   D    3   C    3   D 
+4   C    4   B    4   A 
+5   C    5   C    5   D 
+6   C    6   B    6   C 
+7   A    7   A    7   C 
+8   C    8   D    8   A 
+9   D    9   C    9   C 
 10  A    10  A    10  A 
 11  C    11  C    11  D 
 12  A    12  C    12  D 
@@ -622,16 +641,17 @@ Miscelánea 70    Miscelánea 71    Miscelánea 72 
 22  A    22  D    22  C 
 23  D    23  B    23  B 
 24  B    24  B    24  C 
-25  C    25  C    25  A Miscelánea 73    Miscelánea 74    Miscelánea 75 
-1  A    1  C    1  A 
-2  B    2  D    2  A 
-3  D    3  D    3  D 
-4  C    4  A    4  C 
-5  A    5  A    5  D 
-6  C    6  B   6   D  
-7  C    7  D    7  B 
-8  A    8  D    8  A 
-9  A    9  C    9  B 
+25  C    25  C    25  A 
+Miscelánea 73    Miscelánea 74    Miscelánea 75 
+1   A    1   C    1   A 
+2   B    2   D    2   A 
+3   D    3   D    3   D 
+4   C    4   A    4   C 
+5   A    5   A    5   D 
+6   C    6   B   6    D  
+7   C    7   D    7   B 
+8   A    8   D    8   A 
+9   A    9   C    9   B 
 10  D    10  A    10  D 
 11  D    11  B    11  B 
 12  C    12  D    12  B 
@@ -650,15 +670,15 @@ Miscelánea 70    Miscelánea 71    Miscelánea 72 
 25  A    25  D    25  A 
 Miscelanea 74/10: Cambiar en la pregunta incorrecta por correct a 
 Miscelánea 76    Miscelánea 77    Miscelánea 78 
-1  A    1  D    1  A 
-2  B    2  B    2  B 
-3  C    3  D    3  A 
-4  D    4  B    4  D 
-5  D    5  D    5  A 
-6  C    6  D    6  D 
-7  B    7  B    7  A 
-8  B    8  B    8  A 
-9  C    9  C    9  B 
+1   A    1   D    1   A 
+2   B    2   B    2   B 
+3   C    3   D    3   A 
+4   D    4   B    4   D 
+5   D    5   D    5   A 
+6   C    6   D    6   D 
+7   B    7   B    7   A 
+8   B    8   B    8   A 
+9   C    9   C    9   B 
 10  B    10  C    10  B 
 11  A    11  D    11  A 
 12  D    12  A    12  A 
