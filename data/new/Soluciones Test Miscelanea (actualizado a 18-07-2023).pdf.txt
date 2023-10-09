@@ -674,16 +674,17 @@ Miscelánea 76    Miscelánea 77    Miscelánea 78 
 22  A    22  D    22  A 
 23  B    23  B    23  A 
 24  A    24  D    24  C 
-25  B    25  C    25  B Miscelánea 79    Miscelánea 80    Miscelánea 81 
-1  C    1  B    1  B 
-2  A    2  A    2  B 
-3  D    3  C    3  A 
-4  A    4  B    4  C 
-5  B    5  D    5  C 
-6  A    6  B    6  B 
-7  A    7  D    7  B 
-8  B    8  A    8  B 
-9  C    9  A    9  D 
+25  B    25  C    25  B 
+Miscelánea 79    Miscelánea 80    Miscelánea 81 
+1   C      1  B    1  B 
+2   A      2  A    2  B 
+3   D      3  C    3  A 
+4   A      4  B    4  C 
+5   B      5  D    5  C 
+6   A      6  B    6  B 
+7   A      7  D    7  B 
+8   B      8  A    8  B 
+9   C      9  A    9  D 
 10  D    10  D    10  C 
 11  B    11  A    11  C 
 12  B    12  B    12  B 
@@ -702,15 +703,15 @@ Miscelánea 76    Miscelánea 77    Miscelánea 78 
 25  D    25  C    25  B 
 Miscelanea 79/25: Cambiar en la  pregunta correcta por incorrect a      82/14: Ponerla en negativo 
 Miscelánea 82    Miscelánea 83    Miscelánea 84 
-1  D    1  A    1  D 
-2  C    2  B    2  A 
-3  D    3  B    3  C 
-4  C    4  A    4  D 
-5  A    5  B    5  B 
-6  D    6  C    6  C 
-7  A    7  B    7  B 
-8  C    8  B    8  A 
-9  D    9  C    9  D 
+1   D    1   A    1   D 
+2   C    2   B    2   A 
+3   D    3   B    3   C 
+4   C    4   A    4   D 
+5   A    5   B    5   B 
+6   D    6   C    6   C 
+7   A    7   B    7   B 
+8   C    8   B    8   A 
+9   D    9   C    9   D 
 10  A    10  C    10  B 
 11  B    11  B    11  C 
 12  D    12  A    12  A 
@@ -726,16 +727,17 @@ Miscelánea 82    Miscelánea 83    Miscelánea 84 
 22  A    22  A    22  A 
 23  A    23  D    23  D 
 24  C    24  A    24  A 
-25  B    25  B    25  C Miscelánea 85    Miscelánea 86    Miscelánea 87 
-1  D    1  D    1   
-2  B    2  B    2   
-3  C    3  B    3   
-4  D    4  C    4   
-5  D    5  A    5   
-6  C    6  B    6   
-7  B    7  D    7   
-8  B    8  C    8   
-9  B    9  A    9   
+25  B    25  B    25  C 
+Miscelánea 85    Miscelánea 86    Miscelánea 87 
+1   D    1   D    1   
+2   B    2   B    2   
+3   C    3   B    3   
+4   D    4   C    4   
+5   D    5   A    5   
+6   C    6   B    6   
+7   B    7   D    7   
+8   B    8   C    8   
+9   B    9   A    9   
 10  B    10  A    10   
 11  A    11  B    11   
 12  D    12  B    12   
