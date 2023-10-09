@@ -21,7 +21,7 @@ const useFetchJsonData = () => {
     try {
       const response = await fetch(`data/${currentQuestionaryName}.json`);
       const data = await response.json();
-      const file = Solutions.questions.find((f) => f.file === `M-${randomNumber}`);
+      const file: any = Solutions.questions.find((f: any) => f.file === `M-${randomNumber}`);
       const newFormData = {
         ...data,
         questions: data.questions.map((el: any, index: number) => ({
